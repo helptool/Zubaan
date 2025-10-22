@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zubaan — Museum of Souls</title>
+
+<!-- Tailwind CSS CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg: #0e0e0e;
+    --primary: #571728;
+    --secondary: #35005a;
+    --tertiary: #5600a1;
+    --gold: #bd8e20;
+    --text: #e6eef3;
+  }
+
+  body{
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Spectral', serif;
+  }
+
+  .site-title{
+    letter-spacing: 1px;
+    color: var(--gold);
+    text-shadow: 0 2px 14px rgba(189,142,32,0.2);
+  }
+
+  .urdu{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    direction: rtl;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .card{
+    background-color: var(--bg);
+    border: 1px solid var(--tertiary);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(86,0,161,0.5);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(87,23,40,0.7);
+  }
+
+  .chip{
+    background: rgba(189,142,32,0.1);
+    color: var(--gold);
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    margin-right: 0.25rem;
+  }
+
+  .glow{
+    text-shadow: 0 2px 12px rgba(189,142,32,0.2);
+  }
+</style>
+</head>
+<body class="flex flex-col min-h-screen">
+
+<!-- Header -->
+<header class="text-center py-10">
+  <h1 class="text-5xl font-extrabold site-title glow">Zubaan</h1>
+  <p class="text-gray-400 mt-2 text-lg">Museum of Souls</p>
+  <p class="mt-4 max-w-2xl mx-auto text-gray-300">
+    A living archive of words — their origins, echoes, and the souls they carried.
+  </p>
+</header>
+
+<!-- Search -->
+<section class="px-6 mb-10 flex justify-center">
+  <input id="searchInput" type="search" placeholder="Search a word, shayari line, or emotion..."
+         class="w-full md:w-2/3 p-4 rounded-xl border border-[#5600a1] bg-[#35005a] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#bd8e20] text-lg" />
+</section>
+
+<!-- Word Cards -->
+<main id="results" class="px-6 grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto mb-12">
+  <!-- JS inserts cards here -->
+</main>
+
+<!-- Footer -->
+<footer class="py-6 text-center text-sm text-gray-500">
+  Built with ❤ by Aryaman • <span class="uppercase">Zubaan</span>
+</footer>
+
+<script>
+const results = document.getElementById('results');
+const searchInput = document.getElementById('searchInput');
+let data = [];
+
+// Load words.json (must be in data/ folder)
+async function loadData(){
+  try{
+    const res = await fetch('data/words.json');
+    data = await res.json();
+    render(data);
+  } catch(e){
+    results.innerHTML='<div class="col-span-full text-red-400 text-center">Failed to load data.</div>';
+    console.error(e);
+  }
+}
+
+function render(list){
+  results.innerHTML='';
+  if(!list.length){
+    results.innerHTML='<div class="col-span-full text-gray-400 text-center">No matches found.</div>';
+    return;
+  }
+  list.forEach(entry=>{
+    const synonyms=(entry.synonyms||[]).join('، ');
+    const antonyms=(entry.antonyms||[]).join('، ');
+    const urdu=entry.urdu? `<div class="urdu">${entry.urdu}</div>`:'';
+    const origin=entry.origin? `<div class="text-xs text-gray-400">Origin: ${entry.origin}</div>`:'';
+    const poetic=entry.meaning?.poetic? `<div class="mt-2 text-sm italic text-gray-300">"${entry.meaning.poetic}"</div>`:'';
+    const example=entry.example? `<div class="mt-3 text-sm text-gray-200">“${entry.example}”</div>`:'';
+
+    const card=document.createElement('article');
+    card.className='card shadow-lg';
+    card.innerHTML=`
+      <div>${urdu}<h3 class="text-xl font-semibold">${entry.word}</h3>${origin}</div>
+      <div class="mt-2 text-sm"><strong>Meaning:</strong> ${entry.meaning?.english||'-'}<br/>
+      <strong>हिंदी:</strong> ${entry.meaning?.hindi||'-'}<br/>
+      <strong>Poetic:</strong> ${entry.meaning?.poetic||'-'}</div>
+      <div class="mt-2 text-sm"><strong>Synonyms:</strong> ${synonyms||'-'}<br/><strong>Antonyms:</strong> ${antonyms||'-'}</div>
+      ${example}
+    `;
+    results.appendChild(card);
+  });
+}
+
+function searchFilter(q){
+  q=q.trim().toLowerCase();
+  if(!q) return data;
+  return data.filter(e=>JSON.stringify(e).toLowerCase().includes(q));
+}
+
+searchInput.addEventListener('input', e=>{
+  const out=searchFilter(e.target.value);
+  render(out);
+});
+
+loadData();
+</script>
+</body>
+</html>
