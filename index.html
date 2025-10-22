@@ -5,44 +5,42 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Zubaan — Museum of Souls</title>
 
-<!-- Tailwind CSS CDN -->
 <script src="https://cdn.tailwindcss.com"></script>
 
-<!-- Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap" rel="stylesheet">
 
 <style>
-  :root{
+:root{
     --bg: #0e0e0e;
     --primary: #571728;
     --secondary: #35005a;
     --tertiary: #5600a1;
     --gold: #bd8e20;
     --text: #e6eef3;
-  }
+}
 
-  body{
+body{
     background-color: var(--bg);
     color: var(--text);
     font-family: 'Spectral', serif;
-  }
+}
 
-  .site-title{
-    letter-spacing: 1px;
+.site-title{
+    letter-spacing:1px;
     color: var(--gold);
-    text-shadow: 0 2px 14px rgba(189,142,32,0.2);
-  }
+    text-shadow:0 2px 14px rgba(189,142,32,0.2);
+}
 
-  .urdu{
+.urdu{
     font-family: 'Noto Nastaliq Urdu', serif;
     direction: rtl;
     font-size: 1.5rem;
     text-align: right;
     margin-bottom: 0.25rem;
-  }
+}
 
-  .card{
+.card{
     background-color: var(--bg);
     border: 1px solid var(--tertiary);
     border-radius: 1rem;
@@ -54,130 +52,150 @@
     gap: 0.5rem;
     cursor: pointer;
     text-align: left;
-  }
+}
 
-  .card:hover{
+.card:hover{
     transform: translateY(-5px);
     box-shadow: 0 8px 24px rgba(87,23,40,0.7);
-  }
+}
 
-  .chip{
+.chip{
     background: rgba(189,142,32,0.1);
     color: var(--gold);
     padding: 0.15rem 0.5rem;
     border-radius: 999px;
     font-size: 0.8rem;
     margin-right: 0.25rem;
-  }
+    cursor: pointer;
+    display:inline-block;
+}
 
-  .glow{
+.glow{
     text-shadow: 0 2px 12px rgba(189,142,32,0.2);
-  }
+}
 
-  .expandable{
+.expandable{
     display: none;
-  }
+}
 
-  .expandable.show{
+.expandable.show{
     display: block;
-  }
+}
 </style>
 </head>
 <body class="flex flex-col min-h-screen">
 
-<!-- Header -->
 <header class="text-center py-10">
-  <h1 class="text-5xl font-extrabold site-title glow">Zubaan</h1>
-  <p class="text-gray-400 mt-2 text-lg">Museum of Souls</p>
-  <p class="mt-4 max-w-2xl mx-auto text-gray-300">
-    A living archive of words — their origins, echoes, and the souls they carried.
-  </p>
+    <h1 class="text-5xl font-extrabold site-title glow">Zubaan</h1>
+    <p class="text-gray-400 mt-2 text-lg">Museum of Souls</p>
+    <p class="mt-4 max-w-2xl mx-auto text-gray-300">
+        A living interactive dictionary with synonyms, antonyms, and multi-language meanings.
+    </p>
 </header>
 
-<!-- Search -->
 <section class="px-6 mb-10 flex justify-center">
-  <input id="searchInput" type="search" placeholder="Search a word, shayari line, or emotion..."
-         class="w-full md:w-2/3 p-4 rounded-xl border border-[#5600a1] bg-[#35005a] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#bd8e20] text-lg" />
+    <input id="searchInput" type="search" placeholder="Search word, meaning or synonym..."
+           class="w-full md:w-2/3 p-4 rounded-xl border border-[#5600a1] bg-[#35005a] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#bd8e20] text-lg" />
 </section>
 
-<!-- Word Cards -->
 <main id="results" class="px-6 grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto mb-12">
-  <!-- JS inserts cards here -->
 </main>
 
-<!-- Footer -->
 <footer class="py-6 text-center text-sm text-gray-500">
   Built with ❤ by Aryaman • <span class="uppercase">Zubaan</span>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.7.4"></script>
+
 <script>
+let data = [];
 const results = document.getElementById('results');
 const searchInput = document.getElementById('searchInput');
-let data = [];
 
-// Load words.json (must be in data/ folder)
+// Load JSON
 async function loadData(){
-  try{
     const res = await fetch('data/words.json');
     data = await res.json();
     render(data);
-  } catch(e){
-    results.innerHTML='<div class="col-span-full text-red-400 text-center">Failed to load data.</div>';
-    console.error(e);
-  }
 }
 
+// Render cards
 function render(list){
-  results.innerHTML='';
-  if(!list.length){
-    results.innerHTML='<div class="col-span-full text-gray-400 text-center">No matches found.</div>';
-    return;
-  }
-  list.forEach(entry=>{
-    const synonyms = entry.synonyms && entry.synonyms.length ? entry.synonyms.map(s=>`<span class="chip">${s}</span>`).join('') : '—';
-    const antonyms = entry.antonyms && entry.antonyms.length ? entry.antonyms.map(a=>`<span class="chip">${a}</span>`).join('') : '—';
+    results.innerHTML='';
+    if(!list.length){
+        results.innerHTML='<div class="col-span-full text-gray-400 text-center">No matches found.</div>';
+        return;
+    }
 
-    const card = document.createElement('article');
-    card.className='card shadow-lg';
-    card.innerHTML = `
-      <div class="urdu">${entry.urdu || ''}</div>
-      <h3 class="text-xl font-semibold">${entry.word}</h3>
-      <div class="text-xs text-gray-400 mb-2">Origin: ${entry.origin || '-'}</div>
-      <div class="text-sm mb-2">
-        <strong>Meaning:</strong> ${entry.meaning?.english || '-'}<br/>
-        <strong>हिंदी:</strong> ${entry.meaning?.hindi || '-'}
-      </div>
-      <div class="expandable mt-2">
-        ${entry.meaning?.poetic ? `<div class="italic text-gray-300 mb-1">"${entry.meaning.poetic}"</div>` : ''}
-        <div class="mb-1">
-          <strong>Synonyms:</strong> ${synonyms}<br/>
-          <strong>Antonyms:</strong> ${antonyms}
-        </div>
-        ${entry.example ? `<div class="text-sm text-gray-200">“${entry.example}”</div>` : ''}
-      </div>
-    `;
+    list.forEach(entry=>{
+        const synonyms = entry.synonyms && entry.synonyms.length ? entry.synonyms.map(s=>`<span class="chip" data-word="${s}">${s}</span>`).join('') : '—';
+        const antonyms = entry.antonyms && entry.antonyms.length ? entry.antonyms.map(a=>`<span class="chip" data-word="${a}">${a}</span>`).join('') : '—';
 
-    card.addEventListener('click', () => {
-      const expandable = card.querySelector('.expandable');
-      expandable.classList.toggle('show');
+        const card = document.createElement('article');
+        card.id = entry.word;
+        card.className='card shadow-lg';
+        card.innerHTML = `
+            <div class="urdu">${entry.urdu || ''}</div>
+            <h3 class="text-xl font-semibold">${entry.word}</h3>
+            <div class="text-sm mb-1">
+                <strong>English:</strong> ${entry.meaning?.english || '-'}<br/>
+                <strong>Sanskrit:</strong> ${entry.sanskrit || '-'}<br/>
+                <strong>हिंदी:</strong> ${entry.meaning?.hindi || '-'}
+            </div>
+            <div class="expandable mt-2">
+                ${entry.meaning?.poetic ? `<div class="italic text-gray-300 mb-1">"${entry.meaning.poetic}"</div>` : ''}
+                <div class="mb-1"><strong>Synonyms:</strong> ${synonyms}<br/><strong>Antonyms:</strong> ${antonyms}</div>
+                ${entry.example ? `<div class="text-sm text-gray-200">“${entry.example}”</div>` : ''}
+            </div>
+        `;
+
+        card.addEventListener('click', ()=>{
+            const expandable = card.querySelector('.expandable');
+            expandable.classList.toggle('show');
+        });
+
+        results.appendChild(card);
     });
 
-    results.appendChild(card);
-  });
+    // Add click listener for chips
+    document.querySelectorAll('.chip').forEach(chip=>{
+        chip.addEventListener('click', e=>{
+            e.stopPropagation();
+            const word = chip.getAttribute('data-word');
+            const target = document.getElementById(word);
+            if(target){
+                target.scrollIntoView({behavior:'smooth', block:'center'});
+                const exp = target.querySelector('.expandable');
+                if(exp && !exp.classList.contains('show')) exp.classList.add('show');
+            }
+        });
+    });
 }
 
-function searchFilter(q){
-  q=q.trim().toLowerCase();
-  if(!q) return data;
-  return data.filter(e=>JSON.stringify(e).toLowerCase().includes(q));
+// Fuzzy search using Fuse.js
+let fuse;
+function initFuse(){
+    fuse = new Fuse(data, {
+        keys:['word','urdu','meaning.english','meaning.hindi','sanskrit','synonyms','antonyms','meaning.poetic','example'],
+        threshold:0.4,
+        ignoreLocation:true,
+        includeScore:true
+    });
 }
 
 searchInput.addEventListener('input', e=>{
-  const out=searchFilter(e.target.value);
-  render(out);
+    const q = e.target.value.trim();
+    if(!q) render(data);
+    else{
+        const result = fuse.search(q).map(r=>r.item);
+        render(result);
+    }
 });
 
-loadData();
+loadData().then(()=>{
+    initFuse();
+});
 </script>
+
 </body>
 </html>
