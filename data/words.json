@@ -1,28 +1,262 @@
 [
   {
-    "word": "Aftab",
-    "urdu": "آفتاب",
-    "origin": "Persian",
-    "meaning": {
-      "english": "Sun; radiance, revelation",
-      "hindi": "सूरज",
-      "poetic": "A symbol of harsh truth or illuminating pain"
-    },
-    "synonyms":["Sooraj","Noor","Shams"],
-    "antonyms":["Andhera","Zulmat"],
-    "example":"Ek zeher jo Aftab lag raha tha, woh sehra mein Abshaar lag raha tha."
+    "word": "Aa",
+    "urdu": "آ",
+    "sanskrit": "आ",
+    "hindi": "आ",
+    "meaning": "The first letter of Urdu alphabet, used as a vowel sound.",
+    "example": "آ is pronounced like 'A' in apple.",
+    "synonyms": ["A", "Alpha"],
+    "antonyms": []
   },
   {
-    "word": "Abshaar",
-    "urdu":"آبشار",
-    "origin":"Persian",
-    "meaning":{
-      "english":"Waterfall; sudden abundance or relief",
-      "hindi":"झरना",
-      "poetic":"Hope appearing in barren places"
-    },
-    "synonyms":["Jharna","Fawara"],
-    "antonyms":["Sookha","Tanhai"],
-    "example":"Shehr mein Abshaar jaise tu muskurayi thi."
+    "word": "Aao",
+    "urdu": "آؤ",
+    "sanskrit": "आओ",
+    "hindi": "आओ",
+    "meaning": "A call to come or invitation to join.",
+    "example": "آؤ, let's walk to the garden.",
+    "synonyms": ["Come", "Join"],
+    "antonyms": ["Go", "Leave"]
+  },
+  {
+    "word": "Aao_Bhagat",
+    "urdu": "آؤ_بھگت",
+    "sanskrit": "आओ_भगत",
+    "hindi": "आओ_भगत",
+    "meaning": "Invitation to a devotee or follower.",
+    "example": "آؤ_بھگت, join the devotional gathering.",
+    "synonyms": ["Devotee", "Follower"],
+    "antonyms": []
+  },
+  {
+    "word": "Aooli",
+    "urdu": "آؤلی",
+    "sanskrit": "आउली",
+    "hindi": "आउली",
+    "meaning": "A type of plant or flower.",
+    "example": "The Aooli flower blooms in spring.",
+    "synonyms": ["Flower", "Plant"],
+    "antonyms": []
+  },
+  {
+    "word": "Aooliyan",
+    "urdu": "آؤلیاں",
+    "sanskrit": "आउलियां",
+    "hindi": "आउलियां",
+    "meaning": "Plural form of Aooli, multiple flowers.",
+    "example": "The garden is full of Aooliyan.",
+    "synonyms": ["Flowers", "Blossoms"],
+    "antonyms": []
+  },
+  {
+    "word": "Aoolay",
+    "urdu": "آؤلے",
+    "sanskrit": "आउले",
+    "hindi": "आउले",
+    "meaning": "Another form of Aooli plant, used regionally.",
+    "example": "Aoolay are rare in northern gardens.",
+    "synonyms": ["Plant", "Flora"],
+    "antonyms": []
+  },
+  {
+    "word": "Out",
+    "urdu": "آؤٹ",
+    "sanskrit": "आउट",
+    "hindi": "आउट",
+    "meaning": "Indicates something is outside or away.",
+    "example": "The cat is out of the house.",
+    "synonyms": ["Outside", "Exit"],
+    "antonyms": ["Inside", "Enter"]
+  },
+  {
+    "word": "Aaon",
+    "urdu": "آؤں",
+    "sanskrit": "आओं",
+    "hindi": "आओं",
+    "meaning": "I come; first person singular form.",
+    "example": "آؤں to the party tomorrow evening.",
+    "synonyms": ["I come", "Arrive"],
+    "antonyms": ["Leave", "Go"]
+  },
+  {
+    "word": "Ai",
+    "urdu": "آئ",
+    "sanskrit": "आइ",
+    "hindi": "आइ",
+    "meaning": "Exclamation, used to express surprise or attention.",
+    "example": "آئ! Watch out for the car.",
+    "synonyms": ["Hey", "Oh"],
+    "antonyms": []
+  },
+  {
+    "word": "Aibis",
+    "urdu": "آئبس",
+    "sanskrit": "आइबिस",
+    "hindi": "आइबिस",
+    "meaning": "Refers to the bird Ibis.",
+    "example": "The Aibis is a long-legged wading bird.",
+    "synonyms": ["Ibis"],
+    "antonyms": []
+  },
+  {
+    "word": "Aita",
+    "urdu": "آئتا",
+    "sanskrit": "आइता",
+    "hindi": "आइता",
+    "meaning": "He/She comes; third person singular.",
+    "example": "آئتا is on his way to the market.",
+    "synonyms": ["Arrives", "Comes"],
+    "antonyms": ["Leaves", "Goes"]
+  },
+  {
+    "word": "Air",
+    "urdu": "آئر",
+    "sanskrit": "आइर",
+    "hindi": "आइर",
+    "meaning": "Atmosphere; the mixture of gases around us.",
+    "example": "Fresh Air is essential for health.",
+    "synonyms": ["Atmosphere", "Breeze"],
+    "antonyms": ["Vacuum"]
+  },
+  {
+    "word": "Air_Land",
+    "urdu": "آئر_لینڈ",
+    "sanskrit": "आइर_लैंड",
+    "hindi": "आइर_लैंड",
+    "meaning": "The country Ireland in Europe.",
+    "example": "Air_Land is famous for its green landscapes.",
+    "synonyms": ["Ireland", "Eire"],
+    "antonyms": []
+  },
+  {
+    "word": "Aires",
+    "urdu": "آئرس",
+    "sanskrit": "आइरस",
+    "hindi": "आइरस",
+    "meaning": "Refers to iris flower or eye part.",
+    "example": "The iris blooms beautifully in spring.",
+    "synonyms": ["Iris", "Flower"],
+    "antonyms": []
+  },
+  {
+    "word": "Airstan",
+    "urdu": "آئرستان",
+    "sanskrit": "आइरस्तान",
+    "hindi": "आइरस्तान",
+    "meaning": "A fictional or poetic land.",
+    "example": "Airstan is described in ancient poetry.",
+    "synonyms": ["Land", "Country"],
+    "antonyms": []
+  },
+  {
+    "word": "Airstani",
+    "urdu": "آئرستانی",
+    "sanskrit": "आइरस्तानी",
+    "hindi": "आइरस्तानी",
+    "meaning": "Person from Airstan.",
+    "example": "He is an Airstani by birth.",
+    "synonyms": ["Citizen", "Native"],
+    "antonyms": []
+  },
+  {
+    "word": "Airstaniyon",
+    "urdu": "آئرستانیوں",
+    "sanskrit": "आइरस्तानियों",
+    "hindi": "आइरस्तानियों",
+    "meaning": "Plural: people of Airstan.",
+    "example": "The Airstaniyon celebrate their festival annually.",
+    "synonyms": ["Citizens", "Natives"],
+    "antonyms": []
+  },
+  {
+    "word": "Airesz",
+    "urdu": "آئرسز",
+    "sanskrit": "आइर्सज़",
+    "hindi": "आइर्सज़",
+    "meaning": "Plural of Iris (flower or eye part).",
+    "example": "The garden has many colorful Airesz.",
+    "synonyms": ["Irises", "Flowers"],
+    "antonyms": []
+  },
+  {
+    "word": "Irish",
+    "urdu": "آئرش",
+    "sanskrit": "आइरश",
+    "hindi": "आइरश",
+    "meaning": "Relating to Ireland or its people.",
+    "example": "Irish music is very popular worldwide.",
+    "synonyms": ["Eire", "Celtic"],
+    "antonyms": []
+  },
+  {
+    "word": "Irshi",
+    "urdu": "آئرشی",
+    "sanskrit": "आइरशी",
+    "hindi": "आइरशी",
+    "meaning": "Alternative form of Irish, used regionally.",
+    "example": "Irshi traditions are rich in folklore.",
+    "synonyms": ["Irish", "Celtic"],
+    "antonyms": []
+  },
+  {
+    "word": "Ireland",
+    "urdu": "آئرلینڈ",
+    "sanskrit": "आइरलैंड",
+    "hindi": "आइरलैंड",
+    "meaning": "Country in north-western Europe.",
+    "example": "Ireland is famous for its green landscapes.",
+    "synonyms": ["Eire", "Irish Republic"],
+    "antonyms": []
+  },
+  {
+    "word": "Iron",
+    "urdu": "آئرن",
+    "sanskrit": "आइरन",
+    "hindi": "आइरन",
+    "meaning": "A metallic chemical element, Fe.",
+    "example": "Iron is essential for blood production.",
+    "synonyms": ["Fe", "Metal"],
+    "antonyms": []
+  },
+  {
+    "word": "Airin",
+    "urdu": "آئرین",
+    "sanskrit": "आइरिन",
+    "hindi": "आइरिन",
+    "meaning": "A female given name.",
+    "example": "Airin is attending the poetry recital.",
+    "synonyms": ["Irene", "Aerin"],
+    "antonyms": []
+  },
+  {
+    "word": "Aizal",
+    "urdu": "آئزل",
+    "sanskrit": "आइज़ल",
+    "hindi": "आइज़ल",
+    "meaning": "A proper noun, could refer to a place or person.",
+    "example": "Aizal was mentioned in the old manuscript.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aizal_of_Man",
+    "urdu": "آئزل_آف_مین",
+    "sanskrit": "आइज़ल_ऑफ_मैन",
+    "hindi": "आइज़ल_ऑफ_मैन",
+    "meaning": "Island or region named Aizal of Man.",
+    "example": "Aizal_of_Man is known for its ancient heritage.",
+    "synonyms": ["Isle", "Region"],
+    "antonyms": []
+  },
+  {
+    "word": "Ice",
+    "urdu": "آئس",
+    "sanskrit": "आइस",
+    "hindi": "आइस",
+    "meaning": "Frozen water.",
+    "example": "Ice cubes are used to cool drinks.",
+    "synonyms": ["Frozen water", "Frost"],
+    "antonyms": ["Water (liquid)"]
   }
 ]
