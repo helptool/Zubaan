@@ -468,5 +468,555 @@
     "example": "The cat went آؤٹ of the house.",
     "synonyms": ["Outside", "Exit"],
     "antonyms": ["Inside", "Enter"]
+  },
+  {
+    "word": "Item",
+    "urdu": "آئٹم",
+    "sanskrit": "आइटम",
+    "hindi": "आइटम",
+    "meaning": "An individual thing or object.",
+    "example": "She bought a new آئٹم from the store.",
+    "synonyms": ["Object", "Thing", "Article"],
+    "antonyms": []
+  },
+  {
+    "word": "Ideology",
+    "urdu": "آئڈیالوجی",
+    "sanskrit": "आइडियोलोजी",
+    "hindi": "आइडियोलोजी",
+    "meaning": "A system of ideas or beliefs.",
+    "example": "The آئڈیالوجی of the group was focused on equality.",
+    "synonyms": ["Belief system", "Philosophy"],
+    "antonyms": []
+  },
+  {
+    "word": "Ideal",
+    "urdu": "آئڈیل",
+    "sanskrit": "आइडियल",
+    "hindi": "आइडियल",
+    "meaning": "A standard of perfection or excellence.",
+    "example": "She is the آئڈیل student in her class.",
+    "synonyms": ["Perfect", "Model", "Exemplar"],
+    "antonyms": ["Flawed", "Imperfect"]
+  },
+  {
+    "word": "Ideals",
+    "urdu": "آئڈیلز",
+    "sanskrit": "आइडियल्स",
+    "hindi": "आइडियल्स",
+    "meaning": "Plural of ideal; principles or standards of excellence.",
+    "example": "Their آئڈیلز guide their decisions.",
+    "synonyms": ["Principles", "Standards"],
+    "antonyms": ["Vices", "Flaws"]
+  },
+  {
+    "word": "Idealism",
+    "urdu": "آئڈیلزم",
+    "sanskrit": "आइडियलिज़्म",
+    "hindi": "आइडियलिज़्म",
+    "meaning": "The practice of forming or pursuing ideals, especially unrealistically.",
+    "example": "He is known for his آئڈیلزم in life.",
+    "synonyms": ["Optimism", "Perfectionism"],
+    "antonyms": ["Pragmatism", "Realism"]
+  },
+  {
+    "word": "Idealist",
+    "urdu": "آئڈیلسٹ",
+    "sanskrit": "आइडियालिस्ट",
+    "hindi": "आइडियालिस्ट",
+    "meaning": "A person who is guided by ideals rather than practical considerations.",
+    "example": "She is an آئڈیلسٹ who believes in honesty above all.",
+    "synonyms": ["Visionary", "Dreamer"],
+    "antonyms": ["Realist", "Pragmatist"]
+  },
+  {
+    "word": "Idealon",
+    "urdu": "آئڈیلوں",
+    "sanskrit": "आइडियलों",
+    "hindi": "आइडियलों",
+    "meaning": "Plural: ideals in Urdu form.",
+    "example": "آئڈیلوں of kindness guide her actions.",
+    "synonyms": ["Principles", "Standards"],
+    "antonyms": ["Vices", "Faults"]
+  },
+  {
+    "word": "Ai",
+    "urdu": "آئی",
+    "sanskrit": "आई",
+    "hindi": "आई",
+    "meaning": "Came; past tense of come.",
+    "example": "She آئی to the gathering yesterday.",
+    "synonyms": ["Came", "Arrived"],
+    "antonyms": ["Left", "Departed"]
+ },
+ {
+    "word": "IES",
+    "urdu": "آئی_ای_ایس",
+    "sanskrit": "आई_ई_एस",
+    "hindi": "आई_ई_एस",
+    "meaning": "Indian Engineering Services; competitive exam for engineers in India.",
+    "example": "He cleared the آئی_ای_ایس exam last year.",
+    "synonyms": ["Indian Engineering Services"],
+    "antonyms": []
+  },
+  {
+    "word": "IMS",
+    "urdu": "آئی_ایم_ایس",
+    "sanskrit": "आई_एम_एस",
+    "hindi": "आई_एम_एस",
+    "meaning": "Institute or Medical Service; abbreviation context-specific.",
+    "example": "She joined the آئی_ایم_ایس for advanced studies.",
+    "synonyms": ["Institute", "Medical Service"],
+    "antonyms": []
+  },
+  {
+    "word": "ICS",
+    "urdu": "آئی_سی_ایس",
+    "sanskrit": "आई_सी_एस",
+    "hindi": "आई_सी_एस",
+    "meaning": "Indian Civil Services; competitive exam for administrative positions.",
+    "example": "He aspires to clear the آئی_سی_ایس exam.",
+    "synonyms": ["Civil Services", "Administration"],
+    "antonyms": []
+  },
+  {
+    "word": "IY",
+    "urdu": "آئی_وائی",
+    "sanskrit": "आई_वाई",
+    "hindi": "आई_वाई",
+    "meaning": "Abbreviation; context-specific (could refer to 'Income Year' or other terms).",
+    "example": "The آئی_وائی was declared by the accountant.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "IT",
+    "urdu": "آئی_ٹی",
+    "sanskrit": "आई_टी",
+    "hindi": "आई_टी",
+    "meaning": "Information Technology.",
+    "example": "He works in the آئی_ٹی sector.",
+    "synonyms": ["Information Technology", "Tech"],
+    "antonyms": []
+  },
+  {
+    "word": "Aijaan",
+    "urdu": "آئیجان",
+    "sanskrit": "आईजान",
+    "hindi": "आईजान",
+    "meaning": "Proper noun or name; context-specific.",
+    "example": "آئیجان attended the ceremony yesterday.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aidmir",
+    "urdu": "آئیدمیر",
+    "sanskrit": "आइद्मिर",
+    "hindi": "आइद्मिर",
+    "meaning": "Proper noun or name; context-specific.",
+    "example": "آئیدمیر was mentioned in the historical text.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aiden",
+    "urdu": "آئیدن",
+    "sanskrit": "आइडेन",
+    "hindi": "आइडेन",
+    "meaning": "A male given name.",
+    "example": "آئیدن is attending the conference.",
+    "synonyms": ["Aidan", "Adan"],
+    "antonyms": []
+  },
+  {
+    "word": "Aidon",
+    "urdu": "آئیدون",
+    "sanskrit": "आइडोन",
+    "hindi": "आइडोन",
+    "meaning": "Proper noun or name; context-specific.",
+    "example": "آئیدون appears in the poem.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ice",
+    "urdu": "آئیس",
+    "sanskrit": "आइस",
+    "hindi": "आइस",
+    "meaning": "Frozen water.",
+    "example": "He added ice cubes to his drink.",
+    "synonyms": ["Frozen water", "Frost"],
+    "antonyms": ["Water (liquid)"]
+  },
+  {
+    "word": "Aimalik",
+    "urdu": "آئیملک",
+    "sanskrit": "आइमलिक",
+    "hindi": "आइमलिक",
+    "meaning": "Proper noun or place name; context-specific.",
+    "example": "آئیملک was described in the old manuscript.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aeen",
+    "urdu": "آئین",
+    "sanskrit": "आइन",
+    "hindi": "आइन",
+    "meaning": "Law, constitution, or principle.",
+    "example": "آئین ensures equal rights for all citizens.",
+    "synonyms": ["Constitution", "Law", "Principle"],
+    "antonyms": []
+  },
+  {
+    "word": "Aeen_Jahabani",
+    "urdu": "آئین_جہابانی",
+    "sanskrit": "आइन_जहाबानी",
+    "hindi": "आइन_जहाबानी",
+    "meaning": "Specific law or constitution related contextually.",
+    "example": "آئین_جہابانی was debated in the assembly.",
+    "synonyms": ["Law", "Regulation"],
+    "antonyms": []
+  },
+  {
+    "word": "Aeen_Jahanbani",
+    "urdu": "آئین_جہانبانی",
+    "sanskrit": "आइन_जहानबानी",
+    "hindi": "आइन_जहानबानी",
+    "meaning": "Specific law or governance principle; context-specific.",
+    "example": "آئین_جہانبانی was enforced in the region.",
+    "synonyms": ["Law", "Regulation"],
+    "antonyms": []
+  },
+  {
+    "word": "Aeen_Nau",
+    "urdu": "آئین_نو",
+    "sanskrit": "आइन_नौ",
+    "hindi": "आइन_नौ",
+    "meaning": "New law or updated constitution.",
+    "example": "The آئین_نو was introduced last year.",
+    "synonyms": ["New Constitution", "Updated Law"],
+    "antonyms": []
+  },
+  {
+    "word": "Aind",
+    "urdu": "آئیند",
+    "sanskrit": "आईंद",
+    "hindi": "आईंद",
+    "meaning": "Future or upcoming.",
+    "example": "آئیند events will be planned carefully.",
+    "synonyms": ["Future", "Coming"],
+    "antonyms": ["Past", "Previous"]
+  },
+  {
+    "word": "Aeeno",
+    "urdu": "آئینوں",
+    "sanskrit": "आइनों",
+    "hindi": "आइनों",
+    "meaning": "Plural form of آئین; laws or constitutions.",
+    "example": "آئینوں ensure justice in society.",
+    "synonyms": ["Laws", "Regulations"],
+    "antonyms": []
+  },
+  {
+    "word": "Aenge",
+    "urdu": "آئینگے",
+    "sanskrit": "आइएंगे",
+    "hindi": "आइएंगे",
+    "meaning": "Will come; future tense of coming.",
+    "example": "They آئینگے to the meeting tomorrow.",
+    "synonyms": ["Will come", "Arrive"],
+    "antonyms": ["Left", "Departed"]
+  },
+  {
+    "word": "Aina",
+    "urdu": "آئینہ",
+    "sanskrit": "आइना",
+    "hindi": "आइना",
+    "meaning": "Mirror; reflective surface.",
+    "example": "He looked at his reflection in the آئینہ.",
+    "synonyms": ["Mirror", "Glass"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Bein",
+    "urdu": "آئینہ_بیں",
+    "sanskrit": "आइना_बीन",
+    "hindi": "आइना_बीन",
+    "meaning": "Mirror viewer or observer; context-specific.",
+    "example": "The آئینہ_بیں carefully inspected the hall.",
+    "synonyms": ["Observer", "Mirror inspector"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Dar",
+    "urdu": "آئینہ_دار",
+    "sanskrit": "आइना_दार",
+    "hindi": "आइना_दार",
+    "meaning": "Holder or possessor of a mirror; context-specific.",
+    "example": "The آئینہ_دار maintained the mirrors in palace.",
+    "synonyms": ["Mirror holder", "Custodian"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Daron",
+    "urdu": "آئینہ_داروں",
+    "sanskrit": "आइना_दारों",
+    "hindi": "आइना_दारों",
+    "meaning": "Plural of آئینہ_دار; holders of mirrors.",
+    "example": "آئینہ_داروں maintained the royal mirrors.",
+    "synonyms": ["Mirror holders", "Custodians"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Dan",
+    "urdu": "آئینہ_دان",
+    "sanskrit": "आइना_दान",
+    "hindi": "आइना_दान",
+    "meaning": "Mirror expert or someone knowledgeable about mirrors.",
+    "example": "The آئینہ_دان advised on mirror placements.",
+    "synonyms": ["Mirror expert", "Specialist"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Zar",
+    "urdu": "آئینہ_زار",
+    "sanskrit": "आइना_जार",
+    "hindi": "आइना_जार",
+    "meaning": "Mirror place or mirror bazaar; context-specific.",
+    "example": "He visited the آئینہ_زار to buy decorative mirrors.",
+    "synonyms": ["Mirror market", "Mirror shop"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Posh",
+    "urdu": "آئینہ_پوش",
+    "sanskrit": "आइना_पोश",
+    "hindi": "आइना_पोश",
+    "meaning": "Mirror-covered or reflective; context-specific.",
+    "example": "The آئینہ_پوش wall reflected the sunlight beautifully.",
+    "synonyms": ["Reflective", "Mirror-covered"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Poshon",
+    "urdu": "آئینہ_پوشوں",
+    "sanskrit": "आइना_पोशों",
+    "hindi": "आइना_पोशों",
+    "meaning": "Plural form of آئینہ_پوش; reflective objects.",
+    "example": "آئینہ_پوشوں lined the corridor.",
+    "synonyms": ["Reflective objects", "Mirror-covered items"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Gadaz",
+    "urdu": "آئینہ_گداز",
+    "sanskrit": "आइना_गदाज़",
+    "hindi": "आइना_गदाज़",
+    "meaning": "Mirror-related craftsman or artisan; context-specific.",
+    "example": "The آئینہ_گداز polished all mirrors meticulously.",
+    "synonyms": ["Mirror artisan", "Craftsman"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Guldaz",
+    "urdu": "آئینہ_گلداز",
+    "sanskrit": "आइना_गुलदाज़",
+    "hindi": "आइना_गुलदाज़",
+    "meaning": "Mirror holder or decorator; context-specific.",
+    "example": "The آئینہ_گلداز decorated the palace hall with mirrors.",
+    "synonyms": ["Mirror decorator", "Holder"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina-e",
+    "urdu": "آئینہء",
+    "sanskrit": "आइना-ए",
+    "hindi": "आइना-ए",
+    "meaning": "Possessive form of آئینہ; related to mirror.",
+    "example": "آئینہء reflects the soul of the room.",
+    "synonyms": ["Mirror's", "Reflective"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina_Tabi",
+    "urdu": "آئینہطبع",
+    "sanskrit": "आइना_तबी",
+    "hindi": "आइना_तबी",
+    "meaning": "Nature of mirror; reflective characteristic.",
+    "example": "آئینہطبع objects reflected light perfectly.",
+    "synonyms": ["Reflective nature", "Mirror property"],
+    "antonyms": []
+  },
+  {
+    "word": "Aina-e",
+    "urdu": "آئینۂ",
+    "sanskrit": "आइना-ए",
+    "hindi": "आइना-ए",
+    "meaning": "Possessive form of آئین; related to law or constitution.",
+    "example": "آئینۂ rights must be protected.",
+    "synonyms": ["Of the law", "Related to constitution"],
+    "antonyms": []
+  },
+  {
+    "word": "Aini",
+    "urdu": "آئینی",
+    "sanskrit": "आइनी",
+    "hindi": "आइनी",
+    "meaning": "Adjective: relating to law or constitution.",
+    "example": "آئینی documents are essential for legal matters.",
+    "synonyms": ["Legal", "Constitutional"],
+    "antonyms": ["Illegal", "Unlawful"]
+  },
+  {
+    "word": "Ainayat",
+    "urdu": "آئینیت",
+    "sanskrit": "आइनियत",
+    "hindi": "आइनियत",
+    "meaning": "Principle or legality; state of being lawful.",
+    "example": "آئینیت ensures fairness in governance.",
+    "synonyms": ["Legality", "Principle"],
+    "antonyms": ["Illegality", "Violation"]
+  },
+  {
+    "word": "Aine",
+    "urdu": "آئینے",
+    "sanskrit": "आइने",
+    "hindi": "आइने",
+    "meaning": "Plural of آئینہ; mirrors.",
+    "example": "آئینے lined the walls of the palace.",
+    "synonyms": ["Mirrors", "Reflective surfaces"],
+    "antonyms": []
+  },
+  {
+    "word": "Ivory_Coast",
+    "urdu": "آئیوری_کوسٹ",
+    "sanskrit": "आईवरी_कोस्ट",
+    "hindi": "आईवरी_कोस्ट",
+    "meaning": "Country in West Africa; Côte d'Ivoire.",
+    "example": "آئیوری_کوسٹ is known for its beaches.",
+    "synonyms": ["Côte d'Ivoire", "Ivory Coast"],
+    "antonyms": []
+  },
+  {
+    "word": "Ion",
+    "urdu": "آئیون",
+    "sanskrit": "आइऑन",
+    "hindi": "आइऑन",
+    "meaning": "An atom or molecule with an electric charge.",
+    "example": "آئیون moves in electric fields.",
+    "synonyms": ["Charged particle", "Ionized atom"],
+    "antonyms": []
+  },
+  {
+    "word": "Iodine",
+    "urdu": "آئیوڈین",
+    "sanskrit": "आइऑडिन",
+    "hindi": "आइऑडिन",
+    "meaning": "A chemical element used in medicine and nutrition.",
+    "example": "آئیوڈین prevents goiter.",
+    "synonyms": ["I", "Iodine element"],
+    "antonyms": []
+  },
+  {
+    "word": "Idea",
+    "urdu": "آئیڈیا",
+    "sanskrit": "आइडिया",
+    "hindi": "आइडिया",
+    "meaning": "A thought, plan, or suggestion.",
+    "example": "He shared his آئیڈیا in the meeting.",
+    "synonyms": ["Thought", "Concept", "Plan"],
+    "antonyms": ["Ignorance", "Unawareness"]
+  },
+  {
+    "word": "Ideas",
+    "urdu": "آئیڈیاز",
+    "sanskrit": "आइडियाज़",
+    "hindi": "आइडियाज़",
+    "meaning": "Plural of idea; thoughts, plans, or suggestions.",
+    "example": "He shared many آئیڈیاز in the brainstorming session.",
+    "synonyms": ["Concepts", "Thoughts", "Plans"],
+    "antonyms": ["Ignorance", "Unawareness"]
+  },
+  {
+    "word": "Ideology",
+    "urdu": "آئیڈیالوجی",
+    "sanskrit": "आइडियोलॉजी",
+    "hindi": "आइडियोलॉजी",
+    "meaning": "A system of beliefs or principles.",
+    "example": "The آئیڈیالوجی of the party focused on equality.",
+    "synonyms": ["Belief system", "Philosophy"],
+    "antonyms": []
+  },
+  {
+    "word": "Ideal",
+    "urdu": "آئیڈیل",
+    "sanskrit": "आइडियल",
+    "hindi": "आइडियल",
+    "meaning": "A model of perfection or excellence.",
+    "example": "She is the آئیڈیل student of the class.",
+    "synonyms": ["Perfect", "Model", "Exemplar"],
+    "antonyms": ["Flawed", "Imperfect"]
+  },
+  {
+    "word": "Idealism",
+    "urdu": "آئیڈیلزم",
+    "sanskrit": "आइडियलिज़्म",
+    "hindi": "आइडियलिज़्म",
+    "meaning": "Practice of pursuing ideals, often unrealistically.",
+    "example": "He is known for his آئیڈیلزم in life.",
+    "synonyms": ["Optimism", "Perfectionism"],
+    "antonyms": ["Pragmatism", "Realism"]
+  },
+  {
+    "word": "Idealist",
+    "urdu": "آئیڈیلسٹ",
+    "sanskrit": "आइडियालिस्ट",
+    "hindi": "आइडियालिस्ट",
+    "meaning": "A person guided by ideals rather than practicality.",
+    "example": "She is an آئیڈیلسٹ who values honesty above all.",
+    "synonyms": ["Visionary", "Dreamer"],
+    "antonyms": ["Realist", "Pragmatist"]
+  },
+  {
+    "word": "Icon",
+    "urdu": "آئیکون",
+    "sanskrit": "आइकॉन",
+    "hindi": "आइकॉन",
+    "meaning": "A symbol or representation; a famous person.",
+    "example": "He is an آئیکون in the music industry.",
+    "synonyms": ["Symbol", "Figure", "Legend"],
+    "antonyms": []
+  },
+  {
+    "word": "Iggy",
+    "urdu": "آئیگی",
+    "sanskrit": "इगी",
+    "hindi": "इगी",
+    "meaning": "Proper noun; name.",
+    "example": "آئیگی attended the concert yesterday.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aain",
+    "urdu": "آئیں",
+    "sanskrit": "आएँ",
+    "hindi": "आएँ",
+    "meaning": "Plural imperative of come; 'let them come'.",
+    "example": "آئیں to the gathering on time.",
+    "synonyms": ["Come", "Arrive"],
+    "antonyms": ["Leave", "Depart"]
+  },
+  {
+    "word": "Aaiye",
+    "urdu": "آئیے",
+    "sanskrit": "आईए",
+    "hindi": "आईए",
+    "meaning": "Polite imperative of come; 'please come'.",
+    "example": "آئیے and join us for tea.",
+    "synonyms": ["Please come", "Join us"],
+    "antonyms": ["Go", "Leave"]
   }
 ]
