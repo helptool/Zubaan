@@ -1,0 +1,28 @@
+[
+  {
+    "word": "Aftab",
+    "urdu": "آفتاب",
+    "origin": "Persian",
+    "meaning": {
+      "english": "Sun; radiance, revelation",
+      "hindi": "सूरज",
+      "poetic": "A symbol of harsh truth or illuminating pain"
+    },
+    "synonyms":["Sooraj","Noor","Shams"],
+    "antonyms":["Andhera","Zulmat"],
+    "example":"Ek zeher jo Aftab lag raha tha, woh sehra mein Abshaar lag raha tha."
+  },
+  {
+    "word": "Abshaar",
+    "urdu":"آبشار",
+    "origin":"Persian",
+    "meaning":{
+      "english":"Waterfall; sudden abundance or relief",
+      "hindi":"झरना",
+      "poetic":"Hope appearing in barren places"
+    },
+    "synonyms":["Jharna","Fawara"],
+    "antonyms":["Sookha","Tanhai"],
+    "example":"Shehr mein Abshaar jaise tu muskurayi thi."
+  }
+]
