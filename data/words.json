@@ -258,5 +258,215 @@
     "example": "Ice cubes are used to cool drinks.",
     "synonyms": ["Frozen water", "Frost"],
     "antonyms": ["Water (liquid)"]
+  },
+  {
+    "word": "Iceberg",
+    "urdu": "آئس_برگ",
+    "sanskrit": "आइस_बर्ग",
+    "hindi": "आइस_बर्ग",
+    "meaning": "A large floating mass of ice detached from a glacier.",
+    "example": "The ship sailed carefully to avoid the Iceberg.",
+    "synonyms": ["Glacial block", "Ice mass"],
+    "antonyms": []
+  },
+  {
+    "word": "Icing",
+    "urdu": "آئسنگ",
+    "sanskrit": "आइसिंग",
+    "hindi": "आइसिंग",
+    "meaning": "Sweet glaze or frosting applied to cakes.",
+    "example": "The cake was decorated with chocolate icing.",
+    "synonyms": ["Frosting", "Glaze"],
+    "antonyms": []
+  },
+  {
+    "word": "Ice_Cream",
+    "urdu": "آئسکریم",
+    "sanskrit": "आइसक्रीम",
+    "hindi": "आइसक्रीम",
+    "meaning": "A sweet frozen dessert made from milk or cream.",
+    "example": "She enjoyed a scoop of vanilla ice cream.",
+    "synonyms": ["Gelato", "Sorbet"],
+    "antonyms": []
+  },
+  {
+    "word": "Aisa",
+    "urdu": "آئسہ",
+    "sanskrit": "आइसः",
+    "hindi": "आइसः",
+    "meaning": "Used in names or proper nouns; context-specific.",
+    "example": "آئسہ is mentioned in the storybook.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Isis",
+    "urdu": "آئسیس",
+    "sanskrit": "आइसिस",
+    "hindi": "आइसिस",
+    "meaning": "Refers to the Egyptian goddess or related terms.",
+    "example": "The temple was dedicated to Isis.",
+    "synonyms": ["Goddess", "Deity"],
+    "antonyms": []
+  },
+  {
+    "word": "Aish",
+    "urdu": "آئش",
+    "sanskrit": "आइश",
+    "hindi": "आइश",
+    "meaning": "Luxury, comfort, or enjoyment of life.",
+    "example": "He lives a life full of Aish and comfort.",
+    "synonyms": ["Luxury", "Comfort", "Pleasure"],
+    "antonyms": ["Hardship", "Struggle"]
+  },
+  {
+    "word": "iPhones",
+    "urdu": "آئفونز",
+    "sanskrit": "आइफोंज़",
+    "hindi": "आइफोंज़",
+    "meaning": "A line of smartphones designed and marketed by Apple.",
+    "example": "He bought the latest iPhone recently.",
+    "synonyms": ["Apple phone", "Smartphone"],
+    "antonyms": []
+  },
+  {
+    "word": "Oil",
+    "urdu": "آئل",
+    "sanskrit": "आइल",
+    "hindi": "आइल",
+    "meaning": "A viscous liquid used for fuel, lubrication, or cooking.",
+    "example": "Vegetable oil is used for frying.",
+    "synonyms": ["Petrol", "Lubricant"],
+    "antonyms": []
+  },
+  {
+    "word": "Aila",
+    "urdu": "آئلہ",
+    "sanskrit": "आइला",
+    "hindi": "आइला",
+    "meaning": "A proper noun or name, context-specific.",
+    "example": "Aila is a popular name in Urdu literature.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aili",
+    "urdu": "آئلی",
+    "sanskrit": "आइली",
+    "hindi": "आइली",
+    "meaning": "Adjective form of Aila; context-specific.",
+    "example": "The Aili tradition continues in the region.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aima",
+    "urdu": "آئمہ",
+    "sanskrit": "आइमा",
+    "hindi": "आइमा",
+    "meaning": "Refers to a leader or chief, used in certain contexts.",
+    "example": "The Aima guided the people wisely.",
+    "synonyms": ["Leader", "Chief"],
+    "antonyms": []
+  },
+  {
+    "word": "Ayn",
+    "urdu": "آئن",
+    "sanskrit": "आएन",
+    "hindi": "आएन",
+    "meaning": "Eye or vision; also used in names.",
+    "example": "Ayn is watching the sunrise.",
+    "synonyms": ["Eye", "Vision"],
+    "antonyms": []
+  },
+  {
+    "word": "Ayn_Aind",
+    "urdu": "آئن_آئند",
+    "sanskrit": "आएन_आइंद",
+    "hindi": "आएन_आइंद",
+    "meaning": "Compound proper noun; context-specific.",
+    "example": "Ayn_Aind appears in poetic references.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ayn_Saz",
+    "urdu": "آئن_ساز",
+    "sanskrit": "आएन_साज़",
+    "hindi": "आएन_साज़",
+    "meaning": "Instrument maker or craftsman; context-specific.",
+    "example": "آئن_ساز crafted a beautiful musical instrument.",
+    "synonyms": ["Instrument maker", "Artisan"],
+    "antonyms": []
+  },
+  {
+    "word": "Aind",
+    "urdu": "آئند",
+    "sanskrit": "आइंद",
+    "hindi": "आइंद",
+    "meaning": "Future or coming; used in names or phrases.",
+    "example": "آئند events will be announced soon.",
+    "synonyms": ["Future", "Upcoming"],
+    "antonyms": ["Past", "Previous"]
+  },
+  {
+    "word": "Aindagan",
+    "urdu": "آئندگان",
+    "sanskrit": "आइंदगन",
+    "hindi": "आइंदगन",
+    "meaning": "Plural: Those who come or future generations.",
+    "example": "آئندگان will inherit the Earth.",
+    "synonyms": ["Successors", "Future people"],
+    "antonyms": ["Ancestors"]
+  },
+  {
+    "word": "Aynonz",
+    "urdu": "آئنونز",
+    "sanskrit": "आएनॉन्स",
+    "hindi": "आएनॉन्स",
+    "meaning": "Proper noun or technical term; context-specific.",
+    "example": "آئنونز appeared in the historical text.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aina",
+    "urdu": "آئنہ",
+    "sanskrit": "आएनह",
+    "hindi": "आएनह",
+    "meaning": "Mirror or reflective surface.",
+    "example": "He looked at his reflection in the آئنہ.",
+    "synonyms": ["Mirror", "Glass"],
+    "antonyms": []
+  },
+  {
+    "word": "Aini",
+    "urdu": "آئنی",
+    "sanskrit": "आइनी",
+    "hindi": "आइनी",
+    "meaning": "Adjective: relating to a mirror or reflective.",
+    "example": "آئنی surface shone brightly in sunlight.",
+    "synonyms": ["Reflective", "Mirrored"],
+    "antonyms": []
+  },
+  {
+    "word": "Aine",
+    "urdu": "آئنے",
+    "sanskrit": "आइने",
+    "hindi": "आइने",
+    "meaning": "Plural form of mirror; mirrors.",
+    "example": "آئنے lined the walls of the hall.",
+    "synonyms": ["Mirrors", "Glasses"],
+    "antonyms": []
+  },
+  {
+    "word": "Aout",
+    "urdu": "آئوٹ",
+    "sanskrit": "आइआउट",
+    "hindi": "आइआउट",
+    "meaning": "Out; outside or exit.",
+    "example": "The cat went آؤٹ of the house.",
+    "synonyms": ["Outside", "Exit"],
+    "antonyms": ["Inside", "Enter"]
   }
 ]
