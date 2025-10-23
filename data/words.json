@@ -1128,5 +1128,695 @@
     "example": "بچوں نے ندی میں آب_بازی کی۔",
     "synonyms": ["Water play", "Splashing"],
     "antonyms": []
+  },
+  {
+    "word": "Ab_Barar",
+    "urdu": "آب_برار",
+    "sanskrit": "आब_बरार",
+    "hindi": "आब_बरार",
+    "meaning": "Flowing water; stream or continuous water flow.",
+    "example": "آب_برار نے کھیتوں کو سیراب کیا۔",
+    "synonyms": ["Flowing water", "Stream"],
+    "antonyms": ["Stagnant water"]
+  },
+  {
+    "word": "Ab_Bard",
+    "urdu": "آب_برد",
+    "sanskrit": "आब_बर्द",
+    "hindi": "आब_बर्द",
+    "meaning": "Water transport; carrying water.",
+    "example": "آب_برد کے ذریعے پانی گاؤں تک پہنچایا گیا۔",
+    "synonyms": ["Water transport", "Irrigation"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Bardah",
+    "urdu": "آب_بردہ",
+    "sanskrit": "आब_बर्दह",
+    "hindi": "आब_बर्दह",
+    "meaning": "Chilled or cooled water; context-specific.",
+    "example": "آب_بردہ پانی گرمی میں بہت مفید ہے۔",
+    "synonyms": ["Cold water", "Chilled water"],
+    "antonyms": ["Hot water"]
+  },
+  {
+    "word": "Ab_Khura",
+    "urdu": "آب_خورا",
+    "sanskrit": "आब_खुरा",
+    "hindi": "आब_खुरा",
+    "meaning": "Water-consuming or water-eroding; context-specific.",
+    "example": "آب_خورا زمین کی زرخیزی بڑھاتا ہے۔",
+    "synonyms": ["Water-consuming", "Erosive"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Khorda",
+    "urdu": "آب_خوردہ",
+    "sanskrit": "आब_खोर्दह",
+    "hindi": "आब_खोर्दह",
+    "meaning": "Filtered or consumed water; context-specific.",
+    "example": "آب_خوردہ پانی پینے کے قابل ہے۔",
+    "synonyms": ["Filtered water", "Drinking water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kheez",
+    "urdu": "آب_خیز",
+    "sanskrit": "आब_खीज़",
+    "hindi": "आब_खीज़",
+    "meaning": "Fertile land; water-abundant.",
+    "example": "آب_خیز زمین کی فصلیں بہت اچھی ہوتی ہیں۔",
+    "synonyms": ["Fertile", "Water-rich"],
+    "antonyms": ["Arid", "Dry"]
+  },
+  {
+    "word": "Ab_Dar",
+    "urdu": "آب_دار",
+    "sanskrit": "आब_दार",
+    "hindi": "आब_दार",
+    "meaning": "Containing water; watery.",
+    "example": "آب_دار پودے زمین کو نمی دیتے ہیں۔",
+    "synonyms": ["Watery", "Moist"],
+    "antonyms": ["Dry", "Arid"]
+  },
+  {
+    "word": "Ab_Dari",
+    "urdu": "آب_داری",
+    "sanskrit": "आब_दारी",
+    "hindi": "आब_दारी",
+    "meaning": "Water retention or water-bearing property.",
+    "example": "اس علاقے کی آب_داری زرخیزی میں مددگار ہے۔",
+    "synonyms": ["Water-bearing", "Retention"],
+    "antonyms": ["Waterless"]
+  },
+  {
+    "word": "Ab_Dar",
+    "urdu": "آب_در",
+    "sanskrit": "आब_दर",
+    "hindi": "आब_दर",
+    "meaning": "Water channel or water source.",
+    "example": "آب_در کھیتوں میں پانی پہنچاتا ہے۔",
+    "synonyms": ["Channel", "Water source"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Dast",
+    "urdu": "آب_دست",
+    "sanskrit": "आब_दस्त",
+    "hindi": "आब_दस्त",
+    "meaning": "Flowing water or stream; also could mean irrigation.",
+    "example": "آب_دست نے زمین کو ہرا بھرا کیا۔",
+    "synonyms": ["Stream", "Flow"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Dooz",
+    "urdu": "آب_دوز",
+    "sanskrit": "आब_दूज़",
+    "hindi": "आब_दूज़",
+    "meaning": "Water-channeling or irrigation expert; context-specific.",
+    "example": "آب_دوز نے پانی کے نظام کو بہتر بنایا۔",
+    "synonyms": ["Irrigator", "Water distributor"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Dahan",
+    "urdu": "آب_دہاں",
+    "sanskrit": "आब_दहान",
+    "hindi": "आब_दहान",
+    "meaning": "Water source or mouth of a stream.",
+    "example": "آب_دہاں سے پانی کھیتوں تک پہنچتا ہے۔",
+    "synonyms": ["Water source", "Stream mouth"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Dahan",
+    "urdu": "آب_دہن",
+    "sanskrit": "आब_दहन",
+    "hindi": "आब_दहन",
+    "meaning": "Variant spelling of آب_دہاں; water mouth or stream outlet.",
+    "example": "آب_دہن کھیتوں کی زمین کو سیراب کرتا ہے۔",
+    "synonyms": ["Water mouth", "Outlet"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Diyan",
+    "urdu": "آب_دیاں",
+    "sanskrit": "आब_दियान",
+    "hindi": "आब_दियान",
+    "meaning": "Water provisions or supply; context-specific.",
+    "example": "آب_دیاں کھیتوں کے لیے فراہم کی گئی۔",
+    "synonyms": ["Water supply", "Provision"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Deedah",
+    "urdu": "آب_دیدہ",
+    "sanskrit": "आब_दीदह",
+    "hindi": "आब_दीदह",
+    "meaning": "Watery-eyed; full of water or tears.",
+    "example": "اس کی آنکھیں آب_دیدہ تھیں۔",
+    "synonyms": ["Tearful", "Moist-eyed"],
+    "antonyms": ["Dry-eyed"]
+  },
+  {
+    "word": "Ab_Raseedah",
+    "urdu": "آب_رسیدہ",
+    "sanskrit": "आब_रसिदह",
+    "hindi": "आब_रसिदह",
+    "meaning": "Moist, flowing, or soaked with water.",
+    "example": "زمین آب_رسیدہ تھی بارش کے بعد۔",
+    "synonyms": ["Moist", "Watered"],
+    "antonyms": ["Dry", "Arid"]
+  },
+  {
+    "word": "Ab_Rafteh",
+    "urdu": "آب_رفتہ",
+    "sanskrit": "आब_रफ्तह",
+    "hindi": "आब_रफ्तह",
+    "meaning": "Flowing away; water that has passed.",
+    "example": "ندی آب_رفتہ پانی لے گئی۔",
+    "synonyms": ["Flowed", "Passed water"],
+    "antonyms": ["Still", "Stagnant"]
+  },
+  {
+    "word": "Ab_Siyah",
+    "urdu": "آب_سیاہ",
+    "sanskrit": "आब_सियाह",
+    "hindi": "आब_सियाह",
+    "meaning": "Dark-colored water; black water.",
+    "example": "آب_سیاہ ندی میں بہہ رہا تھا۔",
+    "synonyms": ["Dark water", "Black water"],
+    "antonyms": ["Clear water"]
+  },
+  {
+    "word": "Ab_Shaar",
+    "urdu": "آب_شار",
+    "sanskrit": "आब_शार",
+    "hindi": "आब_शार",
+    "meaning": "Waterfall or flowing water; gush of water.",
+    "example": "آب_شار پہاڑ سے نیچے آ رہا تھا۔",
+    "synonyms": ["Waterfall", "Gush"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Shabina",
+    "urdu": "آب_شبینہ",
+    "sanskrit": "आब_शबीनہ",
+    "hindi": "आब_शबीनہ",
+    "meaning": "Water at night; nighttime water source.",
+    "example": "آب_شبینہ نے باغ کی زمین کو سیراب کیا۔",
+    "synonyms": ["Night water", "Evening water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Muqatar",
+    "urdu": "آب_مقطر",
+    "sanskrit": "आब_मुक़तर",
+    "hindi": "आब_मुक़तर",
+    "meaning": "Distilled water or purified water.",
+    "example": "آب_مقطر دوا سازی کے لیے استعمال ہوتا ہے۔",
+    "synonyms": ["Distilled water", "Purified water"],
+    "antonyms": ["Impure water"]
+  },
+  {
+    "word": "Ab_Naye",
+    "urdu": "آب_نائے",
+    "sanskrit": "आब_नाय",
+    "hindi": "आब_नाय",
+    "meaning": "Water of a new channel or source.",
+    "example": "آب_نائے زمین کو ہریالی دیتا ہے۔",
+    "synonyms": ["New water source", "Fresh stream"],
+    "antonyms": ["Old water", "Stale stream"]
+  },
+  {
+    "word": "Ab_Naaye",
+    "urdu": "آب_ناے",
+    "sanskrit": "आब_नाए",
+    "hindi": "आब_नाए",
+    "meaning": "Variant spelling of آب_نائے; fresh or new water.",
+    "example": "آب_ناے نے کھیتوں کو سیراب کیا۔",
+    "synonyms": ["Fresh water", "New stream"],
+    "antonyms": ["Old water", "Stale stream"]
+  },
+  {
+    "word": "Ab_Naqra",
+    "urdu": "آب_نقرہ",
+    "sanskrit": "आब_नक़रा",
+    "hindi": "आब_नक़रा",
+    "meaning": "Silver-colored water; context-specific.",
+    "example": "آب_نقرہ کی سطح چمک رہی تھی۔",
+    "synonyms": ["Silver water", "Shiny water"],
+    "antonyms": ["Dull water"]
+  },
+  {
+    "word": "Ab_Neesan",
+    "urdu": "آب_نیساں",
+    "sanskrit": "आब_नीसान",
+    "hindi": "आब_नीसान",
+    "meaning": "Water of a specific source or spring; context-specific.",
+    "example": "آب_نیساں کی ندی قریب سے گزرتی ہے۔",
+    "synonyms": ["Spring water", "Source water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Ne",
+    "urdu": "آب_نے",
+    "sanskrit": "आब_ने",
+    "hindi": "आब_ने",
+    "meaning": "Water source or specific stream; context-specific.",
+    "example": "آب_نے کھیتوں کو سیراب کیا۔",
+    "synonyms": ["Water source", "Stream"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Ajdad",
+    "urdu": "آب_و_اجداد",
+    "sanskrit": "आब_ओ_अजदाद",
+    "hindi": "आब_ओ_अजदाद",
+    "meaning": "Water and ancestry; lineage-related context.",
+    "example": "آب_و_اجداد کی زمین وراثت میں ملی۔",
+    "synonyms": ["Heritage water", "Lineage stream"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Baad",
+    "urdu": "آب_و_باد",
+    "sanskrit": "आब_ओ_बाद",
+    "hindi": "आब_ओ_बाद",
+    "meaning": "Water and wind; natural elements.",
+    "example": "آب_و_باد نے کھیتوں کو خوشحال بنایا۔",
+    "synonyms": ["Water and wind", "Nature"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Tab",
+    "urdu": "آب_و_تاب",
+    "sanskrit": "आब_ओ_ताब",
+    "hindi": "आब_ओ_ताब",
+    "meaning": "Water and radiance; sparkling or flowing water.",
+    "example": "آب_و_تاب کے مناظر دلکش تھے۔",
+    "synonyms": ["Radiant water", "Sparkling stream"],
+    "antonyms": ["Dull water"]
+  },
+  {
+    "word": "Ab_o_Dana",
+    "urdu": "آب_و_دانہ",
+    "sanskrit": "आब_ओ_दाना",
+    "hindi": "आब_ओ_दाना",
+    "meaning": "Water and grains; irrigation context.",
+    "example": "آب_و_دانہ نے فصلوں کی پیداوار بڑھائی۔",
+    "synonyms": ["Irrigation water", "Grain water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Rang",
+    "urdu": "آب_و_رنگ",
+    "sanskrit": "आब_ओ_रंग",
+    "hindi": "आब_ओ_रंग",
+    "meaning": "Water and color; aesthetic or dyed water.",
+    "example": "آب_و_رنگ نے باغ کو خوبصورت بنایا۔",
+    "synonyms": ["Colored water", "Aesthetic water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Gul",
+    "urdu": "آب_و_گل",
+    "sanskrit": "आब_ओ_गुल",
+    "hindi": "आब_ओ_गुल",
+    "meaning": "Water and flowers; for irrigation or decorative purpose.",
+    "example": "آب_و_گل نے پھولوں کو سیراب کیا۔",
+    "synonyms": ["Flower water", "Irrigation water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_o_Hawa",
+    "urdu": "آب_و_ہوا",
+    "sanskrit": "आब_ओ_हवा",
+    "hindi": "आब_ओ_हवा",
+    "meaning": "Water and air; natural environment or climate context.",
+    "example": "آب_و_ہوا خوشگوار موسم فراہم کرتی ہے۔",
+    "synonyms": ["Water and air", "Climate"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Pash",
+    "urdu": "آب_پاش",
+    "sanskrit": "आब_पाश",
+    "hindi": "आब_पाश",
+    "meaning": "Water sprinkler or distributor; irrigation tool.",
+    "example": "آب_پاش نے کھیتوں میں پانی پہنچایا۔",
+    "synonyms": ["Sprinkler", "Irrigator"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Pashi",
+    "urdu": "آب_پاشی",
+    "sanskrit": "आब_पाशी",
+    "hindi": "आब_पाशी",
+    "meaning": "Act of watering or irrigation.",
+    "example": "آب_پاشی سے فصلیں ہریالی اختیار کر گئیں۔",
+    "synonyms": ["Irrigation", "Watering"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Paneer",
+    "urdu": "آب_پنیر",
+    "sanskrit": "आब_पनीर",
+    "hindi": "आब_पनीर",
+    "meaning": "Water used in dairy processing; context-specific.",
+    "example": "آب_پنیر کی فراہمی دیہی علاقوں میں ضروری ہے۔",
+    "synonyms": ["Dairy water", "Processing water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Peema",
+    "urdu": "آب_پیما",
+    "sanskrit": "आब_पीमा",
+    "hindi": "आब_पीमा",
+    "meaning": "Water measurer; instrument or method to measure water.",
+    "example": "آب_پیما سے پانی کی مقدار معلوم کی گئی۔",
+    "synonyms": ["Water gauge", "Measurer"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Chashm",
+    "urdu": "آب_چشم",
+    "sanskrit": "आब_चश्म",
+    "hindi": "आब_चश्म",
+    "meaning": "Spring or source of water; water eye.",
+    "example": "آب_چشم پہاڑ سے نیچے بہہ رہا تھا۔",
+    "synonyms": ["Spring", "Water source"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kar",
+    "urdu": "آب_کار",
+    "sanskrit": "आब_कार",
+    "hindi": "आब_कार",
+    "meaning": "Water worker; someone managing or distributing water.",
+    "example": "آب_کار نے ندی کے پانی کو کھیتوں میں پہنچایا۔",
+    "synonyms": ["Irrigator", "Water handler"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kari",
+    "urdu": "آب_کاری",
+    "sanskrit": "आब_कारी",
+    "hindi": "आब_कारी",
+    "meaning": "Water management or irrigation work.",
+    "example": "آب_کاری کی وجہ سے زمین ہری بھری ہوگئی۔",
+    "synonyms": ["Irrigation work", "Water management"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kash",
+    "urdu": "آب_کش",
+    "sanskrit": "आब_कश",
+    "hindi": "आब_कश",
+    "meaning": "Water drawer or fetcher; person or device for drawing water.",
+    "example": "آب_کش نے کنویں سے پانی نکالا۔",
+    "synonyms": ["Water drawer", "Fetcher"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kashi",
+    "urdu": "آب_کشی",
+    "sanskrit": "आब_कशी",
+    "hindi": "आब_कशी",
+    "meaning": "Act of drawing water; irrigation process.",
+    "example": "آب_کشی سے کھیتوں کی زمین سیراب ہوئی۔",
+    "synonyms": ["Water drawing", "Irrigation"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Kasheeda",
+    "urdu": "آب_کشیدہ",
+    "sanskrit": "आब_कशीदा",
+    "hindi": "आब_कशीदा",
+    "meaning": "Stretched water channel; extended irrigation system.",
+    "example": "آب_کشیدہ کے ذریعے پانی دور تک پہنچایا گیا۔",
+    "synonyms": ["Extended water", "Channel"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Gah",
+    "urdu": "آب_گاہ",
+    "sanskrit": "आब_गाह",
+    "hindi": "आब_गाह",
+    "meaning": "Water place; pond or reservoir.",
+    "example": "آب_گاہ میں مچھلیاں پائی جاتی ہیں۔",
+    "synonyms": ["Pond", "Reservoir"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Gul",
+    "urdu": "آب_گل",
+    "sanskrit": "आब_गुल",
+    "hindi": "आब_गुल",
+    "meaning": "Water with flowers; floral irrigation or decorative water.",
+    "example": "آب_گل نے باغ کے پھول سیراب کیے۔",
+    "synonyms": ["Flower water", "Decorative water"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Gulrang",
+    "urdu": "آب_گلرنگ",
+    "sanskrit": "आब_गुलरंग",
+    "hindi": "आब_गुलरंग",
+    "meaning": "Colored water; decorative or tinted water.",
+    "example": "آب_گلرنگ نے تالاب کی خوبصورتی بڑھائی۔",
+    "synonyms": ["Colored water", "Tinted water"],
+    "antonyms": ["Clear water"]
+  },
+  {
+    "word": "Ab_Goon",
+    "urdu": "آب_گوں",
+    "sanskrit": "आब_गूँ",
+    "hindi": "आब_गूँ",
+    "meaning": "Water-like; watery in quality or appearance.",
+    "example": "آب_گوں رنگ نے تالاب کو حسین بنایا۔",
+    "synonyms": ["Watery", "Liquid-like"],
+    "antonyms": ["Dry", "Solid"]
+  },
+  {
+    "word": "Ab_Yari",
+    "urdu": "آب_یاری",
+    "sanskrit": "आब_यारी",
+    "hindi": "आब_यारी",
+    "meaning": "Irrigation or water supply work.",
+    "example": "آب_یاری کے بغیر کھیت خشک رہ جاتے۔",
+    "synonyms": ["Irrigation", "Water supply"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Yakh",
+    "urdu": "آب_یخ",
+    "sanskrit": "आब_यख",
+    "hindi": "आब_यख",
+    "meaning": "Ice or frozen water.",
+    "example": "گرمی میں آب_یخ پانی بہت مفید ہے۔",
+    "synonyms": ["Ice", "Frozen water"],
+    "antonyms": ["Water", "Liquid"]
+  },
+  {
+    "word": "Aba",
+    "urdu": "آبا",
+    "sanskrit": "आबा",
+    "hindi": "आबा",
+    "meaning": "Forefathers; ancestry.",
+    "example": "ہم اپنے آبا کی تعلیمات کو یاد رکھتے ہیں۔",
+    "synonyms": ["Ancestors", "Forefathers"],
+    "antonyms": []
+  },
+  {
+    "word": "Aba_o_Ajdad",
+    "urdu": "آبا_ؤ_اجداد",
+    "sanskrit": "आबा_ओ_अजदाद",
+    "hindi": "आबा_ओ_अजदाद",
+    "meaning": "Lineage and ancestors; heritage.",
+    "example": "آبا_ؤ_اجداد کی زمین ہماری میراث ہے۔",
+    "synonyms": ["Heritage", "Ancestry"],
+    "antonyms": []
+  },
+  {
+    "word": "Aba_Presti",
+    "urdu": "آبا_پرستی",
+    "sanskrit": "आबा_प्रस्ती",
+    "hindi": "आबा_प्रस्ती",
+    "meaning": "Reverence for ancestors; ancestor worship.",
+    "example": "آبا_پرستی ہماری ثقافت کا حصہ ہے۔",
+    "synonyms": ["Ancestor worship", "Ancestral reverence"],
+    "antonyms": []
+  },
+  {
+    "word": "Abā",
+    "urdu": "آباء",
+    "sanskrit": "आबā",
+    "hindi": "आबā",
+    "meaning": "Fathers; male ancestors.",
+    "example": "آباء کی تعلیمات آج بھی اہم ہیں۔",
+    "synonyms": ["Fathers", "Ancestors"],
+    "antonyms": []
+  },
+  {
+    "word": "Abāo",
+    "urdu": "آباؤ",
+    "sanskrit": "आबाओ",
+    "hindi": "आबाओ",
+    "meaning": "Forefathers or elders.",
+    "example": "آباؤ کی رہنمائی ہمیشہ کارآمد رہتی ہے۔",
+    "synonyms": ["Forefathers", "Elders"],
+    "antonyms": []
+  },
+  {
+    "word": "Abāo_Ajdad",
+    "urdu": "آباؤ_اجداد",
+    "sanskrit": "आबाओ_अजदाद",
+    "hindi": "आबाओ_अजदाद",
+    "meaning": "Combined reference to fathers and ancestors.",
+    "example": "آباؤ_اجداد کی زمین ہمارے لیے قیمتی ہے۔",
+    "synonyms": ["Fathers and ancestors", "Lineage"],
+    "antonyms": []
+  },
+  {
+    "word": "Abai",
+    "urdu": "آبائی",
+    "sanskrit": "आबाई",
+    "hindi": "आबाई",
+    "meaning": "Inherited; ancestral.",
+    "example": "یہ آبائی گھر کئی نسلوں سے ہماری ملکیت ہے۔",
+    "synonyms": ["Ancestral", "Inherited"],
+    "antonyms": ["New", "Modern"]
+  },
+  {
+    "word": "Abaiyat",
+    "urdu": "آبائیت",
+    "sanskrit": "आबाईयत",
+    "hindi": "आबाईयत",
+    "meaning": "Ancestry; ancestral lineage.",
+    "example": "آبائیت کی اہمیت ہر ثقافت میں دیکھی جاتی ہے۔",
+    "synonyms": ["Lineage", "Ancestry"],
+    "antonyms": []
+  },
+  {
+    "word": "Abad",
+    "urdu": "آباد",
+    "sanskrit": "आबाद",
+    "hindi": "आबाद",
+    "meaning": "Populated, flourishing, or inhabited.",
+    "example": "یہ شہر بہت آباد ہے۔",
+    "synonyms": ["Populated", "Flourishing"],
+    "antonyms": ["Deserted", "Empty"]
+  },
+  {
+    "word": "Abad_Kar",
+    "urdu": "آباد_کار",
+    "sanskrit": "आबाद_कार",
+    "hindi": "आबाद_कार",
+    "meaning": "Person who inhabits or cultivates land.",
+    "example": "آباد_کار نے زمین آباد کی۔",
+    "synonyms": ["Settler", "Cultivator"],
+    "antonyms": []
+  },
+  {
+    "word": "Abad_Kari",
+    "urdu": "آباد_کاری",
+    "sanskrit": "आबाद_कारी",
+    "hindi": "आबाद_कारी",
+    "meaning": "Act of cultivating or populating land.",
+    "example": "آباد_کاری سے گاؤں خوشحال ہوا۔",
+    "synonyms": ["Cultivation", "Settlement"],
+    "antonyms": []
+  },
+  {
+    "word": "Abadkari",
+    "urdu": "آبادکاری",
+    "sanskrit": "आबादकारी",
+    "hindi": "आबादकारी",
+    "meaning": "Flourishing or development of an area.",
+    "example": "آبادکاری کی وجہ سے شہر ترقی کر رہا ہے۔",
+    "synonyms": ["Development", "Flourishing"],
+    "antonyms": ["Decline", "Decay"]
+  },
+  {
+    "word": "Abadgan",
+    "urdu": "آبادگان",
+    "sanskrit": "आबादगान",
+    "hindi": "आबादगान",
+    "meaning": "Populated places or settlements.",
+    "example": "آبادگان میں لوگ خوشحال ہیں۔",
+    "synonyms": ["Settlements", "Villages"],
+    "antonyms": ["Deserts", "Wastelands"]
+  },
+  {
+    "word": "Abadi",
+    "urdu": "آبادی",
+    "sanskrit": "आबादी",
+    "hindi": "आबादी",
+    "meaning": "Population or inhabitants of a place.",
+    "example": "اس شہر کی آبادی بہت زیادہ ہے۔",
+    "synonyms": ["Population", "Inhabitants"],
+    "antonyms": ["Empty", "Sparse"]
+  },
+  {
+    "word": "Abadiyan",
+    "urdu": "آبادیاں",
+    "sanskrit": "आबादियां",
+    "hindi": "आबादियां",
+    "meaning": "Populated areas or multiple settlements.",
+    "example": "آبادیاں شہر کے اطراف میں پھیلی ہوئی ہیں۔",
+    "synonyms": ["Settlements", "Habitations"],
+    "antonyms": ["Wastelands"]
+  },
+  {
+    "word": "Abadiyon",
+    "urdu": "آبادیوں",
+    "sanskrit": "आबादियों",
+    "hindi": "आबादियों",
+    "meaning": "Populations of multiple regions or areas.",
+    "example": "آبادیوں میں بنیادی سہولیات فراہم کی گئی ہیں۔",
+    "synonyms": ["Populations", "Communities"],
+    "antonyms": []
+  },
+  {
+    "word": "Aban",
+    "urdu": "آبان",
+    "sanskrit": "आबान",
+    "hindi": "आबान",
+    "meaning": "Month in Persian calendar; water-related context.",
+    "example": "آبان میں بارش کا موسم آتا ہے۔",
+    "synonyms": ["Month of water", "Persian month"],
+    "antonyms": []
+  },
+  {
+    "word": "Abau_Ajdad",
+    "urdu": "آباو_اجداد",
+    "sanskrit": "आबाउ_अजदाद",
+    "hindi": "आबाउ_अजदाद",
+    "meaning": "Ancestors and forefathers.",
+    "example": "آباو_اجداد کی زمین ہمارے لیے اہم ہے۔",
+    "synonyms": ["Ancestors", "Forefathers"],
+    "antonyms": []
+  },
+  {
+    "word": "Abtin",
+    "urdu": "آبتین",
+    "sanskrit": "आबतीन",
+    "hindi": "आबतीन",
+    "meaning": "Proper name; context-specific.",
+    "example": "آبتین ایک مشہور شخصیت تھا۔",
+    "synonyms": ["Proper name"],
+    "antonyms": []
+  },
+  {
+    "word": "Abdar",
+    "urdu": "آبدار",
+    "sanskrit": "आबदार",
+    "hindi": "आबदार",
+    "meaning": "Moist or water-containing.",
+    "example": "آبدار زمین کھیتوں کے لیے موزوں ہے۔",
+    "synonyms": ["Moist", "Wet"],
+    "antonyms": ["Dry", "Arid"]
   }
 ]
