@@ -1818,5 +1818,325 @@
     "example": "آبدار زمین کھیتوں کے لیے موزوں ہے۔",
     "synonyms": ["Moist", "Wet"],
     "antonyms": ["Dry", "Arid"]
+  },
+  {
+    "word": "Abdari",
+    "urdu": "آبداری",
+    "sanskrit": "आबदारी",
+    "hindi": "आबदारी",
+    "meaning": "Moistness; wetness or containing water.",
+    "example": "زمین کی آبدراری فصل کے لیے ضروری ہے۔",
+    "synonyms": ["Moistness", "Wetness"],
+    "antonyms": ["Dryness", "Aridity"]
+  },
+  {
+    "word": "Abro",
+    "urdu": "آبرو",
+    "sanskrit": "आबरो",
+    "hindi": "आबरो",
+    "meaning": "Honor, reputation, or prestige.",
+    "example": "آبرو کی حفاظت ہر شخص کا فرض ہے۔",
+    "synonyms": ["Honor", "Reputation", "Prestige"],
+    "antonyms": ["Disgrace", "Shame"]
+  },
+  {
+    "word": "Abro_Bakhta",
+    "urdu": "آبرو_باختہ",
+    "sanskrit": "आबरो_बाक्त्ह",
+    "hindi": "आबरो_बाक्त्ह",
+    "meaning": "Disgraced or dishonored.",
+    "example": "اس کا عمل اسے آبرو باختہ کر گیا۔",
+    "synonyms": ["Dishonored", "Disgraced"],
+    "antonyms": ["Honored", "Respected"]
+  },
+  {
+    "word": "Abro_Dar",
+    "urdu": "آبرو_دار",
+    "sanskrit": "आबरो_दार",
+    "hindi": "आबरो_दार",
+    "meaning": "Honorable; having dignity or respect.",
+    "example": "وہ ایک آبرو دار انسان ہے۔",
+    "synonyms": ["Honorable", "Respectable"],
+    "antonyms": ["Dishonorable"]
+  },
+  {
+    "word": "Abro_Rikhta",
+    "urdu": "آبرو_ریختہ",
+    "sanskrit": "आबरो_रिक्थ",
+    "hindi": "आबरो_रिक्थ",
+    "meaning": "Slightly tarnished reputation.",
+    "example": "چھوٹے جھوٹ سے اس کی آبرو ریختہ ہو گئی۔",
+    "synonyms": ["Tarnished reputation", "Slightly dishonored"],
+    "antonyms": ["Reputed", "Honored"]
+  },
+  {
+    "word": "Abro_Rizi",
+    "urdu": "آبرو_ریزی",
+    "sanskrit": "आबरो_रिज़ी",
+    "hindi": "आबरो_रिज़ी",
+    "meaning": "Loss of honor or reputation.",
+    "example": "اس کا فریب آبرو ریزی کا باعث بنا۔",
+    "synonyms": ["Dishonor", "Shaming"],
+    "antonyms": ["Honor", "Respect"]
+  },
+  {
+    "word": "Abro_Farosh",
+    "urdu": "آبرو_فروش",
+    "sanskrit": "आबरो_फरोश",
+    "hindi": "आबरो_फरोश",
+    "meaning": "Person who compromises honor for gain.",
+    "example": "وہ ایک آبرو فروش شخص ہے۔",
+    "synonyms": ["Dishonorable person", "Opportunist"],
+    "antonyms": ["Honorable person"]
+  },
+  {
+    "word": "Abro_Mand",
+    "urdu": "آبرو_مند",
+    "sanskrit": "आबरो_मंद",
+    "hindi": "आबरो_मंद",
+    "meaning": "Respectable or dignified.",
+    "example": "آبرو مند لوگ معاشرت میں عزت پاتے ہیں۔",
+    "synonyms": ["Respectable", "Honorable"],
+    "antonyms": ["Disrespectable"]
+  },
+  {
+    "word": "Abro_Mandana",
+    "urdu": "آبرو_مندانہ",
+    "sanskrit": "आबरो_मंदाना",
+    "hindi": "आबरो_मंदाना",
+    "meaning": "In a respectable or dignified manner.",
+    "example": "اس نے آبرو مندانہ رویہ اختیار کیا۔",
+    "synonyms": ["Respectfully", "Dignified manner"],
+    "antonyms": ["Disrespectfully"]
+  },
+  {
+    "word": "Abro_Mandi",
+    "urdu": "آبرو_مندی",
+    "sanskrit": "आबरो_मंदी",
+    "hindi": "आबरो_मंदी",
+    "meaning": "State of being honorable or reputable.",
+    "example": "آبرو مندی معاشرتی قدر کی علامت ہے۔",
+    "synonyms": ["Honor", "Respectability"],
+    "antonyms": ["Dishonor"]
+  },
+  {
+    "word": "Abro_Pasand",
+    "urdu": "آبرو_پسند",
+    "sanskrit": "आबरो_पसंद",
+    "hindi": "आबरो_पसंद",
+    "meaning": "One who values honor or reputation.",
+    "example": "آبرو پسند لوگ ہمیشہ سچ بولتے ہیں۔",
+    "synonyms": ["Honor-loving", "Respectful"],
+    "antonyms": ["Disrespectful"]
+  },
+  {
+    "word": "Abro_Ka_Pas",
+    "urdu": "آبرو_کا_پاس",
+    "sanskrit": "आबरो_का_पास",
+    "hindi": "आबरो_का_पास",
+    "meaning": "Having honor or maintaining reputation.",
+    "example": "اس نے ہمیشہ آبرو کا پاس رکھا۔",
+    "synonyms": ["Respectful", "Honorable"],
+    "antonyms": ["Disreputable"]
+  },
+  {
+    "word": "Abroo",
+    "urdu": "آبروؤ",
+    "sanskrit": "आबरोऊ",
+    "hindi": "आबरोऊ",
+    "meaning": "Plural form of آبرو; honors or reputations.",
+    "example": "ان کے آبروؤ کی حفاظت ضروری ہے۔",
+    "synonyms": ["Honors", "Reputations"],
+    "antonyms": ["Disgraces"]
+  },
+  {
+    "word": "Abroon",
+    "urdu": "آبروؤں",
+    "sanskrit": "आबरोऊँ",
+    "hindi": "आबरोऊँ",
+    "meaning": "Plural of honor; reputations.",
+    "example": "ان کے آبروؤں کی حفاظت معاشرتی فرض ہے۔",
+    "synonyms": ["Honors", "Reputations"],
+    "antonyms": ["Disgraces"]
+  },
+  {
+    "word": "Abroi",
+    "urdu": "آبروئی",
+    "sanskrit": "आबरोई",
+    "hindi": "आबरोई",
+    "meaning": "Related to honor; honorable.",
+    "example": "آبروئی شخصیت ہر دل میں عزت پاتی ہے۔",
+    "synonyms": ["Honorable", "Respectable"],
+    "antonyms": ["Dishonorable"]
+  },
+  {
+    "word": "Abrowein",
+    "urdu": "آبروئیں",
+    "sanskrit": "आबरोएँ",
+    "hindi": "आबरोएँ",
+    "meaning": "Honorable women or female reputation.",
+    "example": "آبروئیں معاشرتی وقار کی علامت ہیں۔",
+    "synonyms": ["Reputations", "Honors"],
+    "antonyms": ["Disgrace"]
+  },
+  {
+    "word": "Abrowe",
+    "urdu": "آبروئے",
+    "sanskrit": "आबरोए",
+    "hindi": "आबरोए",
+    "meaning": "Of honor or relating to dignity.",
+    "example": "اس نے آبروئے خاندان کو قائم رکھا۔",
+    "synonyms": ["Of honor", "Respectable"],
+    "antonyms": ["Dishonorable"]
+  },
+  {
+    "word": "Abra",
+    "urdu": "آبرہ",
+    "sanskrit": "आबर",
+    "hindi": "आबर",
+    "meaning": "A small cloud or mist; gentle water vapor.",
+    "example": "آبرہ آسمان پر تیر رہا تھا۔",
+    "synonyms": ["Mist", "Small cloud"],
+    "antonyms": ["Sunlight", "Clear sky"]
+  },
+  {
+    "word": "Abs",
+    "urdu": "آبس",
+    "sanskrit": "आबस",
+    "hindi": "आबस",
+    "meaning": "Water or liquid substance.",
+    "example": "پانی میں آ بس کی مقدار کم تھی۔",
+    "synonyms": ["Water", "Liquid"],
+    "antonyms": ["Dryness"]
+  },
+  {
+    "word": "Abastan",
+    "urdu": "آبستن",
+    "sanskrit": "आबस्तन",
+    "hindi": "आबस्तन",
+    "meaning": "Pregnant or carrying within.",
+    "example": "وہ آبستن خاتون تھی۔",
+    "synonyms": ["Pregnant", "Expecting"],
+    "antonyms": ["Non-pregnant"]
+  },
+  {
+    "word": "Abastani",
+    "urdu": "آبستنی",
+    "sanskrit": "आबस्तनी",
+    "hindi": "आबस्तनी",
+    "meaning": "Pregnancy; the state of being pregnant.",
+    "example": "آبستنی کے دوران صحت کا خیال رکھنا ضروری ہے۔",
+    "synonyms": ["Pregnancy", "Gestation"],
+    "antonyms": []
+  },
+  {
+    "word": "Abastaniyan",
+    "urdu": "آبستنیاں",
+    "sanskrit": "आबस्तनियां",
+    "hindi": "आबस्तनियां",
+    "meaning": "Multiple pregnancies or gestations.",
+    "example": "آبستنیاں خواتین کے لیے حساس مرحلہ ہیں۔",
+    "synonyms": ["Pregnancies", "Gestations"],
+    "antonyms": []
+  },
+  {
+    "word": "Abastagi",
+    "urdu": "آبستگی",
+    "sanskrit": "आबस्तगी",
+    "hindi": "आबस्तगी",
+    "meaning": "State of being pregnant or carrying burden.",
+    "example": "آبستگی کے دوران خوراک کا خیال رکھیں۔",
+    "synonyms": ["Pregnancy", "Expecting"],
+    "antonyms": []
+  },
+  {
+    "word": "Abasta",
+    "urdu": "آبستہ",
+    "sanskrit": "आबस्ता",
+    "hindi": "आबस्ता",
+    "meaning": "Arranged or prepared; properly set.",
+    "example": "کمرہ آبستہ طور پر سجایا گیا۔",
+    "synonyms": ["Arranged", "Prepared"],
+    "antonyms": ["Disorganized", "Messy"]
+  },
+  {
+    "word": "Abshaar",
+    "urdu": "آبشار",
+    "sanskrit": "आबशार",
+    "hindi": "आबशार",
+    "meaning": "Waterfall; cascading water from a height.",
+    "example": "یہاں کا آبشار بہت خوبصورت ہے۔",
+    "synonyms": ["Waterfall", "Cascade"],
+    "antonyms": []
+  },
+  {
+    "word": "Abs",
+    "urdu": "آبص",
+    "sanskrit": "आबस",
+    "hindi": "आबस",
+    "meaning": "Liquid or fluid substance.",
+    "example": "کپ میں آ بس موجود تھی۔",
+    "synonyms": ["Liquid", "Fluid"],
+    "antonyms": ["Solid", "Dry"]
+  },
+  {
+    "word": "Abla",
+    "urdu": "آبلا",
+    "sanskrit": "आब्ला",
+    "hindi": "आब्ला",
+    "meaning": "Weak, fragile, or delicate person or thing.",
+    "example": "وہ ایک آبلا بچہ ہے۔",
+    "synonyms": ["Weak", "Fragile", "Delicate"],
+    "antonyms": ["Strong", "Robust"]
+  },
+  {
+    "word": "Ablos",
+    "urdu": "آبلوس",
+    "sanskrit": "आब्लोस",
+    "hindi": "आब्लोस",
+    "meaning": "Name or term; context-specific.",
+    "example": "آبلوس ایک قدیم قصبے کا نام ہے۔",
+    "synonyms": ["Proper name"],
+    "antonyms": []
+  },
+  {
+    "word": "Abluch",
+    "urdu": "آبلوچ",
+    "sanskrit": "आब्लुच",
+    "hindi": "आब्लुच",
+    "meaning": "Referring to Baloch people or related context.",
+    "example": "آبلوچ لوگ بلوچستان کے رہائشی ہیں۔",
+    "synonyms": ["Baloch", "Ethnic group"],
+    "antonyms": []
+  },
+  {
+    "word": "Ablon",
+    "urdu": "آبلوں",
+    "sanskrit": "आब्लों",
+    "hindi": "आब्लों",
+    "meaning": "Plural of Abl; small water droplets or blisters.",
+    "example": "آبلوں نے زمین پر چھوٹے دھبے بنائے۔",
+    "synonyms": ["Droplets", "Blisters"],
+    "antonyms": []
+  },
+  {
+    "word": "Abla",
+    "urdu": "آبلہ",
+    "sanskrit": "आब्ला",
+    "hindi": "आब्ला",
+    "meaning": "Swollen or puffed up; bulla or bubble.",
+    "example": "آبلہ کی شکل زمین پر نظر آئی۔",
+    "synonyms": ["Bubble", "Swelling"],
+    "antonyms": []
+  },
+  {
+    "word": "Abla_Dar",
+    "urdu": "آبلہ_دار",
+    "sanskrit": "आब्ला_दार",
+    "hindi": "आब्ला_दार",
+    "meaning": "Having swellings or bumps; bubbled.",
+    "example": "یہ پھل آبلہ دار ہے۔",
+    "synonyms": ["Swollen", "Bubbled"],
+    "antonyms": ["Smooth", "Flat"]
   }
 ]
