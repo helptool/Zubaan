@@ -1018,5 +1018,115 @@
     "example": "آئیے and join us for tea.",
     "synonyms": ["Please come", "Join us"],
     "antonyms": ["Go", "Leave"]
+  },
+  {
+    "word": "Aaye",
+    "urdu": "آئے",
+    "sanskrit": "आए",
+    "hindi": "आए",
+    "meaning": "Past tense of come; 'came'.",
+    "example": "وہ کل ہمارے گھر آئے تھے۔",
+    "synonyms": ["Came", "Arrived"],
+    "antonyms": ["Left", "Departed"]
+  },
+  {
+    "word": "Aaye_Kat",
+    "urdu": "آئے_کت",
+    "sanskrit": "आए_कत",
+    "hindi": "आए_कत",
+    "meaning": "Context-specific compound word; related to arrival or portion.",
+    "example": "آئے_کت کے مطابق تقسیم کی گئی۔",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Aayetan",
+    "urdu": "آئےتن",
+    "sanskrit": "आएतन",
+    "hindi": "आएतन",
+    "meaning": "Context-specific; could relate to coming together or measure.",
+    "example": "آئےتن کے مطابق سب نے حصہ لیا۔",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ab",
+    "urdu": "آب",
+    "sanskrit": "आब",
+    "hindi": "आब",
+    "meaning": "Water.",
+    "example": "آب زندگی کے لیے ضروری ہے۔",
+    "synonyms": ["Water", "Liquid"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Aash",
+    "urdu": "آب_آش",
+    "sanskrit": "आब_आश",
+    "hindi": "आब_आश",
+    "meaning": "Context-specific; related to water and nourishment.",
+    "example": "آب_آش زمین کو ہرا بھرا رکھتا ہے۔",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Aamez",
+    "urdu": "آب_آمیز",
+    "sanskrit": "आब_आमेज़",
+    "hindi": "आब_आमेज़",
+    "meaning": "Mixture with water; watery blend.",
+    "example": "آب_آمیز مشروب تیار کر لیا گیا۔",
+    "synonyms": ["Watery", "Diluted"],
+    "antonyms": ["Concentrated", "Dry"]
+  },
+  {
+    "word": "Ab_Ahan",
+    "urdu": "آب_آہن",
+    "sanskrit": "आब_आहन",
+    "hindi": "आब_आहन",
+    "meaning": "Water mixed with iron; context-specific.",
+    "example": "آب_آہن سے زراعت بہتر ہوتی ہے۔",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Estadeh",
+    "urdu": "آب_ایستادہ",
+    "sanskrit": "आब_एस्तादेह",
+    "hindi": "आब_एस्तादेह",
+    "meaning": "Standing water; stagnant water.",
+    "example": "آب_ایستادہ جگہ صاف رکھنی چاہیے۔",
+    "synonyms": ["Stagnant water", "Still water"],
+    "antonyms": ["Flowing water", "Running water"]
+  },
+  {
+    "word": "Ab_Esmetadeh",
+    "urdu": "آب_ایسمتادعہ",
+    "sanskrit": "आब_एस्मेतादेह",
+    "hindi": "आब_एस्मेतादेह",
+    "meaning": "Context-specific compound; possibly related to standing water or measurement.",
+    "example": "آب_ایسمتادعہ کے مطابق پیمائش کی گئی۔",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Baz",
+    "urdu": "آب_باز",
+    "sanskrit": "आब_बाज़",
+    "hindi": "आब_बाज़",
+    "meaning": "Water distributor or irrigator; context-specific.",
+    "example": "آب_باز نے کھیتوں میں پانی پہنچایا۔",
+    "synonyms": ["Irrigator", "Water distributor"],
+    "antonyms": []
+  },
+  {
+    "word": "Ab_Bazi",
+    "urdu": "آب_بازی",
+    "sanskrit": "आब_बाज़ी",
+    "hindi": "आब_बाज़ी",
+    "meaning": "Play with water; water-related activity.",
+    "example": "بچوں نے ندی میں آب_بازی کی۔",
+    "synonyms": ["Water play", "Splashing"],
+    "antonyms": []
   }
 ]
