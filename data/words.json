@@ -2138,5 +2138,1027 @@
     "example": "یہ پھل آبلہ دار ہے۔",
     "synonyms": ["Swollen", "Bubbled"],
     "antonyms": ["Smooth", "Flat"]
+  },
+  {
+    "word": "Ablah_Farsa",
+    "urdu": "آبلہ_فرسا",
+    "sanskrit": "आब्लह_फर्सा",
+    "hindi": "आबला_फर्सा",
+    "meaning": "Blister-causing; something that produces sores or blisters.",
+    "example": "تیز دھوپ آبلہ فرسا ہے۔",
+    "synonyms": ["Blistering", "Irritating", "Searing"],
+    "antonyms": ["Soothing", "Cooling"]
+  },
+  {
+    "word": "Ablah_Farang",
+    "urdu": "آبلہ_فرنگ",
+    "sanskrit": "आब्लह_फरंग",
+    "hindi": "आबला_फरंग",
+    "meaning": "Syphilis (a venereal disease); literally 'blister of the Franks'.",
+    "example": "پرانے زمانے میں آبلہ فرنگ ایک خطرناک بیماری سمجھی جاتی تھی۔",
+    "synonyms": ["Syphilis", "Venereal disease"],
+    "antonyms": ["Health", "Purity"]
+  },
+  {
+    "word": "Ablah_Pa",
+    "urdu": "آبلہ_پا",
+    "sanskrit": "आब्लह_पा",
+    "hindi": "आबला_पा",
+    "meaning": "Having blisters on the feet; foot-sore traveler.",
+    "example": "مسافر آبلہ پا ہو کر منزل پر پہنچا۔",
+    "synonyms": ["Foot-sore", "Weary traveler"],
+    "antonyms": ["Rested", "Comfortable"]
+  },
+  {
+    "word": "Ablah_e_Farang",
+    "urdu": "آبلہء_فرنگ",
+    "sanskrit": "आब्लहः_फरंग",
+    "hindi": "आबला-ए-फरंग",
+    "meaning": "Alternate term for syphilis; literally 'blister of the West'.",
+    "example": "آبلہء فرنگ کے علاج کے لیے جڑی بوٹیاں استعمال کی جاتی تھیں۔",
+    "synonyms": ["Syphilis", "Contagious disease"],
+    "antonyms": ["Clean health"]
+  },
+  {
+    "word": "Ablah",
+    "urdu": "آبلۂ",
+    "sanskrit": "आब्लह",
+    "hindi": "आबला",
+    "meaning": "Genitive form of 'آبلہ' (of the blister or sore).",
+    "example": "آبلۂ دل کی تپش کم نہ ہوئی۔",
+    "synonyms": ["Of blister", "Sore-related"],
+    "antonyms": []
+  },
+  {
+    "word": "Ablay",
+    "urdu": "آبلے",
+    "sanskrit": "आब्ले",
+    "hindi": "आबले",
+    "meaning": "Plural of آبلہ; blisters or sores.",
+    "example": "اس کے ہاتھوں پر آبلے پڑ گئے۔",
+    "synonyms": ["Blisters", "Sores"],
+    "antonyms": ["Smoothness", "Healed skin"]
+  },
+  {
+    "word": "Abnus",
+    "urdu": "آبنوس",
+    "sanskrit": "आब्नुस",
+    "hindi": "आबनूस",
+    "meaning": "Ebony; a hard, dark wood used in fine furniture and decoration.",
+    "example": "یہ میز آبنوس کی لکڑی سے بنی ہے۔",
+    "synonyms": ["Ebony", "Dark wood"],
+    "antonyms": ["Pine", "Light wood"]
+  },
+  {
+    "word": "Abnuson",
+    "urdu": "آبنوسوں",
+    "sanskrit": "आब्नुसों",
+    "hindi": "आबनूसों",
+    "meaning": "Plural of آبنوس; ebonies or objects made from ebony wood.",
+    "example": "کمرا آبنوسوں کے فرنیچر سے سجا ہوا تھا۔",
+    "synonyms": ["Ebonies", "Ebony items"],
+    "antonyms": []
+  },
+  {
+    "word": "Abnosi",
+    "urdu": "آبنوسی",
+    "sanskrit": "आब्नोसी",
+    "hindi": "आबनूसी",
+    "meaning": "Made of ebony; dark and glossy like ebony wood.",
+    "example": "اس کی آبنوسی آنکھیں بہت خوبصورت تھیں۔",
+    "synonyms": ["Ebony-colored", "Jet-black", "Glossy"],
+    "antonyms": ["Pale", "Light-colored"]
+  },
+  {
+    "word": "Abnosh",
+    "urdu": "آبنوش",
+    "sanskrit": "आब्नोश",
+    "hindi": "आबनोश",
+    "meaning": "Water-drinker; one who drinks water or water-related being.",
+    "example": "پرندے صبح کے وقت آبنوشی کرتے ہیں۔",
+    "synonyms": ["Water-drinker", "Hydrated being"],
+    "antonyms": ["Thirsty", "Dehydrated"]
+  },
+  {
+    "word": "Abpari",
+    "urdu": "آبپاری",
+    "sanskrit": "आपपारी",
+    "hindi": "आबपारी",
+    "meaning": "Irrigation system or device; water management mechanism.",
+    "example": "قدیم زمانے میں آبپاری کے لیے کنویں استعمال کیے جاتے تھے۔",
+    "synonyms": ["Irrigation", "Water system"],
+    "antonyms": ["Drought", "Dryness"]
+  },
+  {
+    "word": "Abpariyan",
+    "urdu": "آبپاریاں",
+    "sanskrit": "आपपारियां",
+    "hindi": "आबपारियां",
+    "meaning": "Plural of آبپاری; irrigation systems or devices.",
+    "example": "گاؤں میں نئی آبپاریاں لگائی گئیں۔",
+    "synonyms": ["Irrigation systems", "Water channels"],
+    "antonyms": ["Dry lands"]
+  },
+  {
+    "word": "Abpashi",
+    "urdu": "آبپاشی",
+    "sanskrit": "आपपाशी",
+    "hindi": "आबपाशी",
+    "meaning": "Irrigation; the act of watering land or crops.",
+    "example": "کسانوں نے کھیتوں کی آبپاشی شروع کی۔",
+    "synonyms": ["Irrigation", "Watering"],
+    "antonyms": ["Neglect", "Drought"]
+  },
+  {
+    "word": "Abginoon",
+    "urdu": "آبگینوں",
+    "sanskrit": "आपगीनों",
+    "hindi": "आबगीनों",
+    "meaning": "Plural of آبگینہ; glass items or mirrors.",
+    "example": "دکان میں آبگینوں کی خوبصورت اشیاء رکھی تھیں۔",
+    "synonyms": ["Glassware", "Mirrors"],
+    "antonyms": ["Metalware", "Opaque objects"]
+  },
+  {
+    "word": "Abgina",
+    "urdu": "آبگینہ",
+    "sanskrit": "आपगीन",
+    "hindi": "आबगिना",
+    "meaning": "Glass; a transparent or reflective material.",
+    "example": "آبگینہ نازک اور شفاف ہوتا ہے۔",
+    "synonyms": ["Glass", "Crystal"],
+    "antonyms": ["Stone", "Metal"]
+  },
+  {
+    "word": "Abgine",
+    "urdu": "آبگینے",
+    "sanskrit": "आपगीने",
+    "hindi": "आबगिने",
+    "meaning": "Plural of آبگینہ; glasses or glass-made things.",
+    "example": "الماری میں آبگینے رکھے تھے۔",
+    "synonyms": ["Glass items", "Mirrors"],
+    "antonyms": ["Opaque items"]
+  },
+  {
+    "word": "Abi",
+    "urdu": "آبی",
+    "sanskrit": "आपि",
+    "hindi": "आबी",
+    "meaning": "Aquatic; related to or living in water.",
+    "example": "مچھلی ایک آبی جانور ہے۔",
+    "synonyms": ["Aquatic", "Marine", "Water-based"],
+    "antonyms": ["Terrestrial", "Dry-land"]
+  },
+  {
+    "word": "Abi_Burj",
+    "urdu": "آبی_برج",
+    "sanskrit": "आपि_बुर्ज",
+    "hindi": "आबी_बुर्ज",
+    "meaning": "Water sign in astrology, representing emotional and intuitive traits.",
+    "example": "برج حوت ایک آبی برج ہے۔",
+    "synonyms": ["Water sign", "Pisces", "Cancer", "Scorpio"],
+    "antonyms": ["Fire sign", "Air sign", "Earth sign"]
+  },
+  {
+    "word": "Abi_Burooj",
+    "urdu": "آبی_بروج",
+    "sanskrit": "आपि_बुरोज",
+    "hindi": "आबी_बुरोज",
+    "meaning": "Plural of water signs in astrology; zodiac elements related to water.",
+    "example": "آبی بروج میں حوت، سرطان اور عقرب شامل ہیں۔",
+    "synonyms": ["Water zodiac signs", "Astrological water signs"],
+    "antonyms": ["Fire zodiac signs", "Air zodiac signs"]
+  },
+  {
+    "word": "Abi_Bagola",
+    "urdu": "آبی_بگولا",
+    "sanskrit": "आपि_बगोला",
+    "hindi": "आबी_बगुला",
+    "meaning": "Whirlpool; a rotating body of water creating a vortex.",
+    "example": "ندی میں ایک آبی بگولا بن گیا تھا۔",
+    "synonyms": ["Whirlpool", "Vortex", "Maelstrom"],
+    "antonyms": ["Calm water", "Stillness"]
+  },
+  {
+    "word": "Abi_Rasad",
+    "urdu": "آبی_رسد",
+    "sanskrit": "आपि_रसद",
+    "hindi": "आबी_रसद",
+    "meaning": "Water supply; distribution or source of water.",
+    "example": "شہر میں آبی رسد کے نئے نظام لگائے گئے۔",
+    "synonyms": ["Water supply", "Hydration system"],
+    "antonyms": ["Water shortage", "Drought"]
+  },
+  {
+    "word": "Abi_Saan",
+    "urdu": "آبی_سان",
+    "sanskrit": "आपि_सान",
+    "hindi": "आबी_सान",
+    "meaning": "Water creature or aquatic being.",
+    "example": "ڈولفن ایک آبی سان ہے جو سمندر میں رہتی ہے۔",
+    "synonyms": ["Aquatic being", "Marine creature"],
+    "antonyms": ["Land animal", "Terrestrial creature"]
+  },
+  {
+    "word": "Abiyat",
+    "urdu": "آبیات",
+    "sanskrit": "आपियात्",
+    "hindi": "आबीयात",
+    "meaning": "Hydrology; the scientific study of water and its movement.",
+    "example": "یونیورسٹی میں آبیات کا ایک خصوصی شعبہ قائم ہے۔",
+    "synonyms": ["Hydrology", "Water science"],
+    "antonyms": ["Geology (dry earth study)"]
+  },
+  {
+    "word": "Abiyati",
+    "urdu": "آبیاتی",
+    "sanskrit": "आपियाति",
+    "hindi": "आबीयाती",
+    "meaning": "Hydrological or related to water studies.",
+    "example": "یہ تحقیق آبیاتی توازن پر کی گئی تھی۔",
+    "synonyms": ["Hydrological", "Aqueous"],
+    "antonyms": ["Arid", "Dry"]
+  },
+  {
+    "word": "Abiyar",
+    "urdu": "آبیار",
+    "sanskrit": "आपियार",
+    "hindi": "आबियार",
+    "meaning": "Irrigator; one who waters or cultivates land.",
+    "example": "آبیار روز صبح کھیتوں کو پانی دیتا ہے۔",
+    "synonyms": ["Irrigator", "Farmer", "Cultivator"],
+    "antonyms": ["Negligent", "Dryland farmer"]
+  },
+  {
+    "word": "Abiyari",
+    "urdu": "آبیاری",
+    "sanskrit": "आपियारी",
+    "hindi": "आबियारी",
+    "meaning": "Irrigation; the act of watering fields or nurturing growth.",
+    "example": "کسان آبیاری کے بغیر اچھی فصل نہیں حاصل کر سکتے۔",
+    "synonyms": ["Irrigation", "Watering"],
+    "antonyms": ["Neglect", "Drying"]
+  },
+  {
+    "word": "Abiyana",
+    "urdu": "آبیانہ",
+    "sanskrit": "आपियान",
+    "hindi": "आबियाना",
+    "meaning": "Water tax; fee paid for using irrigation water.",
+    "example": "کسانوں سے آبیانہ کے طور پر ایک معمولی رقم لی جاتی ہے۔",
+    "synonyms": ["Water tax", "Irrigation fee"],
+    "antonyms": ["Tax exemption"]
+  },
+  {
+    "word": "Abeeda",
+    "urdu": "آبیدہ",
+    "sanskrit": "आबीदा",
+    "hindi": "आबीदा",
+    "meaning": "Moistened; something that has absorbed water or emotion.",
+    "example": "اس کی آنکھیں آبیدہ تھیں، آنسوؤں سے بھری ہوئی۔",
+    "synonyms": ["Moistened", "Wet", "Emotional"],
+    "antonyms": ["Dry", "Arid"]
+  },
+  {
+    "word": "Abeel",
+    "urdu": "آبیل",
+    "sanskrit": "आबील",
+    "hindi": "आबील",
+    "meaning": "A type of wild plant or weed; sometimes used metaphorically for nuisance.",
+    "example": "آبیل مت چھیڑ، خود اٹھانی پڑے گی۔",
+    "synonyms": ["Weed", "Thorny plant"],
+    "antonyms": ["Flower", "Fruit-bearing plant"]
+  },
+  {
+    "word": "Abeelon",
+    "urdu": "آبیلوں",
+    "sanskrit": "आबीलों",
+    "hindi": "आबीलों",
+    "meaning": "Plural of آبیل; refers to multiple thorny plants or troubles.",
+    "example": "اس کے قدموں کے نیچے آبیلوں کا جنگل ہے۔",
+    "synonyms": ["Thorns", "Troubles", "Weeds"],
+    "antonyms": ["Ease", "Comfort"]
+  },
+  {
+    "word": "Aata",
+    "urdu": "آتا",
+    "sanskrit": "आता",
+    "hindi": "आता",
+    "meaning": "Comes; to arrive or approach.",
+    "example": "وہ روز مجھ سے ملنے آتا ہے۔",
+    "synonyms": ["Arrive", "Come"],
+    "antonyms": ["Go", "Depart"]
+  },
+  {
+    "word": "Aatish",
+    "urdu": "آتش",
+    "sanskrit": "आतिश",
+    "hindi": "आतिश",
+    "meaning": "Fire; symbol of energy, passion, or destruction.",
+    "example": "اس کی باتوں میں آتش تھی۔",
+    "synonyms": ["Fire", "Flame", "Heat"],
+    "antonyms": ["Cold", "Calmness"]
+  },
+  {
+    "word": "Aatish_Aamez",
+    "urdu": "آتش_آمیز",
+    "sanskrit": "आतिश_आमेज",
+    "hindi": "आतिश_आमेज",
+    "meaning": "Fiery or passionate; mixed with heat or intensity.",
+    "example": "آتش_آمیز تقریر نے مجمع کو جوش دلا دیا۔",
+    "synonyms": ["Fiery", "Passionate", "Intense"],
+    "antonyms": ["Calm", "Mild"]
+  },
+  {
+    "word": "Aatish_Afraaz",
+    "urdu": "آتش_افراز",
+    "sanskrit": "आतिश_अफराज",
+    "hindi": "आतिश_अफराज",
+    "meaning": "Fire-spreading; causing fire or destruction.",
+    "example": "آتش_افراز مواد سے عمارت جل اٹھی۔",
+    "synonyms": ["Inflammable", "Combustive"],
+    "antonyms": ["Fireproof", "Safe"]
+  },
+  {
+    "word": "Aatish_Afrooz",
+    "urdu": "آتش_افروز",
+    "sanskrit": "आतिश_अफरोज़",
+    "hindi": "आतिश_अफरोज़",
+    "meaning": "Fire-igniting or illuminating; metaphor for inspiration or zeal.",
+    "example": "اس کی باتیں آتش_افروز تھیں، سب کے دلوں میں روشنی بھر گئیں۔",
+    "synonyms": ["Illuminating", "Igniting", "Inspiring"],
+    "antonyms": ["Dull", "Extinguishing"]
+  },
+  {
+    "word": "Aatish_Afsurda",
+    "urdu": "آتش_افسردہ",
+    "sanskrit": "आतिश_अफसुरदा",
+    "hindi": "आतिश_अफसुरदा",
+    "meaning": "Extinguished fire; used metaphorically for faded passion or sorrow.",
+    "example": "اس کی نگاہوں میں آتش_افسردہ کی سی خاموشی تھی۔",
+    "synonyms": ["Extinguished", "Faded", "Dull"],
+    "antonyms": ["Burning", "Lively"]
+  },
+  {
+    "word": "Aatish_Infi'aal",
+    "urdu": "آتش_انفعال",
+    "sanskrit": "आतिश_इनफिअाल",
+    "hindi": "आतिश_इनफिअाल",
+    "meaning": "Fire of emotion or reaction; intense inner feeling.",
+    "example": "اس کے دل میں آتش_انفعال بھڑک اٹھی۔",
+    "synonyms": ["Emotional fire", "Passion", "Turmoil"],
+    "antonyms": ["Calm", "Peace"]
+  },
+  {
+    "word": "Aatish_Angeez",
+    "urdu": "آتش_انگیز",
+    "sanskrit": "आतिश_अंगेज़",
+    "hindi": "आतिश_अंगेज़",
+    "meaning": "Incendiary; something that provokes strong emotion or action.",
+    "example": "آتش_انگیز تقریر نے ہجوم کو مشتعل کر دیا۔",
+    "synonyms": ["Provocative", "Inflammatory", "Fiery"],
+    "antonyms": ["Peaceful", "Calming"]
+  },
+  {
+    "word": "Aatish_Angeezon",
+    "urdu": "آتش_انگیزوں",
+    "sanskrit": "आतिश_अंगेज़ों",
+    "hindi": "आतिश_अंगेज़ों",
+    "meaning": "Plural of آتش_انگیز; fiery or provocative individuals.",
+    "example": "آتش_انگیزوں کے نعرے فضا میں گونج رہے تھے۔",
+    "synonyms": ["Inciters", "Agitators", "Revolutionaries"],
+    "antonyms": ["Peacemakers", "Moderates"]
+},
+{
+  "word": "Aatish_Baar",
+  "urdu": "آتش_بار",
+  "sanskrit": "आतिश_बार",
+  "hindi": "आतिश_बार",
+  "meaning": "Fire-emitting, fiery, or explosive; something that throws out fire or flames.",
+  "example": "آتش_بار پہاڑ نے لاوے کی بارش کر دی۔",
+  "synonyms": ["Fiery", "Volcanic", "Explosive", "Blazing"],
+  "antonyms": ["Cool", "Calm", "Cold"]
+},
+{
+  "word": "Aatish_Baaz",
+  "urdu": "آتش_باز",
+  "sanskrit": "आतिश_बाज़",
+  "hindi": "आतिश_बाज़",
+  "meaning": "A person who performs or makes fireworks; pyrotechnician.",
+  "example": "میلے میں آتش_باز نے آسمان کو روشنیوں سے بھر دیا۔",
+  "synonyms": ["Pyrotechnician", "Fire performer", "Firework maker"],
+  "antonyms": ["Spectator", "Viewer"]
+},
+{
+  "word": "Aatish_Bazon",
+  "urdu": "آتش_بازوں",
+  "sanskrit": "आतिश_बाज़ों",
+  "hindi": "आतिश_बाज़ों",
+  "meaning": "Plural of Atish-Baaz; people who create or perform fireworks.",
+  "example": "عید کی رات آتش_بازوں نے آسمان جگمگا دیا۔",
+  "synonyms": ["Firework artists", "Pyrotechnicians"],
+  "antonyms": ["Audience", "Observers"]
+},
+{
+  "word": "Aadh_Paa",
+  "urdu": "آدھ_پا",
+  "sanskrit": "आध_पा",
+  "hindi": "आध_पा",
+  "meaning": "A person with one leg; someone partially disabled in walking.",
+  "example": "آدھ_پا سپاہی نے پھر بھی ہمت نہیں ہاری۔",
+  "synonyms": ["One-legged", "Lame", "Crippled"],
+  "antonyms": ["Able-bodied", "Complete"]
+},
+{
+  "word": "Aadh_Paao",
+  "urdu": "آدھ_پاؤ",
+  "sanskrit": "आध_पाउ",
+  "hindi": "आध_पाव",
+  "meaning": "A unit of weight; half of a quarter (about 125 grams).",
+  "example": "اس نے آدھ_پاؤ چینی خریدی۔",
+  "synonyms": ["Half-quarter", "125 grams"],
+  "antonyms": ["Full", "Whole"]
+},
+{
+  "word": "Aadh_Poon",
+  "urdu": "آدھ_پون",
+  "sanskrit": "आध_पोन",
+  "hindi": "आध_पोन",
+  "meaning": "Half of a pound or similar fractional measure; used colloquially for weight or portion.",
+  "example": "آدھ_پون گھی دیجیے۔",
+  "synonyms": ["Half-pound", "Fractional measure"],
+  "antonyms": ["Full measure", "Complete weight"]
+},
+{
+  "word": "Aadha",
+  "urdu": "آدھا",
+  "sanskrit": "आधा",
+  "hindi": "आधा",
+  "meaning": "Half; incomplete or divided equally in two parts.",
+  "example": "اس نے آدھا سیب کھایا اور آدھا چھوڑ دیا۔",
+  "synonyms": ["Half", "Partial", "Incomplete"],
+  "antonyms": ["Whole", "Complete", "Full"]
+},
+{
+  "word": "Aadha_Daana",
+  "urdu": "آدھا_دانہ",
+  "sanskrit": "आधा_दाना",
+  "hindi": "आधा_दाना",
+  "meaning": "Half a grain or seed; symbolically something very small or minute.",
+  "example": "اس کے پاس آدھا_دانہ بھی اناج نہیں بچا۔",
+  "synonyms": ["Tiny particle", "Half grain"],
+  "antonyms": ["Whole grain", "Full seed"]
+},
+{
+  "word": "Aadhaar",
+  "urdu": "آدھار",
+  "sanskrit": "आधार",
+  "hindi": "आधार",
+  "meaning": "Base, foundation, or support upon which something rests.",
+  "example": "ایمان کسی بھی اچھے کردار کا آدھار ہے۔",
+  "synonyms": ["Foundation", "Base", "Support"],
+  "antonyms": ["Top", "Superstructure"]
+},
+{
+  "word": "Aadha_Karna",
+  "urdu": "آدھاکرنا",
+  "sanskrit": "आधा_करना",
+  "hindi": "आधा_करना",
+  "meaning": "To divide into two equal halves; to reduce by half.",
+  "example": "استاد نے کہا حساب کو آدھاکرنا سیکھو۔",
+  "synonyms": ["Halve", "Divide", "Reduce"],
+  "antonyms": ["Double", "Increase"]
+},
+{
+  "word": "Aadho",
+  "urdu": "آدھو",
+  "sanskrit": "आधू",
+  "hindi": "आधू",
+  "meaning": "Incomplete, half-done, or not fully finished.",
+  "example": "یہ کام ابھی آدھو ہے، مکمل نہیں ہوا۔",
+  "synonyms": ["Halfway", "Unfinished", "Partial"],
+  "antonyms": ["Complete", "Finished", "Whole"]
+},
+{
+  "word": "Aadhon",
+  "urdu": "آدھوں",
+  "sanskrit": "आधों",
+  "hindi": "आधों",
+  "meaning": "Plural form of 'Aadha'; referring to multiple halves or incomplete things.",
+  "example": "یہ سب آدھوں میں بٹے ہوئے ہیں۔",
+  "synonyms": ["Halves", "Incompletes", "Portions"],
+  "antonyms": ["Wholes", "Completes", "Full parts"]
+},
+{
+  "word": "Aadhi",
+  "urdu": "آدھی",
+  "sanskrit": "आधी",
+  "hindi": "आधी",
+  "meaning": "Feminine form of 'Aadha'; meaning half or incomplete (used for feminine nouns).",
+  "example": "آدھی رات کو وہ گھر پہنچی۔",
+  "synonyms": ["Half", "Partial", "Incomplete"],
+  "antonyms": ["Whole", "Full", "Complete"]
+},
+{
+  "word": "Aadhi_Nigaah",
+  "urdu": "آدھی_نگاہ",
+  "sanskrit": "आधी_निगाह",
+  "hindi": "आधी_निगाह",
+  "meaning": "A half-glance; a brief or sideway look, often implying shyness or secret attention.",
+  "example": "اس نے آدھی_نگاہ سے اس کی طرف دیکھا۔",
+  "synonyms": ["Glance", "Peek", "Side look"],
+  "antonyms": ["Stare", "Gaze"]
+},
+{
+  "word": "Aadhiyan",
+  "urdu": "آدھیاں",
+  "sanskrit": "आधियां",
+  "hindi": "आधियां",
+  "meaning": "Plural feminine form of 'Aadhi'; referring to several halves or incomplete feminine items.",
+  "example": "یہ سب آدھیاں کہانیاں ہیں، پوری نہیں۔",
+  "synonyms": ["Half portions", "Incomplete parts"],
+  "antonyms": ["Complete", "Full"]
+},
+{
+  "word": "Aadheen",
+  "urdu": "آدھین",
+  "sanskrit": "आधीन",
+  "hindi": "आधीन",
+  "meaning": "Dependent or subordinate; under someone’s control.",
+  "example": "شاگرد اپنے استاد کے آدھین ہوتے ہیں۔",
+  "synonyms": ["Dependent", "Subordinate", "Obedient"],
+  "antonyms": ["Independent", "Free", "Autonomous"]
+},
+{
+  "word": "Aadheena",
+  "urdu": "آدھینہ",
+  "sanskrit": "आधीन",
+  "hindi": "आधीन",
+  "meaning": "Another form of 'Aadheen'; meaning submissive or under authority.",
+  "example": "وہ آدھینہ بیٹی اپنے والدین کی بات مانتی ہے۔",
+  "synonyms": ["Submissive", "Compliant", "Yielding"],
+  "antonyms": ["Rebellious", "Defiant", "Independent"]
+},
+{
+  "word": "Aadhiyo",
+  "urdu": "آدھیو",
+  "sanskrit": "आधियो",
+  "hindi": "आधियो",
+  "meaning": "Vocative or addressing form of 'Aadhi'; used to call or refer to halves collectively.",
+  "example": "آدھیو! اپنی جگہ پوری کرو۔",
+  "synonyms": ["Halves", "Parts"],
+  "antonyms": ["Wholes", "Completes"]
+},
+{
+  "word": "Aadhiyon",
+  "urdu": "آدھیوں",
+  "sanskrit": "आधियों",
+  "hindi": "आधियों",
+  "meaning": "Plural oblique form of 'Aadhi'; referring to multiple incomplete feminine things.",
+  "example": "ان آدھیوں کہانیوں میں دلچسپی کم ہے۔",
+  "synonyms": ["Incompletes", "Halves"],
+  "antonyms": ["Fulls", "Completes"]
+},
+{
+  "word": "Aadhein",
+  "urdu": "آدھیں",
+  "sanskrit": "आधें",
+  "hindi": "आधें",
+  "meaning": "Plural masculine form of 'Aadha'; used for several incomplete or half male-gendered nouns.",
+  "example": "آدھیں باتیں ہی بتائیں۔",
+  "synonyms": ["Half parts", "Partial things"],
+  "antonyms": ["Whole", "Complete"]
+},
+{
+  "word": "Aadhe",
+  "urdu": "آدھے",
+  "sanskrit": "आधे",
+  "hindi": "आधे",
+  "meaning": "Plural or masculine form of 'Aadha'; means halves or incomplete portions.",
+  "example": "آدھے لوگ پہنچے، باقی نہیں آئے۔",
+  "synonyms": ["Halves", "Partials", "Incomplete ones"],
+  "antonyms": ["Whole", "Complete", "Full"]
+},
+{
+  "word": "Aadesh",
+  "urdu": "آدیش",
+  "sanskrit": "आदेश",
+  "hindi": "आदेश",
+  "meaning": "Order or command; an authoritative instruction given by someone in power.",
+  "example": "بادشاہ نے آدیش دیا کہ سب کو رہا کیا جائے۔",
+  "synonyms": ["Command", "Decree", "Directive"],
+  "antonyms": ["Request", "Plea", "Suggestion"]
+},
+{
+  "word": "Aadeena",
+  "urdu": "آدینہ",
+  "sanskrit": "आदीन",
+  "hindi": "आदीन",
+  "meaning": "Submissive or obedient; also used for something bound by duty or religion.",
+  "example": "وہ آدینہ شاگرد ہمیشہ اپنے گرو کے تابع رہا۔",
+  "synonyms": ["Obedient", "Loyal", "Faithful"],
+  "antonyms": ["Rebellious", "Disobedient"]
+},
+{
+  "word": "Aazaar",
+  "urdu": "آذار",
+  "sanskrit": "आजार",
+  "hindi": "आज़ार",
+  "meaning": "Pain, affliction, or ailment; can also mean trouble or hardship.",
+  "example": "اسے دل کا آذار لاحق ہے۔",
+  "synonyms": ["Pain", "Suffering", "Affliction"],
+  "antonyms": ["Relief", "Comfort", "Ease"]
+},
+{
+  "word": "Aazaari",
+  "urdu": "آذاری",
+  "sanskrit": "आज़ारी",
+  "hindi": "आज़ारी",
+  "meaning": "Causing pain or injury; oppressive or afflictive behavior.",
+  "example": "ظالم کی آذاری نے سب کو خوفزدہ کر دیا۔",
+  "synonyms": ["Oppression", "Tyranny", "Cruelty"],
+  "antonyms": ["Kindness", "Mercy"]
+},
+{
+  "word": "Aazar",
+  "urdu": "آذر",
+  "sanskrit": "आदर",
+  "hindi": "आज़र",
+  "meaning": "Fire; also a Persian name meaning flame or blaze.",
+  "example": "آذر ایرانی زبان میں آگ کو کہتے ہیں۔",
+  "synonyms": ["Fire", "Flame", "Blaze"],
+  "antonyms": ["Water", "Cold"]
+},
+{
+  "word": "Aazari",
+  "urdu": "آذری",
+  "sanskrit": "अज़री",
+  "hindi": "आज़री",
+  "meaning": "Azerbaijani; relating to the people, culture, or language of Azerbaijan.",
+  "example": "آذری ثقافت فارسی اور ترکی اثرات کا امتزاج ہے۔",
+  "synonyms": ["Azerbaijani", "Turkic"],
+  "antonyms": ["Non-Azeri"]
+},
+{
+  "word": "Aazariyon",
+  "urdu": "آذریوں",
+  "sanskrit": "अज़रियों",
+  "hindi": "आज़रियों",
+  "meaning": "Plural of 'Aazari'; referring to the people of Azerbaijan.",
+  "example": "آذریوں نے اپنی زبان اور تہذیب کو زندہ رکھا۔",
+  "synonyms": ["Azerbaijanis", "Turkic people"],
+  "antonyms": ["Foreigners", "Non-Azeris"]
+},
+{
+  "word": "Aazooqa",
+  "urdu": "آذوقہ",
+  "sanskrit": "आज़ोका",
+  "hindi": "आज़ोका",
+  "meaning": "Provisions or food supplies, especially for a journey.",
+  "example": "قافلے کے لیے آذوقہ تیار کیا گیا۔",
+  "synonyms": ["Provisions", "Supplies", "Food"],
+  "antonyms": ["Hunger", "Scarcity"]
+},
+{
+  "word": "Aazeen",
+  "urdu": "آذین",
+  "sanskrit": "आज़ीन",
+  "hindi": "आज़ीन",
+  "meaning": "Adornment or decoration; also means to adorn or embellish.",
+  "example": "محفل کو رنگ برنگی آذین سے سجایا گیا۔",
+  "synonyms": ["Decoration", "Adornment", "Ornamentation"],
+  "antonyms": ["Plainness", "Simplicity"]
+},
+{
+  "word": "Aazeena",
+  "urdu": "آذینہ",
+  "sanskrit": "आज़ीना",
+  "hindi": "आज़ीना",
+  "meaning": "A decorated or ornamented thing; also refers to festive decor.",
+  "example": "آذینہ سے مزین دروازے بہت خوبصورت لگ رہے تھے۔",
+  "synonyms": ["Ornament", "Embellishment", "Adornment"],
+  "antonyms": ["Bare", "Undecorated"]
+},
+{
+  "word": "Aar",
+  "urdu": "آر",
+  "sanskrit": "आर",
+  "hindi": "आर",
+  "meaning": "Edge, brink, or boundary; also used for a saw or blade in some contexts.",
+  "example": "پہاڑ کی آر پر گاؤں آباد تھا۔",
+  "synonyms": ["Edge", "Border", "Limit"],
+  "antonyms": ["Center", "Middle"]
+},
+{
+  "word": "Aaraa",
+  "urdu": "آرا",
+  "sanskrit": "आरा",
+  "hindi": "आरा",
+  "meaning": "Opinions or views; plural of 'Raa’' (meaning opinion). Also a tool meaning 'saw' in some usages.",
+  "example": "لوگوں کے آرا مختلف تھے۔",
+  "synonyms": ["Opinions", "Views", "Ideas"],
+  "antonyms": ["Consensus", "Agreement"]
+},
+{
+  "word": "Aaraa'",
+  "urdu": "آراء",
+  "sanskrit": "आराः",
+  "hindi": "आरा",
+  "meaning": "Opinions, views, or perspectives; plural form of 'Raa’'.",
+  "example": "People's aaraa differed on how to handle the situation.",
+  "synonyms": ["opinions", "views", "ideas"],
+  "antonyms": ["consensus", "agreement"]
+},
+{
+  "word": "Aaraish",
+  "urdu": "آرائش",
+  "sanskrit": "आलङ्कार",
+  "hindi": "आराइश",
+  "meaning": "Decoration or adornment; act of beautifying or embellishing something.",
+  "example": "The hall was glowing after its elegant aaraish.",
+  "synonyms": ["decoration", "adornment", "ornamentation"],
+  "antonyms": ["plainness", "simplicity"]
+},
+{
+  "word": "Aaraish_pasand",
+  "urdu": "آرائش_پسند",
+  "sanskrit": "आलङ्कारप्रिय",
+  "hindi": "आराइश पसंद",
+  "meaning": "One who loves decoration or beautification; fond of elegance and aesthetics.",
+  "example": "She is an aaraish-pasand woman who enjoys designing her home.",
+  "synonyms": ["aesthetic", "decorative", "art-loving"],
+  "antonyms": ["plain", "indifferent"]
+},
+{
+  "word": "Aaraishon",
+  "urdu": "آرائشوں",
+  "sanskrit": "आलङ्कारों",
+  "hindi": "आराइशों",
+  "meaning": "Plural of 'aaraish'; decorations or embellishments.",
+  "example": "The festival was full of colorful aaraishon.",
+  "synonyms": ["decorations", "embellishments", "ornaments"],
+  "antonyms": ["simplicity", "austerity"]
+},
+{
+  "word": "Aaraishi",
+  "urdu": "آرائشی",
+  "sanskrit": "आलङ्कृत",
+  "hindi": "आराइशी",
+  "meaning": "Decorative; relating to or serving as an ornament.",
+  "example": "The room had an aaraishi touch with golden drapes.",
+  "synonyms": ["decorative", "ornamental", "embellished"],
+  "antonyms": ["plain", "bare"]
+},
+{
+  "word": "Aaraishen",
+  "urdu": "آرائشیں",
+  "sanskrit": "आलङ्काराः",
+  "hindi": "आराइशें",
+  "meaning": "Various decorations or designs; plural of aaraish.",
+  "example": "Her wedding had elegant floral aaraishen.",
+  "synonyms": ["decorations", "designs", "adornments"],
+  "antonyms": ["minimalism", "plainness"]
+},
+{
+  "word": "Aaraindon",
+  "urdu": "آرائندوں",
+  "sanskrit": "आलङ्कारकर्तृ",
+  "hindi": "आराइंदों",
+  "meaning": "Those who adorn or decorate; decorators or designers.",
+  "example": "The aaraindon were busy setting up the stage for the event.",
+  "synonyms": ["decorators", "designers", "stylists"],
+  "antonyms": ["destroyers", "neglecters"]
+},
+{
+  "word": "Aaraindah",
+  "urdu": "آرائندہ",
+  "sanskrit": "आलङ्कारक",
+  "hindi": "आराइंदा",
+  "meaning": "One who decorates or beautifies something; an embellisher.",
+  "example": "The aaraindah artist gave life to the dull hall.",
+  "synonyms": ["adorner", "decorator", "designer"],
+  "antonyms": ["defacer", "spoiler"]
+},
+{
+  "word": "Aarainde",
+  "urdu": "آرائندے",
+  "sanskrit": "आलङ्कारकाः",
+  "hindi": "आराइंदे",
+  "meaning": "Plural of aaraindah; those who engage in decoration or design.",
+  "example": "All the aarainde worked together to prepare the royal palace for the festival.",
+  "synonyms": ["decorators", "adorners", "embellishers"],
+  "antonyms": ["defacers", "neglecters"]
+  },
+  {
+    "word": "Aaraai",
+    "urdu": "آرائی",
+    "sanskrit": "आलङ्कार",
+    "hindi": "आराई",
+    "meaning": "Adornment, decoration, or embellishment; the act of beautifying or refining something.",
+    "example": "The hall’s aaraai made it look grand and luxurious.",
+    "synonyms": ["decoration", "adornment", "embellishment"],
+    "antonyms": ["plainness", "simplicity"]
+  },
+  {
+    "word": "Aaraaiyaan",
+    "urdu": "آرائیاں",
+    "sanskrit": "आलङ्काराः",
+    "hindi": "आराइयाँ",
+    "meaning": "Decorations or embellishments; plural of aaraai.",
+    "example": "The palace was filled with beautiful aaraaiyaan for the ceremony.",
+    "synonyms": ["decorations", "ornaments", "adornments"],
+    "antonyms": ["plainness", "austerity"]
+  },
+  {
+    "word": "Aaraaiyon",
+    "urdu": "آرائیوں",
+    "sanskrit": "आलङ्कारों",
+    "hindi": "आराइयों",
+    "meaning": "Of or related to decorations; genitive or plural form of aaraai.",
+    "example": "The room sparkled with golden aaraaiyon and crystal lights.",
+    "synonyms": ["ornamentations", "embellishments"],
+    "antonyms": ["plainness", "minimalism"]
+  },
+  {
+    "word": "Aarar",
+    "urdu": "آرار",
+    "sanskrit": "आरा",
+    "hindi": "आरार",
+    "meaning": "A large saw used for cutting wood.",
+    "example": "The carpenter used an aarar to split the heavy log into planks.",
+    "synonyms": ["saw", "woodcutter’s tool"],
+    "antonyms": ["blunt tool", "unsharpened blade"]
+  },
+  {
+    "word": "Aararaa",
+    "urdu": "آرارا",
+    "sanskrit": "आरा-सदृश",
+    "hindi": "आरारा",
+    "meaning": "A toothed or saw-like instrument; resembling a saw.",
+    "example": "He used an aararaa blade to shape the wooden edge precisely.",
+    "synonyms": ["serrated tool", "toothed blade"],
+    "antonyms": ["smooth tool", "flat edge"]
+  },
+  {
+    "word": "Aaraastagi",
+    "urdu": "آراستگی",
+    "sanskrit": "व्यवस्था",
+    "hindi": "आरास्तगी",
+    "meaning": "Neatness, orderliness, or the quality of being well-arranged.",
+    "example": "Her aaraastagi was visible in every corner of her home.",
+    "synonyms": ["tidiness", "neatness", "organization"],
+    "antonyms": ["disorder", "messiness"]
+  },
+  {
+    "word": "Aaraastah",
+    "urdu": "آراستہ",
+    "sanskrit": "अलङ्कृत",
+    "hindi": "आरास्ता",
+    "meaning": "Decorated, adorned, or arranged beautifully.",
+    "example": "The bride looked gracefully aaraastah in her red attire.",
+    "synonyms": ["adorned", "decorated", "embellished"],
+    "antonyms": ["plain", "undecorated"]
+  },
+  {
+    "word": "Aaraastah_o_Peeraastah",
+    "urdu": "آراستہ_و_پیراستہ",
+    "sanskrit": "सम्यक्-आलङ्कृत",
+    "hindi": "आरास्ता व पिरास्ता",
+    "meaning": "Fully decorated, refined, and elegant; perfectly arranged.",
+    "example": "The garden looked aaraastah-o-peeraastah after the renovation.",
+    "synonyms": ["refined", "well-arranged", "graceful"],
+    "antonyms": ["shabby", "untidy"]
+  },
+  {
+    "word": "Aaraaz",
+    "urdu": "آراض",
+    "sanskrit": "भूमयः",
+    "hindi": "आराज़",
+    "meaning": "Lands or plots; often used in poetic or archaic context.",
+    "example": "He inherited wide aaraaz from his ancestors.",
+    "synonyms": ["lands", "plots", "fields"],
+    "antonyms": ["sea", "waterbody"]
+  },
+  {
+    "word": "Aaraazi",
+    "urdu": "آراضی",
+    "sanskrit": "भूमि",
+    "hindi": "आराज़ी",
+    "meaning": "Land, estate, or property; a tract of land.",
+    "example": "The farmer sold a part of his aaraazi to pay debts.",
+    "synonyms": ["land", "property", "terrain"],
+    "antonyms": ["sea", "sky"]
+  },
+  {
+    "word": "Aaraaziyan",
+    "urdu": "آراضیاں",
+    "sanskrit": "भूमयः",
+    "hindi": "आराज़ियाँ",
+    "meaning": "Lands or estates; plural form of 'Aaraazi'.",
+    "example": "The landlord owned several aaraaziyan in the northern district.",
+    "synonyms": ["lands", "properties", "fields", "estates"],
+    "antonyms": ["sea", "waterbody", "desert"]
+  },
+  {
+    "word": "Aaraazeen",
+    "urdu": "آراضین",
+    "sanskrit": "भूमयः",
+    "hindi": "आराज़ीन",
+    "meaning": "Tracts of land; plural or collective form of 'Aaraazi'.",
+    "example": "All aaraazeen of the estate were surveyed by the officials.",
+    "synonyms": ["plots", "terrains", "lands"],
+    "antonyms": ["sky", "ocean"]
+  },
+  {
+    "word": "Aaraam",
+    "urdu": "آرام",
+    "sanskrit": "विश्रान्ति",
+    "hindi": "आराम",
+    "meaning": "Rest, comfort, peace, or relaxation.",
+    "example": "After a long journey, he finally took some aaraam under the shade.",
+    "synonyms": ["rest", "peace", "repose", "comfort"],
+    "antonyms": ["stress", "work", "fatigue"]
+  },
+  {
+    "word": "Aaraam_Bakhsh",
+    "urdu": "آرام_بخش",
+    "sanskrit": "विश्रान्तिदायक",
+    "hindi": "आरामदायक",
+    "meaning": "Comfort-giving or relaxing; something that brings peace or rest.",
+    "example": "The cool breeze felt truly aaraam-bakhsh after the hot day.",
+    "synonyms": ["comforting", "soothing", "relaxing"],
+    "antonyms": ["irritating", "tiring"]
+  },
+  {
+    "word": "Aaraam_Jaan",
+    "urdu": "آرام_جاں",
+    "sanskrit": "आत्म-विश्रान्ति",
+    "hindi": "आराम-ए-जान",
+    "meaning": "Peace of soul; one who brings comfort or joy to the heart.",
+    "example": "His mother was his aaraam-jaan — the source of all peace and love.",
+    "synonyms": ["beloved", "comfort of the soul", "heart’s peace"],
+    "antonyms": ["trouble", "pain", "disturbance"]
+  },
+  {
+    "word": "Aaraam_Daan",
+    "urdu": "آرام_دان",
+    "sanskrit": "शयनासन",
+    "hindi": "आरामदान",
+    "meaning": "A couch, reclining chair, or place of rest.",
+    "example": "He lay lazily on the aaraam-daan reading his favorite book.",
+    "synonyms": ["sofa", "recliner", "couch"],
+    "antonyms": ["stool", "bench"]
+  },
+  {
+    "word": "Aaraam_Deh",
+    "urdu": "آرام_دہ",
+    "sanskrit": "विश्रान्तिदायक",
+    "hindi": "आरामदेह",
+    "meaning": "Comfortable, restful, or relaxing in nature.",
+    "example": "The room was designed to be aaraam-deh for travelers.",
+    "synonyms": ["comfortable", "pleasant", "restful"],
+    "antonyms": ["uncomfortable", "harsh", "painful"]
+  },
+  {
+    "word": "Aaraam_Rasaan",
+    "urdu": "آرام_رساں",
+    "sanskrit": "विश्रान्तिप्रद",
+    "hindi": "आरामरसा",
+    "meaning": "Bringing peace or relaxation; soothing.",
+    "example": "His words were aaraam-rasaan to her troubled heart.",
+    "synonyms": ["soothing", "pacifying", "calming"],
+    "antonyms": ["agitating", "disturbing"]
+  },
+  {
+    "word": "Aaraam_Waali",
+    "urdu": "آرام_والی",
+    "sanskrit": "विश्रान्तियुक्त",
+    "hindi": "आरामवाली",
+    "meaning": "One or something associated with comfort or relaxation; feminine form.",
+    "example": "She sat on her favorite aaraam-waali chair near the window.",
+    "synonyms": ["comfortable", "cozy", "restful"],
+    "antonyms": ["rough", "uneasy"]
+  },
+  {
+    "word": "Aaraam_Paai",
+    "urdu": "آرام_پائی",
+    "sanskrit": "शय्या",
+    "hindi": "आरामपाई",
+    "meaning": "A bed or cot designed for rest or sleeping.",
+    "example": "The old wooden aaraam-paai creaked gently as he lay down.",
+    "synonyms": ["bed", "cot", "charpoy"],
+    "antonyms": ["floor", "ground"]
+  },
+  {
+    "word": "Aaraam_Paal",
+    "urdu": "آرام_پال",
+    "sanskrit": "विश्रान्तिपालक",
+    "hindi": "आरामपाल",
+    "meaning": "A caretaker of comfort; someone who ensures peace and rest.",
+    "example": "The resort staff acted as aaraam-paal for their tired guests.",
+    "synonyms": ["caretaker", "comfort-provider"],
+    "antonyms": ["neglector", "disturber"]
+
+    
   }
 ]
