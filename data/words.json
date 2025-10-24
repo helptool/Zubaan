@@ -4908,5 +4908,4136 @@
     "example": "Azmaiyo faced the final challenge with courage.",
     "synonyms": ["tested people", "experienced ones"],
     "antonyms": ["untested", "inexperienced"]
+  },
+  {
+    "word": "Azmain",
+    "urdu": "آزمائیں",
+    "sanskrit": "परीक्षयन्तु",
+    "hindi": "आजमाएं",
+    "meaning": "Imperative plural: 'Try' or 'Test' (command to multiple people).",
+    "example": "Azmain your skills in the competition.",
+    "synonyms": ["test", "try", "attempt"],
+    "antonyms": ["ignore", "avoid"]
+  },
+  {
+    "word": "Azmaiye",
+    "urdu": "آزمائیے",
+    "sanskrit": "परीक्षत",
+    "hindi": "आजमाइए",
+    "meaning": "Imperative singular polite: 'Please try' or 'Please test'.",
+    "example": "Azmaiye this method and see if it works.",
+    "synonyms": ["try", "test", "attempt"],
+    "antonyms": ["neglect", "skip"]
+  },
+  {
+    "word": "Azmaaye",
+    "urdu": "آزمائے",
+    "sanskrit": "परीक्षतु",
+    "hindi": "आजमाए",
+    "meaning": "Past tense: 'Tried' or 'Tested'.",
+    "example": "He azmaaye the solution before submitting it.",
+    "synonyms": ["tested", "tried", "attempted"],
+    "antonyms": ["ignored", "skipped"]
+  },
+  {
+    "word": "Azmata",
+    "urdu": "آزماتا",
+    "sanskrit": "परीक्षते",
+    "hindi": "आजमाता",
+    "meaning": "He tries or tests.",
+    "example": "He azmata different methods to solve the problem.",
+    "synonyms": ["tests", "tries", "examines"],
+    "antonyms": ["ignores", "avoids"]
+  },
+  {
+    "word": "Azmati",
+    "urdu": "آزماتی",
+    "sanskrit": "परीक्षते",
+    "hindi": "आजमाती",
+    "meaning": "She tries or tests.",
+    "example": "She azmati all possible solutions carefully.",
+    "synonyms": ["tests", "tries", "examines"],
+    "antonyms": ["ignores", "avoids"]
+  },
+  {
+    "word": "Azmaten",
+    "urdu": "آزماتیں",
+    "sanskrit": "परीक्षन्ति",
+    "hindi": "आज़मातें",
+    "meaning": "They (females) try or test.",
+    "example": "The students azmaten different formulas during the lab session.",
+    "synonyms": ["try", "test", "attempt"],
+    "antonyms": ["ignore", "avoid"]
+  },
+  {
+    "word": "Azmate",
+    "urdu": "آزماتے",
+    "sanskrit": "परीक्षन्ति",
+    "hindi": "आज़माते",
+    "meaning": "They (males) try or test.",
+    "example": "The team azmate various strategies for the game.",
+    "synonyms": ["try", "test", "attempt"],
+    "antonyms": ["ignore", "avoid"]
+  },
+  {
+    "word": "Azmana",
+    "urdu": "آزمانا",
+    "sanskrit": "परीक्षणीयम्",
+    "hindi": "आज़माना",
+    "meaning": "To test or to try (infinitive).",
+    "example": "It is important to azmana new approaches to learn faster.",
+    "synonyms": ["test", "try", "attempt"],
+    "antonyms": ["neglect", "skip"]
+  },
+  {
+    "word": "Azmani",
+    "urdu": "آزمانی",
+    "sanskrit": "परीक्षात्मक",
+    "hindi": "आज़मानी",
+    "meaning": "Related to testing or experimental.",
+    "example": "The azmani method showed promising results.",
+    "synonyms": ["trial", "experimental", "test-related"],
+    "antonyms": ["permanent", "fixed"]
+  },
+  {
+    "word": "Azmane",
+    "urdu": "آزمانے",
+    "sanskrit": "परीक्षितुम्",
+    "hindi": "आज़माने",
+    "meaning": "Act of testing or trying.",
+    "example": "Azmane new techniques often leads to better outcomes.",
+    "synonyms": ["testing", "trying", "experimenting"],
+    "antonyms": ["ignoring", "skipping"]
+  },
+  {
+    "word": "Azmaona",
+    "urdu": "آزماونا",
+    "sanskrit": "परीक्षितुम्",
+    "hindi": "आज़माओना",
+    "meaning": "To make someone try or test.",
+    "example": "The teacher azmaona the students with practical exercises.",
+    "synonyms": ["have someone try", "make test"],
+    "antonyms": ["prevent", "stop"]
+  },
+  {
+    "word": "Azmaya",
+    "urdu": "آزمایا",
+    "sanskrit": "परीक्षित",
+    "hindi": "आजमाया",
+    "meaning": "He/she tested or tried.",
+    "example": "He azmaya his skills before the exam.",
+    "synonyms": ["tested", "tried", "examined"],
+    "antonyms": ["ignored", "avoided"]
+  },
+  {
+    "word": "Azmaae",
+    "urdu": "آزماے",
+    "sanskrit": "परीक्षित",
+    "hindi": "आजमाए",
+    "meaning": "Variant of past tense: tried or tested.",
+    "example": "The scientist azmaae different formulas in the lab.",
+    "synonyms": ["tested", "tried", "experimented"],
+    "antonyms": ["ignored", "avoided"]
+  },
+  {
+    "word": "Azmand",
+    "urdu": "آزمند",
+    "sanskrit": "परीक्षित",
+    "hindi": "आज़मंद",
+    "meaning": "Experienced or tested; skilled through trials.",
+    "example": "He is an azmand engineer after years of practice.",
+    "synonyms": ["experienced", "skilled", "tested"],
+    "antonyms": ["inexperienced", "novice"]
+  },
+  {
+    "word": "Azmodgan",
+    "urdu": "آزمودگان",
+    "sanskrit": "परीक्षिताः",
+    "hindi": "आज़मूदगान",
+    "meaning": "Those who have been tested or tried.",
+    "example": "Azmodgan have proven their skills over the years.",
+    "synonyms": ["tested ones", "experienced people"],
+    "antonyms": ["untested", "inexperienced"]
+  },
+  {
+    "word": "Azmodah",
+    "urdu": "آزمودہ",
+    "sanskrit": "परीक्षित",
+    "hindi": "आज़मूदह",
+    "meaning": "Tested, experienced, or proven.",
+    "example": "The azmodah method gave consistent results.",
+    "synonyms": ["tested", "proven", "experienced"],
+    "antonyms": ["untested", "unproven"]
+  },
+  {
+    "word": "Azmodah-Karan",
+    "urdu": "آزمودہ_کاران",
+    "sanskrit": "परीक्षितकर्तारः",
+    "hindi": "आज़मूदह_कारान",
+    "meaning": "Experienced practitioners or skilled doers.",
+    "example": "Azmodah-Karan handled the project with precision.",
+    "synonyms": ["experienced professionals", "skilled workers"],
+    "antonyms": ["novices", "beginners"]
+  },
+  {
+    "word": "Azmodah-Karon",
+    "urdu": "آزمودہ_کاروں",
+    "sanskrit": "परीक्षितकर्तृभिः",
+    "hindi": "आज़मूदह_कारों",
+    "meaning": "Plural form; experienced practitioners.",
+    "example": "The azmodah-Karon ensured the work was flawless.",
+    "synonyms": ["skilled workers", "experienced staff"],
+    "antonyms": ["novices", "inexperienced"]
+  },
+  {
+    "word": "Azma",
+    "urdu": "آزمہ",
+    "sanskrit": "परीक्षित",
+    "hindi": "आज़मा",
+    "meaning": "Test or trial; also a root for testing verbs.",
+    "example": "He faced the azma bravely.",
+    "synonyms": ["trial", "test", "challenge"],
+    "antonyms": ["comfort", "ease"]
+  },
+  {
+    "word": "As",
+    "urdu": "آس",
+    "sanskrit": "आशा",
+    "hindi": "आस",
+    "meaning": "Hope or expectation.",
+    "example": "He held onto the as that things would improve.",
+    "synonyms": ["hope", "expectation", "wish"],
+    "antonyms": ["despair", "hopelessness"]
+  },
+  {
+    "word": "As-Mand",
+    "urdu": "آس_مند",
+    "sanskrit": "आशासम्पन्न",
+    "hindi": "आस_मंद",
+    "meaning": "Hopeful, filled with expectation.",
+    "example": "She remained as-mand despite difficulties.",
+    "synonyms": ["hopeful", "optimistic"],
+    "antonyms": ["despairing", "pessimistic"]
+  },
+  {
+    "word": "As-Mandon",
+    "urdu": "آس_مندوں",
+    "sanskrit": "आशासम्पन्नः",
+    "hindi": "आस_मंदों",
+    "meaning": "Plural; hopeful people.",
+    "example": "The as-mandon awaited the results eagerly.",
+    "synonyms": ["hopeful people", "optimists"],
+    "antonyms": ["despairing people", "pessimists"]
+  },
+  {
+    "word": "As-Kati",
+    "urdu": "آس_کاٹی",
+    "sanskrit": "आशाकटि",
+    "hindi": "आस_काटी",
+    "meaning": "Someone who cuts or diminishes hope.",
+    "example": "His words were as-kati for the team.",
+    "synonyms": ["discourager", "pessimist"],
+    "antonyms": ["encourager", "motivator"]
+  },
+  {
+    "word": "Asa",
+    "urdu": "آسا",
+    "sanskrit": "आशा",
+    "hindi": "आसा",
+    "meaning": "Comfortable or ease; sometimes used as a name.",
+    "example": "He sought a life filled with asa.",
+    "synonyms": ["ease", "comfort", "relief"],
+    "antonyms": ["stress", "difficulty"]
+  },
+  {
+    "word": "Asaish",
+    "urdu": "آسائش",
+    "sanskrit": "सुख-सुविधा",
+    "hindi": "आसाइश",
+    "meaning": "Comfort, luxury, or convenience.",
+    "example": "The hotel offered all the modern asaish.",
+    "synonyms": ["comfort", "luxury", "convenience"],
+    "antonyms": ["discomfort", "hardship"]
+  },
+  {
+    "word": "Asaish-Talab",
+    "urdu": "آسائش_طلب",
+    "sanskrit": "सुखास्वेच्छक",
+    "hindi": "आसाइश_तलब",
+    "meaning": "Seeker of comfort or luxury.",
+    "example": "He was an asaish-talab, always preferring ease over effort.",
+    "synonyms": ["comfort seeker", "luxury lover"],
+    "antonyms": ["hardship accepter", "minimalist"]
+  },
+  {
+    "word": "Asaishon",
+    "urdu": "آسائشوں",
+    "sanskrit": "सुख-सुविधाः",
+    "hindi": "आसाइशों",
+    "meaning": "Plural of comfort or luxury.",
+    "example": "The guests enjoyed all the asaishon provided.",
+    "synonyms": ["luxuries", "comforts", "conveniences"],
+    "antonyms": ["hardships", "discomforts"]
+  },
+  {
+    "word": "Asaishi",
+    "urdu": "آسائشی",
+    "sanskrit": "सुख-सुविधात्मक",
+    "hindi": "आसाइशी",
+    "meaning": "Related to comfort or luxury.",
+    "example": "The asaishi arrangements impressed the visitors.",
+    "synonyms": ["comfortable", "luxurious", "convenient"],
+    "antonyms": ["uncomfortable", "hard", "plain"]
+  },
+  {
+    "word": "Asaishen",
+    "urdu": "آسائشیں",
+    "sanskrit": "सुख-सुविधाएँ",
+    "hindi": "आसाइशें",
+    "meaning": "Various comforts or luxuries.",
+    "example": "The hotel provided many modern asaishen.",
+    "synonyms": ["comforts", "facilities", "amenities"],
+    "antonyms": ["hardships", "difficulties"]
+  },
+  {
+    "word": "Asad",
+    "urdu": "آساد",
+    "sanskrit": "शांति",
+    "hindi": "आसाद",
+    "meaning": "Peaceful or calm.",
+    "example": "The garden gave an asad feeling to everyone.",
+    "synonyms": ["calm", "peaceful", "serene"],
+    "antonyms": ["chaotic", "disturbed"]
+  },
+  {
+    "word": "Asam",
+    "urdu": "آسام",
+    "sanskrit": "स्थान",
+    "hindi": "आसम",
+    "meaning": "A place or region; also a proper noun.",
+    "example": "He traveled to Asam for research.",
+    "synonyms": ["region", "area", "place"],
+    "antonyms": ["nowhere"]
+  },
+  {
+    "word": "Asami",
+    "urdu": "آسامی",
+    "sanskrit": "पद",
+    "hindi": "आसामी",
+    "meaning": "Position or post; often refers to employment or rank.",
+    "example": "He applied for an asami in the government office.",
+    "synonyms": ["position", "post", "job"],
+    "antonyms": ["unemployment", "vacancy"]
+  },
+  {
+    "word": "Asami-Baz",
+    "urdu": "آسامی_باز",
+    "sanskrit": "पदास्वामी",
+    "hindi": "आसामी_बाज",
+    "meaning": "One who seeks posts or positions, often opportunistically.",
+    "example": "He was an asami-baz, always chasing promotions.",
+    "synonyms": ["opportunist", "position-seeker"],
+    "antonyms": ["modest", "non-seeker"]
+  },
+  {
+    "word": "Asamiyan",
+    "urdu": "آسامیاں",
+    "sanskrit": "पदाः",
+    "hindi": "आसामियां",
+    "meaning": "Plural of positions or posts.",
+    "example": "The government announced several asamiyan for fresh graduates.",
+    "synonyms": ["posts", "positions", "vacancies"],
+    "antonyms": ["unfilled", "void"]
+  },
+  {
+    "word": "Asamiyon",
+    "urdu": "آسامیوں",
+    "sanskrit": "पदेषु",
+    "hindi": "आसामियों",
+    "meaning": "Alternate plural form for posts or positions.",
+    "example": "Many asamiyon were available for qualified candidates.",
+    "synonyms": ["vacancies", "posts", "roles"],
+    "antonyms": ["absence", "lack"]
+  },
+  {
+    "word": "Aasaan",
+    "urdu": "آسان",
+    "sanskrit": "सुलभ",
+    "hindi": "आसान",
+    "meaning": "Easy or simple.",
+    "example": "The task was surprisingly aasaan for her.",
+    "synonyms": ["easy", "simple", "effortless"],
+    "antonyms": ["difficult", "hard", "complex"]
+  },
+  {
+    "word": "Aasangi",
+    "urdu": "آسانگی",
+    "sanskrit": "सुगमता",
+    "hindi": "आसांगी",
+    "meaning": "Ease or simplicity in doing something.",
+    "example": "The guide explained the process with great aasangi.",
+    "synonyms": ["ease", "simplicity", "convenience"],
+    "antonyms": ["difficulty", "complexity"]
+  },
+  {
+    "word": "Aasangiyan",
+    "urdu": "آسانگیاں",
+    "sanskrit": "सुगमताएँ",
+    "hindi": "आसांगियां",
+    "meaning": "Plural of eases or conveniences.",
+    "example": "The software provides many aasangiyan for users.",
+    "synonyms": ["facilities", "conveniences", "ease"],
+    "antonyms": ["hardships", "inconveniences"]
+  },
+  {
+    "word": "Aasani",
+    "urdu": "آسانی",
+    "sanskrit": "सुविधा",
+    "hindi": "आसानी",
+    "meaning": "Comfort, ease, or simplicity.",
+    "example": "She completed the work with great aasani.",
+    "synonyms": ["ease", "comfort", "simplicity"],
+    "antonyms": ["difficulty", "hardship"]
+  },
+  {
+    "word": "Aasani-Se",
+    "urdu": "آسانی_سے",
+    "sanskrit": "सुविधासे",
+    "hindi": "आसानी_से",
+    "meaning": "Easily or with ease.",
+    "example": "He solved the puzzle aasani-se.",
+    "synonyms": ["easily", "effortlessly"],
+    "antonyms": ["with difficulty", "hardly"]
+  },
+  {
+    "word": "Aasaniyan",
+    "urdu": "آسانیاں",
+    "sanskrit": "सुविधाएँ",
+    "hindi": "आसानियाँ",
+    "meaning": "Plural form of comforts or eases.",
+    "example": "Modern life provides many aasaniyan we take for granted.",
+    "synonyms": ["conveniences", "facilities", "comforts"],
+    "antonyms": ["hardships", "difficulties"]
+  },
+  {
+    "word": "Aasanit",
+    "urdu": "آسانیت",
+    "sanskrit": "सुलभता",
+    "hindi": "आसानित",
+    "meaning": "Easiness or simplicity.",
+    "example": "The aasanit of the process made it popular.",
+    "synonyms": ["ease", "simplicity", "comfort"],
+    "antonyms": ["difficulty", "complexity"]
+  },
+  {
+    "word": "Aasaniten",
+    "urdu": "آسانیتیں",
+    "sanskrit": "सुलभताः",
+    "hindi": "आसानितें",
+    "meaning": "Plural of easiness or simplicity.",
+    "example": "Modern tools provide many aasaniten for work.",
+    "synonyms": ["facilities", "ease", "comforts"],
+    "antonyms": ["hardships", "difficulties"]
+  },
+  {
+    "word": "Aasaniyon",
+    "urdu": "آسانیوں",
+    "sanskrit": "सुविधाः",
+    "hindi": "आसानियों",
+    "meaning": "Plural of conveniences or eases.",
+    "example": "The new software adds many aasaniyon for users.",
+    "synonyms": ["conveniences", "facilities", "comforts"],
+    "antonyms": ["inconveniences", "difficulties"]
+  },
+  {
+    "word": "Asaan",
+    "urdu": "آساں",
+    "sanskrit": "सुलभ",
+    "hindi": "आसान",
+    "meaning": "Easy or simple.",
+    "example": "This task is surprisingly asaan for beginners.",
+    "synonyms": ["easy", "simple", "effortless"],
+    "antonyms": ["difficult", "hard", "complex"]
+  },
+  {
+    "word": "Asta",
+    "urdu": "آستا",
+    "sanskrit": "शांत",
+    "hindi": "आस्ता",
+    "meaning": "Slowly, gently, or gradually.",
+    "example": "He spoke asta to avoid startling the child.",
+    "synonyms": ["slowly", "gently", "gradually"],
+    "antonyms": ["quickly", "harshly"]
+  },
+  {
+    "word": "Astai",
+    "urdu": "آستائی",
+    "sanskrit": "सौम्य",
+    "hindi": "आस्ताई",
+    "meaning": "Mild, gentle, or soft.",
+    "example": "The astai breeze cooled the garden.",
+    "synonyms": ["gentle", "soft", "mild"],
+    "antonyms": ["harsh", "rough"]
+  },
+  {
+    "word": "Astai-Barn",
+    "urdu": "آستائی_برن",
+    "sanskrit": "सौम्यकर्मी",
+    "hindi": "आस्ताई_बरन",
+    "meaning": "Someone gentle or mild in behavior.",
+    "example": "The astai-barn handled the children kindly.",
+    "synonyms": ["gentle person", "mild-mannered"],
+    "antonyms": ["harsh person", "strict"]
+  },
+  {
+    "word": "Astaaiyan",
+    "urdu": "آستائیاں",
+    "sanskrit": "सौम्यताएँ",
+    "hindi": "आस्ताइयाँ",
+    "meaning": "Plural of mild or gentle things.",
+    "example": "The astaiyan winds brought relief in summer.",
+    "synonyms": ["gentle things", "soft elements"],
+    "antonyms": ["harshness", "severity"]
+  },
+  {
+    "word": "Astaiyon",
+    "urdu": "آستائیوں",
+    "sanskrit": "सौम्यताः",
+    "hindi": "आस्ताइयों",
+    "meaning": "Plural form for mild or gentle persons or things.",
+    "example": "The astaiyon of the village were respected for their kindness.",
+    "synonyms": ["gentle ones", "mild-mannered people"],
+    "antonyms": ["harsh ones", "strict people"]
+  },
+  {
+    "word": "Astan",
+    "urdu": "آستان",
+    "sanskrit": "द्वार",
+    "hindi": "आस्तान",
+    "meaning": "Threshold, doorstep, or entrance.",
+    "example": "He stood at the astan of the temple.",
+    "synonyms": ["threshold", "doorstep", "entrance"],
+    "antonyms": ["exit", "departure"]
+  },
+  {
+    "word": "Astan-Bos",
+    "urdu": "آستان_بوس",
+    "sanskrit": "द्वार-सम्प्रणाम",
+    "hindi": "आस्तान_बोस",
+    "meaning": "One who reveres or kisses the threshold; humble person.",
+    "example": "He was an astan-bos, showing respect to elders.",
+    "synonyms": ["humble person", "respectful one"],
+    "antonyms": ["arrogant person", "disrespectful"]
+  },
+  {
+    "word": "Astanon",
+    "urdu": "آستانوں",
+    "sanskrit": "द्वाराणि",
+    "hindi": "आस्तानों",
+    "meaning": "Plural of thresholds or entrances.",
+    "example": "The astanon of the palace were decorated beautifully.",
+    "synonyms": ["doorsteps", "entrances"],
+    "antonyms": ["exits", "departures"]
+  },
+  {
+    "word": "Astana",
+    "urdu": "آستانہ",
+    "sanskrit": "प्रवेशद्वार",
+    "hindi": "आस्ताना",
+    "meaning": "A specific threshold or revered entrance.",
+    "example": "The astana of the shrine was beautifully maintained.",
+    "synonyms": ["threshold", "doorstep", "entrance"],
+    "antonyms": ["exit", "end"]
+  },
+  {
+    "word": "Astane",
+    "urdu": "آستانے",
+    "sanskrit": "प्रवेशद्वाराणि",
+    "hindi": "आस्ताने",
+    "meaning": "Plural of astana; multiple thresholds or entrances.",
+    "example": "The astane of all houses were decorated for the festival.",
+    "synonyms": ["doorsteps", "entrances"],
+    "antonyms": ["exits", "ends"]
+  },
+  {
+    "word": "Astawa",
+    "urdu": "آستاوا",
+    "sanskrit": "माध्यम",
+    "hindi": "आस्तावा",
+    "meaning": "A foundation or base; sometimes used metaphorically.",
+    "example": "Education is the astawa of a progressive society.",
+    "synonyms": ["foundation", "base", "support"],
+    "antonyms": ["top", "peak"]
+  },
+  {
+    "word": "Astave",
+    "urdu": "آستاوے",
+    "sanskrit": "आधार",
+    "hindi": "आस्तावे",
+    "meaning": "Foundation or base; support.",
+    "example": "Education is the astave of society.",
+    "synonyms": ["base", "foundation", "support"],
+    "antonyms": ["top", "peak"]
+  },
+  {
+    "word": "Astan",
+    "urdu": "آستاں",
+    "sanskrit": "द्वार",
+    "hindi": "आस्तां",
+    "meaning": "Entrance, threshold, or doorway.",
+    "example": "He stood at the astan of the temple.",
+    "synonyms": ["threshold", "doorway", "entrance"],
+    "antonyms": ["exit", "end"]
+  },
+  {
+    "word": "Astar",
+    "urdu": "آستر",
+    "sanskrit": "आंतरिक आवरण",
+    "hindi": "आस्तर",
+    "meaning": "Lining or inner layer, often of clothes.",
+    "example": "The coat had a soft astar for comfort.",
+    "synonyms": ["lining", "interior", "inner layer"],
+    "antonyms": ["outer layer", "exterior"]
+  },
+  {
+    "word": "Astray",
+    "urdu": "آسترے",
+    "sanskrit": "उपकरण",
+    "hindi": "आस्त्रे",
+    "meaning": "Tools, instruments, or utensils.",
+    "example": "He kept all the astray in a box.",
+    "synonyms": ["tools", "instruments", "utensils"],
+    "antonyms": ["hands", "bare"]
+  },
+  {
+    "word": "Aastak",
+    "urdu": "آستک",
+    "sanskrit": "बाँध",
+    "hindi": "आस्तक",
+    "meaning": "A strap, cord, or tie.",
+    "example": "He tied the bundle with a strong aastak.",
+    "synonyms": ["strap", "cord", "tie"],
+    "antonyms": ["loose", "untied"]
+  },
+  {
+    "word": "Aastakon",
+    "urdu": "آستکوں",
+    "sanskrit": "रस्सियाँ",
+    "hindi": "आस्तकों",
+    "meaning": "Plural of straps or ties.",
+    "example": "The astakons were used to secure all packages.",
+    "synonyms": ["straps", "cords", "ties"],
+    "antonyms": ["loosenings", "unfastened"]
+  },
+  {
+    "word": "Aastaken",
+    "urdu": "آستکیں",
+    "sanskrit": "रस्सियाँ",
+    "hindi": "आस्तकें",
+    "meaning": "Alternate plural form of straps or ties.",
+    "example": "He adjusted the aastaken carefully.",
+    "synonyms": ["straps", "cords", "ties"],
+    "antonyms": ["loosenings", "untied"]
+  },
+  {
+    "word": "Asthm",
+    "urdu": "آستھم",
+    "sanskrit": "श्वसन रोग",
+    "hindi": "आस्थ्म",
+    "meaning": "Asthma; a respiratory condition.",
+    "example": "Asthm patients should avoid dust.",
+    "synonyms": ["asthma", "breathing problem"],
+    "antonyms": ["healthy breathing"]
+  },
+  {
+    "word": "Asteen",
+    "urdu": "آستین",
+    "sanskrit": "बाहु आवरण",
+    "hindi": "आस्तीन",
+    "meaning": "Sleeve of a garment.",
+    "example": "He rolled up his asteen before washing.",
+    "synonyms": ["sleeve", "arm cover"],
+    "antonyms": ["sleeveless", "open arm"]
+  },
+  {
+    "word": "Asteen-Kakaf",
+    "urdu": "آستین_کاکف",
+    "sanskrit": "आस्तीन कफ़",
+    "hindi": "आस्तीन_काकफ",
+    "meaning": "Cuff of a sleeve.",
+    "example": "The shirt's asteen-kakaf was embroidered.",
+    "synonyms": ["cuff", "sleeve end"],
+    "antonyms": ["open sleeve"]
+  },
+  {
+    "word": "Asteenon",
+    "urdu": "آستینوں",
+    "sanskrit": "बाहु आवरणाः",
+    "hindi": "आस्तीनों",
+    "meaning": "Plural of sleeves.",
+    "example": "The coats had long asteenon for winter.",
+    "synonyms": ["sleeves", "arm covers"],
+    "antonyms": ["sleeveless", "bare arms"]
+  },
+  {
+    "word": "Asteenien",
+    "urdu": "آستینیں",
+    "sanskrit": "बाहु आवरणाः",
+    "hindi": "आस्तीनें",
+    "meaning": "Alternate plural form of sleeves.",
+    "example": "He folded the asteenien neatly.",
+    "synonyms": ["sleeves", "arm covers"],
+    "antonyms": ["sleeveless", "bare arms"]
+  },
+  {
+    "word": "Aastein",
+    "urdu": "آستیں",
+    "sanskrit": "आस्तीनाः",
+    "hindi": "आस्तें",
+    "meaning": "Another plural form of sleeve.",
+    "example": "The uniforms had decorated aastein.",
+    "synonyms": ["sleeves", "arm covers"],
+    "antonyms": ["sleeveless", "bare"]
+  },
+  {
+    "word": "Aaste",
+    "urdu": "آستے",
+    "sanskrit": "सुरक्षा",
+    "hindi": "आस्ते",
+    "meaning": "Protection or covering.",
+    "example": "He wore a scarf as aaste from cold.",
+    "synonyms": ["cover", "protection"],
+    "antonyms": ["exposure", "uncovered"]
+  },
+  {
+    "word": "Asar",
+    "urdu": "آسر",
+    "sanskrit": "प्रभाव",
+    "hindi": "आसर",
+    "meaning": "Effect, influence, or impact.",
+    "example": "The speech had a strong asar on the audience.",
+    "synonyms": ["effect", "impact", "influence"],
+    "antonyms": ["ineffectiveness", "insignificance"]
+  },
+  {
+    "word": "Asra",
+    "urdu": "آسرا",
+    "sanskrit": "आश्रय",
+    "hindi": "आसरा",
+    "meaning": "Shelter, refuge, or support.",
+    "example": "He found asra in his friend’s house during the storm.",
+    "synonyms": ["shelter", "refuge", "support"],
+    "antonyms": ["exposure", "vulnerability"]
+  },
+  {
+    "word": "Asram",
+    "urdu": "آسرم",
+    "sanskrit": "आश्रम",
+    "hindi": "आस्रम",
+    "meaning": "Hermitage or spiritual retreat.",
+    "example": "He spent a month meditating in an asram.",
+    "synonyms": ["hermitage", "retreat", "monastery"],
+    "antonyms": ["city", "crowd"]
+  },
+  {
+    "word": "Asro",
+    "urdu": "آسرو",
+    "sanskrit": "अश्रु",
+    "hindi": "आसरो",
+    "meaning": "Tears or teardrops.",
+    "example": "Her eyes were filled with asro of joy.",
+    "synonyms": ["tears", "crying", "weeping"],
+    "antonyms": ["smile", "laughter"]
+  },
+  {
+    "word": "Asroo",
+    "urdu": "آسروؤ",
+    "sanskrit": "अश्रवः",
+    "hindi": "आसरोव",
+    "meaning": "Plural of tears.",
+    "example": "He wiped the asroo from his eyes.",
+    "synonyms": ["tears", "weeps"],
+    "antonyms": ["smiles", "joy"]
+  },
+  {
+    "word": "Asrooon",
+    "urdu": "آسروؤں",
+    "sanskrit": "अश्रवः",
+    "hindi": "आसरोवों",
+    "meaning": "Alternate plural form of tears.",
+    "example": "Asrooon rolled down her cheeks silently.",
+    "synonyms": ["tears", "weepings"],
+    "antonyms": ["smiles", "laughs"]
+  },
+  {
+    "word": "Asron",
+    "urdu": "آسروں",
+    "sanskrit": "अश्रवः",
+    "hindi": "आसरों",
+    "meaning": "Another plural form of tears or drops.",
+    "example": "The asron reflected the morning light.",
+    "synonyms": ["teardrops", "drops"],
+    "antonyms": ["dryness", "absence of tears"]
+  },
+  {
+    "word": "Asraha",
+    "urdu": "آسرہ",
+    "sanskrit": "आश्रय",
+    "hindi": "आसरा",
+    "meaning": "Support or someone who provides shelter.",
+    "example": "He was her asraha in hard times.",
+    "synonyms": ["support", "refuge", "helper"],
+    "antonyms": ["opponent", "enemy"]
+  },
+  {
+    "word": "Asri",
+    "urdu": "آسری",
+    "sanskrit": "आश्रयदाता",
+    "hindi": "आसरी",
+    "meaning": "One who gives shelter or help.",
+    "example": "The asri guided the travelers safely.",
+    "synonyms": ["helper", "supporter", "protector"],
+    "antonyms": ["opposer", "adversary"]
+  },
+  {
+    "word": "Asray",
+    "urdu": "آسرے",
+    "sanskrit": "आश्रय",
+    "hindi": "आसरे",
+    "meaning": "Shelters or places of refuge.",
+    "example": "The asray were open to the poor.",
+    "synonyms": ["refuges", "shelters", "sanctuaries"],
+    "antonyms": ["exposures", "danger zones"]
+  },
+  {
+    "word": "Asghah",
+    "urdu": "آسغہ",
+    "sanskrit": "न्यूनतम",
+    "hindi": "आसघा",
+    "meaning": "Small or minimal portion.",
+    "example": "He only took a small asghah of the dessert.",
+    "synonyms": ["small portion", "bit", "minimum"],
+    "antonyms": ["large portion", "maximum"]
+  },
+  {
+    "word": "Asman",
+    "urdu": "آسمان",
+    "sanskrit": "आकाश",
+    "hindi": "आसमान",
+    "meaning": "Sky or heaven.",
+    "example": "The stars shone brightly in the asman.",
+    "synonyms": ["sky", "heaven", "firmament"],
+    "antonyms": ["earth", "ground"]
+  },
+  {
+    "word": "Asman-Jah",
+    "urdu": "آسمان_جاہ",
+    "sanskrit": "आकाश-स्थान",
+    "hindi": "आसमान_जह",
+    "meaning": "High or elevated sky; metaphorically lofty position.",
+    "example": "He dreamed of reaching asman-jah in his career.",
+    "synonyms": ["high sky", "lofty place", "elevation"],
+    "antonyms": ["low place", "ground level"]
+  },
+  {
+    "word": "Asman-Juni",
+    "urdu": "آسمان_جونی",
+    "sanskrit": "उच्च आकाश",
+    "hindi": "आसमान_जूनी",
+    "meaning": "Upper sky or high heavens.",
+    "example": "The moon rose in the asman-juni.",
+    "synonyms": ["upper sky", "heavens", "firmament"],
+    "antonyms": ["lower sky", "earth"]
+  },
+  {
+    "word": "Asman-Hashm",
+    "urdu": "آسمان_حشم",
+    "sanskrit": "आकाश समूह",
+    "hindi": "आसमान_हश्म",
+    "meaning": "The sky with a crowd of stars.",
+    "example": "The asman-hashm was mesmerizing tonight.",
+    "synonyms": ["starry sky", "crowded sky"],
+    "antonyms": ["empty sky", "cloudless plain"]
+  },
+  {
+    "word": "Asman-Far",
+    "urdu": "آسمان_فر",
+    "sanskrit": "आकाश विस्तृत",
+    "hindi": "आसमान_फर",
+    "meaning": "Expansive sky; wide heavens.",
+    "example": "The asman-far stretched endlessly above.",
+    "synonyms": ["expansive sky", "vast heavens"],
+    "antonyms": ["limited sky", "narrow heavens"]
+  },
+  {
+    "word": "Asman-Goan",
+    "urdu": "آسمان_گوں",
+    "sanskrit": "आकाश-समान",
+    "hindi": "आसमान_गों",
+    "meaning": "Sky-like or resembling the sky.",
+    "example": "The lake reflected an asman-goan blue.",
+    "synonyms": ["sky-like", "heavenly", "celestial"],
+    "antonyms": ["earthly", "grounded"]
+  },
+  {
+    "word": "Asmānōn",
+    "urdu": "آسمانوں",
+    "sanskrit": "आकाशों",
+    "hindi": "आसमानों",
+    "meaning": "Plural of sky; heavens.",
+    "example": "The stars shone in the asmānōn tonight.",
+    "synonyms": ["heavens", "skies", "firmaments"],
+    "antonyms": ["earth", "ground"]
+  },
+  {
+    "word": "Asmani",
+    "urdu": "آسمانی",
+    "sanskrit": "आकाशीय",
+    "hindi": "आसमानीय",
+    "meaning": "Celestial, heavenly, or divine.",
+    "example": "The angel had an asmani aura.",
+    "synonyms": ["celestial", "heavenly", "divine"],
+    "antonyms": ["mundane", "earthly"]
+  },
+  {
+    "word": "Asmani-Gird",
+    "urdu": "آسمانی_گرد",
+    "sanskrit": "आकाशीय-गोलक",
+    "hindi": "आसमानीय_गर्द",
+    "meaning": "Sky dust; metaphorical for heavenly particles or aura.",
+    "example": "The morning mist looked like asmani-gird.",
+    "synonyms": ["heavenly dust", "celestial aura"],
+    "antonyms": ["earthly dirt", "mundane dust"]
+  },
+  {
+    "word": "Asman",
+    "urdu": "آسماں",
+    "sanskrit": "आकाश",
+    "hindi": "आसमान",
+    "meaning": "Sky or heaven.",
+    "example": "The birds soared high into the asman.",
+    "synonyms": ["sky", "heavens", "firmament"],
+    "antonyms": ["earth", "ground"]
+  },
+  {
+    "word": "Asma",
+    "urdu": "آسمہ",
+    "sanskrit": "आकाश",
+    "hindi": "आसमा",
+    "meaning": "Sky; a poetic variant of asman.",
+    "example": "The morning sun lit the asma beautifully.",
+    "synonyms": ["sky", "heavens", "firmament"],
+    "antonyms": ["earth", "ground"]
+  },
+  {
+    "word": "Asan",
+    "urdu": "آسن",
+    "sanskrit": "आसन",
+    "hindi": "आसन",
+    "meaning": "Seat or place to sit; also figuratively position.",
+    "example": "He took his asan under the tree.",
+    "synonyms": ["seat", "place", "position"],
+    "antonyms": ["standing", "floor"]
+  },
+  {
+    "word": "Asan-Pati",
+    "urdu": "آسن_پاٹی",
+    "sanskrit": "आसन-पट्टी",
+    "hindi": "आसन_पाटी",
+    "meaning": "Cushioned or arranged seat.",
+    "example": "The guests sat on the asan-pati comfortably.",
+    "synonyms": ["seat", "cushion", "bench"],
+    "antonyms": ["floor", "ground"]
+  },
+  {
+    "word": "Asanon",
+    "urdu": "آسنوں",
+    "sanskrit": "आसनों",
+    "hindi": "आसनों",
+    "meaning": "Plural of seats; multiple places to sit.",
+    "example": "All asanon were occupied in the hall.",
+    "synonyms": ["seats", "benches", "places"],
+    "antonyms": ["standing spots", "empty spaces"]
+  },
+  {
+    "word": "Asanka",
+    "urdu": "آسنکا",
+    "sanskrit": "आसंक",
+    "hindi": "आसंका",
+    "meaning": "Small seat or temporary resting place.",
+    "example": "He rested briefly on the asanka.",
+    "synonyms": ["stool", "small seat", "bench"],
+    "antonyms": ["standing", "empty floor"]
+  },
+  {
+    "word": "Asankao",
+    "urdu": "آسنکاؤ",
+    "sanskrit": "आसंकाओं",
+    "hindi": "आसंकाओं",
+    "meaning": "Plural form of small seats or resting places.",
+    "example": "The asankao were placed neatly in the room.",
+    "synonyms": ["small seats", "stools", "resting places"],
+    "antonyms": ["floor", "standing area"]
+  },
+  {
+    "word": "Asankaon",
+    "urdu": "آسنکاؤں",
+    "sanskrit": "आसंकाओं",
+    "hindi": "आसंकाओं",
+    "meaning": "Alternate plural form of resting seats.",
+    "example": "The children sat on the asankaon during the ceremony.",
+    "synonyms": ["small seats", "stools", "benches"],
+    "antonyms": ["floor", "standing areas"]
+  },
+  {
+    "word": "Asankain",
+    "urdu": "آسنکائیں",
+    "sanskrit": "आसंकाएँ",
+    "hindi": "आसंकाएँ",
+    "meaning": "Another plural form of small seats or platforms.",
+    "example": "The asankain were arranged in rows.",
+    "synonyms": ["stools", "small benches", "seats"],
+    "antonyms": ["empty space", "standing area"]
+  },
+  {
+    "word": "Asni",
+    "urdu": "آسنی",
+    "sanskrit": "सुखद",
+    "hindi": "आसनी",
+    "meaning": "Comfort or ease.",
+    "example": "He enjoyed the asni of the cozy room.",
+    "synonyms": ["comfort", "ease", "relaxation"],
+    "antonyms": ["discomfort", "hardship"]
+  },
+  {
+    "word": "Asniyan",
+    "urdu": "آسنیاں",
+    "sanskrit": "सुखदाएँ",
+    "hindi": "आसनियाँ",
+    "meaning": "Plural of comfort or ease.",
+    "example": "The asniyan of the place made everyone happy.",
+    "synonyms": ["comforts", "eases", "relaxations"],
+    "antonyms": ["discomforts", "difficulties"]
+  },
+  {
+    "word": "Asnē",
+    "urdu": "آسنیں",
+    "sanskrit": "आसनें",
+    "hindi": "आसनें",
+    "meaning": "Plural of seat or place to sit.",
+    "example": "All asnē were ready for the ceremony.",
+    "synonyms": ["seats", "benches", "places"],
+    "antonyms": ["standing", "floor"]
+  },
+  {
+    "word": "Asōj",
+    "urdu": "آسوج",
+    "sanskrit": "आसोज",
+    "hindi": "आसोज",
+    "meaning": "A month in the Indian calendar (Ashwin).",
+    "example": "The festival occurs in the month of Asōj.",
+    "synonyms": ["month", "period"],
+    "antonyms": []
+  },
+  {
+    "word": "Asūd",
+    "urdu": "آسود",
+    "sanskrit": "शांत",
+    "hindi": "आसूद",
+    "meaning": "Calm, relaxed, peaceful.",
+    "example": "He felt asūd sitting by the river.",
+    "synonyms": ["peaceful", "relaxed", "calm"],
+    "antonyms": ["anxious", "tense", "restless"]
+  },
+  {
+    "word": "Asūdā",
+    "urdu": "آسودا",
+    "sanskrit": "शांत",
+    "hindi": "आसूदा",
+    "meaning": "Well-rested or comforted.",
+    "example": "After the long journey, he was completely asūdā.",
+    "synonyms": ["relaxed", "rested", "comfortable"],
+    "antonyms": ["tired", "uncomfortable"]
+  },
+  {
+    "word": "Asūdgān",
+    "urdu": "آسودگان",
+    "sanskrit": "शांतजन",
+    "hindi": "आसूदगाँ",
+    "meaning": "People who are calm and at ease.",
+    "example": "The asūdgān meditated by the lake.",
+    "synonyms": ["peaceful people", "calm ones"],
+    "antonyms": ["troubled", "restless people"]
+  },
+  {
+    "word": "Asūdgī",
+    "urdu": "آسودگی",
+    "sanskrit": "शांति",
+    "hindi": "आसूदगी",
+    "meaning": "Peace, comfort, or tranquility.",
+    "example": "He enjoyed the asūdgī of the quiet garden.",
+    "synonyms": ["peace", "calm", "relaxation"],
+    "antonyms": ["disturbance", "tension"]
+  },
+  {
+    "word": "Asūdgiyān",
+    "urdu": "آسودگیاں",
+    "sanskrit": "शांतियाँ",
+    "hindi": "आसूदगियाँ",
+    "meaning": "Plural of comforts or peaceful states.",
+    "example": "The asūdgiyān of the palace made everyone happy.",
+    "synonyms": ["comforts", "tranquilities", "peacefulness"],
+    "antonyms": ["discomforts", "turbulence"]
+  },
+  {
+    "word": "Asūdgiyōn",
+    "urdu": "آسودگیوں",
+    "sanskrit": "शांतियों",
+    "hindi": "आसूदगियों",
+    "meaning": "Plural form of tranquility or comfort.",
+    "example": "The asūdgiyōn of the retreat were remarkable.",
+    "synonyms": ["comforts", "peacefulness", "relaxation"],
+    "antonyms": ["disturbances", "tensions"]
+  },
+  {
+    "word": "Asūda",
+    "urdu": "آسودہ",
+    "sanskrit": "शांत",
+    "hindi": "आसूदा",
+    "meaning": "Calm, relaxed, or comforted.",
+    "example": "He looked completely asūda after meditation.",
+    "synonyms": ["relaxed", "peaceful", "rested"],
+    "antonyms": ["anxious", "restless"]
+  },
+  {
+    "word": "Asūde",
+    "urdu": "آسودے",
+    "sanskrit": "शांतजन",
+    "hindi": "आसूदे",
+    "meaning": "Plural form for calm or relaxed individuals.",
+    "example": "The asūde gathered for the evening prayer.",
+    "synonyms": ["peaceful people", "calm ones"],
+    "antonyms": ["troubled", "restless people"]
+  },
+  {
+    "word": "Āsōn",
+    "urdu": "آسوں",
+    "sanskrit": "आंसु",
+    "hindi": "आसों",
+    "meaning": "Tears.",
+    "example": "He wiped away his Āsōn silently.",
+    "synonyms": ["tears", "drops", "weeping"],
+    "antonyms": ["smiles", "laughter"]
+  },
+  {
+    "word": "Astrotruf",
+    "urdu": "آسٹروٹرف",
+    "sanskrit": "नक्षत्र-उन्माद",
+    "hindi": "आस्ट्रोट्रफ",
+    "meaning": "Related to astronomical phenomena; a coined term.",
+    "example": "The scientist studied the effects of astrotruf.",
+    "synonyms": ["astronomical", "cosmic"],
+    "antonyms": ["terrestrial", "earthly"]
+  },
+  {
+    "word": "Astrak",
+    "urdu": "آسٹرک",
+    "sanskrit": "तारकीय",
+    "hindi": "आस्ट्रक",
+    "meaning": "Astrak, related to stars or cosmic matters.",
+    "example": "Astrak observations were recorded in the logbook.",
+    "synonyms": ["astral", "stellar", "celestial"],
+    "antonyms": ["earthly", "mundane"]
+  },
+  {
+    "word": "Astrakōn",
+    "urdu": "آسٹرکوں",
+    "sanskrit": "तारकीयों",
+    "hindi": "आस्ट्रकों",
+    "meaning": "Plural form of Astrak; celestial objects.",
+    "example": "The telescopes tracked the astrakōn all night.",
+    "synonyms": ["stars", "celestial objects", "astral bodies"],
+    "antonyms": ["ground objects", "earthly items"]
+  },
+  {
+    "word": "Austria",
+    "urdu": "آسٹریا",
+    "sanskrit": "ऑस्ट्रिया",
+    "hindi": "ऑस्ट्रिया",
+    "meaning": "Country in Central Europe.",
+    "example": "I plan to visit Austria next summer.",
+    "synonyms": ["Republic of Austria", "Österreich"],
+    "antonyms": []
+  },
+  {
+    "word": "Austriai",
+    "urdu": "آسٹریائی",
+    "sanskrit": "ऑस्ट्रियाई",
+    "hindi": "ऑस्ट्रियाई",
+    "meaning": "Related to Austria; Austrian.",
+    "example": "He met an Austriai diplomat at the conference.",
+    "synonyms": ["Austrian"],
+    "antonyms": []
+  },
+  {
+    "word": "Austriaiyon",
+    "urdu": "آسٹریائیوں",
+    "sanskrit": "ऑस्ट्रियाईयों",
+    "hindi": "ऑस्ट्रियाईयों",
+    "meaning": "Plural of Austrian people.",
+    "example": "The Austriaiyon attended the festival with pride.",
+    "synonyms": ["Austrians"],
+    "antonyms": []
+  },
+  {
+    "word": "Australavi",
+    "urdu": "آسٹریلوی",
+    "sanskrit": "ऑस्ट्रेलवी",
+    "hindi": "ऑस्ट्रेलवी",
+    "meaning": "Related to Australia; Australian.",
+    "example": "Australavi culture fascinated the visitors.",
+    "synonyms": ["Australian"],
+    "antonyms": []
+  },
+  {
+    "word": "Australia",
+    "urdu": "آسٹریلیا",
+    "sanskrit": "ऑस्ट्रेलिया",
+    "hindi": "ऑस्ट्रेलिया",
+    "meaning": "Country in Oceania.",
+    "example": "She plans to study in Australia next year.",
+    "synonyms": ["Commonwealth of Australia"],
+    "antonyms": []
+  },
+  {
+    "word": "Australian",
+    "urdu": "آسٹریلین",
+    "sanskrit": "ऑस्ट्रेलेन",
+    "hindi": "ऑस्ट्रेलेन",
+    "meaning": "A person from Australia.",
+    "example": "The Australian cricket team won the match.",
+    "synonyms": ["from Australia"],
+    "antonyms": []
+  },
+  {
+    "word": "Australianon",
+    "urdu": "آسٹریلینوں",
+    "sanskrit": "ऑस्ट्रेलेनों",
+    "hindi": "ऑस्ट्रेलेनों",
+    "meaning": "Plural of Australian people.",
+    "example": "The Australianon visited the city during summer.",
+    "synonyms": ["Australians"],
+    "antonyms": []
+  },
+  {
+    "word": "Astrekin",
+    "urdu": "آسٹریکین",
+    "sanskrit": "आस्ट्रेकिन",
+    "hindi": "आस्ट्रेकिन",
+    "meaning": "Related to a person or thing named Astrek.",
+    "example": "The Astrekin tradition is unique in the region.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Astonia",
+    "urdu": "آسٹونیا",
+    "sanskrit": "एस्टोनिया",
+    "hindi": "एस्टोनिया",
+    "meaning": "Country Estonia in Northern Europe.",
+    "example": "He traveled to Astonia for business.",
+    "synonyms": ["Estonia"],
+    "antonyms": []
+  },
+  {
+    "word": "Asrak",
+    "urdu": "آسڑک",
+    "sanskrit": "आस्रक",
+    "hindi": "आस्रक",
+    "meaning": "A term referring to a street or path.",
+    "example": "The market was along the busy Asrak.",
+    "synonyms": ["road", "street", "path"],
+    "antonyms": []
+  },
+  {
+    "word": "Aska",
+    "urdu": "آسکا",
+    "sanskrit": "आस्का",
+    "hindi": "आस्का",
+    "meaning": "May refer to 'can' or 'able to'.",
+    "example": "He asked if he Aska attend the meeting.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable to"]
+  },
+  {
+    "word": "Askat",
+    "urdu": "آسکت",
+    "sanskrit": "आसकत",
+    "hindi": "आसकत",
+    "meaning": "Able or allowed to.",
+    "example": "She Askat complete the task before noon.",
+    "synonyms": ["can", "may"],
+    "antonyms": ["cannot", "forbidden"]
+  },
+  {
+    "word": "Askta",
+    "urdu": "آسکتا",
+    "sanskrit": "आसकता",
+    "hindi": "आसकता",
+    "meaning": "He/She/It can.",
+    "example": "He Askta win the game if he tries.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable"]
+  },
+  {
+    "word": "Askatana",
+    "urdu": "آسکتانا",
+    "sanskrit": "आसकतना",
+    "hindi": "आसकतना",
+    "meaning": "Possibility of being able to do something.",
+    "example": "She Askatana finish it by evening.",
+    "synonyms": ["might", "could"],
+    "antonyms": ["cannot", "impossible"]
+  },
+  {
+    "word": "Askati",
+    "urdu": "آسکتی",
+    "sanskrit": "आसکتی",
+    "hindi": "आसکتی",
+    "meaning": "Feminine form: she can.",
+    "example": "She Askati participate in the event.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable"]
+  },
+  {
+    "word": "Asaktiyan",
+    "urdu": "آسکتیاں",
+    "sanskrit": "आसक्तियाँ",
+    "hindi": "आसक्तियाँ",
+    "meaning": "Plural feminine: they can.",
+    "example": "The students Askatiyan submit their homework on time.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable"]
+  },
+  {
+    "word": "Aaskte",
+    "urdu": "آسکتے",
+    "sanskrit": "आसकते",
+    "hindi": "आसकते",
+    "meaning": "They can; masculine plural.",
+    "example": "Woh Aaskte complete the task easily.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable"]
+  },
+  {
+    "word": "Askar",
+    "urdu": "آسکر",
+    "sanskrit": "आस्कर",
+    "hindi": "आस्कर",
+    "meaning": "Oscar; can refer to the award or a name.",
+    "example": "He won an Askar for best actor.",
+    "synonyms": ["Oscar"],
+    "antonyms": []
+  },
+  {
+    "word": "Aski",
+    "urdu": "آسکی",
+    "sanskrit": "आस्की",
+    "hindi": "आस्की",
+    "meaning": "Belonging to him/her; possessive.",
+    "example": "This book is Aski, not yours.",
+    "synonyms": ["his", "hers"],
+    "antonyms": ["yours", "theirs"]
+  },
+  {
+    "word": "Askein",
+    "urdu": "آسکیں",
+    "sanskrit": "आस्कें",
+    "hindi": "आस्कें",
+    "meaning": "They (feminine) can.",
+    "example": "Askein complete the assignments by tomorrow.",
+    "synonyms": ["can", "able to"],
+    "antonyms": ["cannot", "unable"]
+  },
+  {
+    "word": "Aske",
+    "urdu": "آسکے",
+    "sanskrit": "आस्के",
+    "hindi": "आस्के",
+    "meaning": "May; possibility.",
+    "example": "It Aske rain later today.",
+    "synonyms": ["might", "may"],
+    "antonyms": ["cannot", "impossible"]
+  },
+  {
+    "word": "Aasah",
+    "urdu": "آسہ",
+    "sanskrit": "आसह",
+    "hindi": "आसह",
+    "meaning": "Small hope or wish.",
+    "example": "He had a tiny Aasah of winning.",
+    "synonyms": ["hope", "wish"],
+    "antonyms": ["despair", "hopelessness"]
+  },
+  {
+    "word": "Aasahh",
+    "urdu": "آسہہ",
+    "sanskrit": "आसह्ह",
+    "hindi": "आसह्ह",
+    "meaning": "Intensified or repeated hope.",
+    "example": "Her Aasahh grew with each passing day.",
+    "synonyms": ["hope", "expectation"],
+    "antonyms": ["despair"]
+  },
+  {
+    "word": "Aasi",
+    "urdu": "آسی",
+    "sanskrit": "आसी",
+    "hindi": "आसी",
+    "meaning": "Feminine name; can also mean 'hope'.",
+    "example": "Aasi prayed for her family's safety.",
+    "synonyms": ["hope", "expectation"],
+    "antonyms": ["despair"]
+  },
+  {
+    "word": "Aasiya",
+    "urdu": "آسیا",
+    "sanskrit": "आसिया",
+    "hindi": "आसिया",
+    "meaning": "Name; also refers to Asia in some contexts.",
+    "example": "Aasiya traveled across the continent.",
+    "synonyms": ["Asia", "name"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasiyaon",
+    "urdu": "آسیاؤں",
+    "sanskrit": "आसियों",
+    "hindi": "आसियों",
+    "meaning": "Plural form of Aasiya (feminine).",
+    "example": "The Aasiyaon gathered in the hall.",
+    "synonyms": ["Aasiya (plural)"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasiyaaye",
+    "urdu": "آسیائے",
+    "sanskrit": "आसियाए",
+    "hindi": "आसियाए",
+    "meaning": "Belonging to Aasiya (possessive).",
+    "example": "This gift is Aasiyaaye.",
+    "synonyms": ["of Aasiya", "Aasiya's"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasiab",
+    "urdu": "آسیاب",
+    "sanskrit": "आसियाब",
+    "hindi": "आसियाब",
+    "meaning": "Mill or grinder.",
+    "example": "The wheat was ground in the Aasiab.",
+    "synonyms": ["mill", "grinder"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasianon",
+    "urdu": "آسیانوں",
+    "sanskrit": "आसियानों",
+    "hindi": "आसियानों",
+    "meaning": "Plural of Aasiya’s house or place.",
+    "example": "The Aasianon were beautifully decorated.",
+    "synonyms": ["houses", "places"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasiana",
+    "urdu": "آسیانہ",
+    "sanskrit": "आसियाना",
+    "hindi": "आसियाना",
+    "meaning": "Nest, home, or dwelling.",
+    "example": "The bird returned to its Aasiana.",
+    "synonyms": ["nest", "home", "dwelling"],
+    "antonyms": []
+  },
+  {
+    "word": "Aasiane",
+    "urdu": "آسیانے",
+    "sanskrit": "आसियाने",
+    "hindi": "आसियाने",
+    "meaning": "Plural of nest or dwelling.",
+    "example": "Many Aasiane were destroyed in the storm.",
+    "synonyms": ["nests", "homes", "dwellings"],
+    "antonyms": []
+  },
+  {
+    "word": "Aaseb",
+    "urdu": "آسیب",
+    "sanskrit": "आसीब",
+    "hindi": "आसीब",
+    "meaning": "Damage, harm, or injury.",
+    "example": "The flood caused severe Aaseb to the village.",
+    "synonyms": ["harm", "damage", "injury"],
+    "antonyms": ["protection", "safety"]
+  },
+  {
+    "word": "Aaseb_Jaan",
+    "urdu": "آسیب_جاں",
+    "sanskrit": "आसीब_जान",
+    "hindi": "आसीब_जान",
+    "meaning": "Life-threatening damage.",
+    "example": "The earthquake was Aaseb_Jaan for many residents.",
+    "synonyms": ["critical damage", "fatal harm"],
+    "antonyms": ["safe", "harmless"]
+  },
+  {
+    "word": "Aaseb_Zadon",
+    "urdu": "آسیب_زدوں",
+    "sanskrit": "आसीब_ज़दों",
+    "hindi": "आसीब_ज़दों",
+    "meaning": "Those affected by harm or damage.",
+    "example": "The Aaseb_Zadon were given immediate aid.",
+    "synonyms": ["victims", "affected"],
+    "antonyms": ["unaffected", "safe"]
+  },
+  {
+    "word": "Aaseb_Zadah",
+    "urdu": "آسیب_زدہ",
+    "sanskrit": "आसीब_ज़दा",
+    "hindi": "आसीब_ज़दा",
+    "meaning": "Injured or harmed.",
+    "example": "Many buildings were Aaseb_Zadah in the storm.",
+    "synonyms": ["injured", "damaged"],
+    "antonyms": ["intact", "safe"]
+  },
+  {
+    "word": "Aasebon",
+    "urdu": "آسیبوں",
+    "sanskrit": "आसीबों",
+    "hindi": "आसीबों",
+    "meaning": "Plural of harm or damage.",
+    "example": "The flood caused multiple Aasebon across the town.",
+    "synonyms": ["damages", "injuries"],
+    "antonyms": ["safeties", "protections"]
+  },
+  {
+    "word": "Aasebi",
+    "urdu": "آسیبی",
+    "sanskrit": "आसीबी",
+    "hindi": "आसीबी",
+    "meaning": "Pertaining to damage or harm.",
+    "example": "The Aasebi effects of the fire were immense.",
+    "synonyms": ["harmful", "damaging"],
+    "antonyms": ["harmless", "safe"]
+  },
+  {
+    "word": "Aasebiya",
+    "urdu": "آسیبیا",
+    "sanskrit": "आसीबिया",
+    "hindi": "आसीबिया",
+    "meaning": "Affected persons or things.",
+    "example": "The Aasebiya were relocated to safety.",
+    "synonyms": ["victims", "affected"],
+    "antonyms": ["safe", "unaffected"]
+  },
+  {
+    "word": "Aasebiyoon",
+    "urdu": "آسیبیوں",
+    "sanskrit": "आसीबियों",
+    "hindi": "आसीबियों",
+    "meaning": "Plural of Aasebi (affected individuals).",
+    "example": "The government helped all Aasebiyoon immediately.",
+    "synonyms": ["victims", "injured"],
+    "antonyms": ["unaffected"]
+  },
+  {
+    "word": "Aasebiye",
+    "urdu": "آسیبیے",
+    "sanskrit": "आसीबिये",
+    "hindi": "आसीबिये",
+    "meaning": "Another plural/possessive form of Aasebi.",
+    "example": "The Aasebiye received food and shelter.",
+    "synonyms": ["affected ones", "victims"],
+    "antonyms": ["safe ones"]
+  },
+  {
+    "word": "Aasit",
+    "urdu": "آسیت",
+    "sanskrit": "आसित",
+    "hindi": "आसित",
+    "meaning": "Strength or might.",
+    "example": "He acted with great Aasit during the battle.",
+    "synonyms": ["strength", "power"],
+    "antonyms": ["weakness", "frailty"]
+  },
+  {
+    "word": "Aasiti",
+    "urdu": "آسیتی",
+    "sanskrit": "आसिति",
+    "hindi": "आसिति",
+    "meaning": "Feminine form of Aasit; force or vigor.",
+    "example": "Her Aasiti inspired everyone around her.",
+    "synonyms": ["vigor", "power"],
+    "antonyms": ["weakness"]
+  },
+  {
+    "word": "Aasitein",
+    "urdu": "آسیتیں",
+    "sanskrit": "आसितें",
+    "hindi": "आसितें",
+    "meaning": "Plural form of Aasiti; strengths.",
+    "example": "The Aasitein of the team ensured success.",
+    "synonyms": ["strengths", "powers"],
+    "antonyms": ["weaknesses"]
+  },
+  {
+    "word": "Aasir",
+    "urdu": "آسیر",
+    "sanskrit": "आसिर",
+    "hindi": "आसिर",
+    "meaning": "Prisoner or captive.",
+    "example": "The Aasir was released after negotiations.",
+    "synonyms": ["captive", "prisoner"],
+    "antonyms": ["free", "liberated"]
+  },
+  {
+    "word": "Aasirat",
+    "urdu": "آسیرات",
+    "sanskrit": "आसिरात",
+    "hindi": "आसिरात",
+    "meaning": "Plural of Aasir; captives.",
+    "example": "All Aasirat were treated humanely.",
+    "synonyms": ["prisoners", "captives"],
+    "antonyms": ["free people"]
+  },
+  {
+    "word": "Aasiri",
+    "urdu": "آسیری",
+    "sanskrit": "आसिरी",
+    "hindi": "आसिरी",
+    "meaning": "Feminine form of prisoner or captivity.",
+    "example": "Aasiri women were released first.",
+    "synonyms": ["female prisoner", "captive"],
+    "antonyms": ["free woman"]
+  },
+  {
+    "word": "Aasiriyaat",
+    "urdu": "آسیریات",
+    "sanskrit": "आसिरियत",
+    "hindi": "आसिरियत",
+    "meaning": "The state of being captive or imprisoned.",
+    "example": "The Aasiriyaat of the prisoners lasted several months.",
+    "synonyms": ["captivity", "confinement"],
+    "antonyms": ["freedom", "liberation"]
+  },
+  {
+    "word": "Aasirein",
+    "urdu": "آسیریں",
+    "sanskrit": "आसिरेइन",
+    "hindi": "आसिरेइन",
+    "meaning": "Female captives or prisoners.",
+    "example": "The Aasirein were treated with respect by the guards.",
+    "synonyms": ["female prisoners", "captives"],
+    "antonyms": ["free women"]
+  },
+  {
+    "word": "Aasimoon",
+    "urdu": "آسیموں",
+    "sanskrit": "आसिमून",
+    "hindi": "आसिमून",
+    "meaning": "Plural of Aasim; lofty or vast.",
+    "example": "The Aasimoon of the sky inspired the poets.",
+    "synonyms": ["heavens", "skies"],
+    "antonyms": ["ground", "earth"]
+  },
+  {
+    "word": "Aasima",
+    "urdu": "آسیمہ",
+    "sanskrit": "आसिमा",
+    "hindi": "आसिमा",
+    "meaning": "Sky, boundless space.",
+    "example": "The sun shone brightly in the Aasima.",
+    "synonyms": ["sky", "firmament"],
+    "antonyms": ["ground", "floor"]
+  },
+  {
+    "word": "Aasiyo",
+    "urdu": "آسیو",
+    "sanskrit": "आसियो",
+    "hindi": "आसियो",
+    "meaning": "A term used for captives or imprisoned ones.",
+    "example": "The Aasiyo were released after the treaty.",
+    "synonyms": ["prisoners", "captives"],
+    "antonyms": ["free"]
+  },
+  {
+    "word": "Aasiyon",
+    "urdu": "آسیوں",
+    "sanskrit": "आसियों",
+    "hindi": "आसियों",
+    "meaning": "Plural of captive or imprisoned person.",
+    "example": "The guards monitored all Aasiyon carefully.",
+    "synonyms": ["captives", "prisoners"],
+    "antonyms": ["free people"]
+  },
+  {
+    "word": "Aasein",
+    "urdu": "آسیں",
+    "sanskrit": "आसेइन",
+    "hindi": "आसेइन",
+    "meaning": "Breath, sigh, or expression of hope.",
+    "example": "She let out deep Aasein of relief.",
+    "synonyms": ["sigh", "breath"],
+    "antonyms": ["hold breath"]
+  },
+  {
+    "word": "Aasiya",
+    "urdu": "آسیہ",
+    "sanskrit": "आसिया",
+    "hindi": "आसिया",
+    "meaning": "A female name meaning 'one who comforts' or 'protector'.",
+    "example": "Aasiya helped the children during the storm.",
+    "synonyms": ["helper", "protector"],
+    "antonyms": ["oppressor"]
+  },
+  {
+    "word": "Aase",
+    "urdu": "آسے",
+    "sanskrit": "आसे",
+    "hindi": "आसे",
+    "meaning": "Like this, in this manner.",
+    "example": "He solved the puzzle Aase with ease.",
+    "synonyms": ["thus", "like this"],
+    "antonyms": ["otherwise"]
+  },
+  {
+    "word": "Aash",
+    "urdu": "آش",
+    "sanskrit": "आश",
+    "hindi": "आश",
+    "meaning": "Hope or desire.",
+    "example": "The people lived with Aash for a better future.",
+    "synonyms": ["hope", "aspiration"],
+    "antonyms": ["despair"]
+  },
+  {
+    "word": "Aash_Blao",
+    "urdu": "آش_بلاؤ",
+    "sanskrit": "आश_ब्लाओ",
+    "hindi": "आश_ब्लाओ",
+    "meaning": "Call for help or invocation.",
+    "example": "The villagers raised an Aash_Blao during the flood.",
+    "synonyms": ["summon", "invoke"],
+    "antonyms": ["ignore"]
+  },
+  {
+    "word": "Aash_Blaaye",
+    "urdu": "آش_بلائے",
+    "sanskrit": "आश_ब्लाये",
+    "hindi": "आश_ब्लाये",
+    "meaning": "He/She called upon or invoked.",
+    "example": "He performed a ritual and Aash_Blaaye the spirits.",
+    "synonyms": ["invoked", "summoned"],
+    "antonyms": ["ignored"]
+  },
+  {
+    "word": "Aash_Jo",
+    "urdu": "آش_جو",
+    "sanskrit": "आश_जो",
+    "hindi": "आश_जो",
+    "meaning": "One who seeks hope.",
+    "example": "The Aash_Jo never gave up despite difficulties.",
+    "synonyms": ["hope-seeker", "aspirant"],
+    "antonyms": ["despairing"]
+  },
+  {
+    "word": "Aash_Paz",
+    "urdu": "آش_پز",
+    "sanskrit": "आश_पज़",
+    "hindi": "आश_पज़",
+    "meaning": "Cook or preparer of food.",
+    "example": "The Aash_Paz prepared delicious meals for the festival.",
+    "synonyms": ["chef", "cook"],
+    "antonyms": ["unskilled"]
+  },
+  {
+    "word": "Aasha",
+    "urdu": "آشا",
+    "sanskrit": "आशा",
+    "hindi": "आशा",
+    "meaning": "Hope or expectation.",
+    "example": "Aasha filled the hearts of the children.",
+    "synonyms": ["hope", "expectation"],
+    "antonyms": ["despair", "hopelessness"]
+  },
+  {
+    "word": "Aashao",
+    "urdu": "آشاؤ",
+    "sanskrit": "आशाओ",
+    "hindi": "आशाओ",
+    "meaning": "Hopes or aspirations.",
+    "example": "He lived his life full of Aashao.",
+    "synonyms": ["hopes", "dreams"],
+    "antonyms": ["despair", "discouragement"]
+  },
+  {
+    "word": "Aashaon",
+    "urdu": "آشاؤں",
+    "sanskrit": "आशाओं",
+    "hindi": "आशाओं",
+    "meaning": "Plural of hope; aspirations.",
+    "example": "The youth nurtured Aashaon for a better society.",
+    "synonyms": ["aspirations", "expectations"],
+    "antonyms": ["hopelessness"]
+  },
+  {
+    "word": "Aashain",
+    "urdu": "آشائیں",
+    "sanskrit": "आशाएँ",
+    "hindi": "आशाएँ",
+    "meaning": "Expectations or wishes.",
+    "example": "The students held Aashain for their success.",
+    "synonyms": ["wishes", "expectations"],
+    "antonyms": ["disappointments"]
+  },
+  {
+    "word": "Aasham",
+    "urdu": "آشام",
+    "sanskrit": "आशाम",
+    "hindi": "आशाम",
+    "meaning": "One who drinks or consumes.",
+    "example": "He was known as an Aasham of fine teas.",
+    "synonyms": ["drinker", "consumer"],
+    "antonyms": ["abstainer"]
+  },
+  {
+    "word": "Aashamon",
+    "urdu": "آشاموں",
+    "sanskrit": "आशामों",
+    "hindi": "आशामों",
+    "meaning": "Plural of Aasham; those who consume.",
+    "example": "The Aashamon gathered for the feast.",
+    "synonyms": ["consumers", "drinkers"],
+    "antonyms": ["abstainers"]
+  },
+  {
+    "word": "Aashami",
+    "urdu": "آشامی",
+    "sanskrit": "आशामी",
+    "hindi": "आशामी",
+    "meaning": "Participant or one who partakes.",
+    "example": "Every Aashami contributed to the festival.",
+    "synonyms": ["participant", "member"],
+    "antonyms": ["non-participant"]
+  },
+  {
+    "word": "Aashb",
+    "urdu": "آشب",
+    "sanskrit": "आशब",
+    "hindi": "आशब",
+    "meaning": "Fate or destiny.",
+    "example": "His Aashb was written in the stars.",
+    "synonyms": ["destiny", "fate"],
+    "antonyms": ["free will"]
+  },
+  {
+    "word": "Aashbah",
+    "urdu": "آشبہ",
+    "sanskrit": "आशबह",
+    "hindi": "आशबह",
+    "meaning": "Doubt or suspicion.",
+    "example": "There was Aashbah in her mind about the plan.",
+    "synonyms": ["doubt", "suspicion"],
+    "antonyms": ["certainty"]
+  },
+  {
+    "word": "Ashtavah",
+    "urdu": "آشتاوہ",
+    "sanskrit": "आष्टावह",
+    "hindi": "आष्टावह",
+    "meaning": "Eightfold or consisting of eight parts.",
+    "example": "The ritual had an Ashtavah structure.",
+    "synonyms": ["octuple", "eightfold"],
+    "antonyms": ["single", "onefold"]
+  },
+  {
+    "word": "Ashti",
+    "urdu": "آشتی",
+    "sanskrit": "आश्टि",
+    "hindi": "आश्टि",
+    "meaning": "Reconciliation or peace.",
+    "example": "The two families reached Ashti after the dispute.",
+    "synonyms": ["peace", "reconciliation"],
+    "antonyms": ["conflict", "war"]
+  },
+  {
+    "word": "Ashtiyan",
+    "urdu": "آشتیاں",
+    "sanskrit": "आष्टियाँ",
+    "hindi": "आष्टियाँ",
+    "meaning": "Small reconciliations or minor agreements.",
+    "example": "The Ashtiyan helped maintain harmony in the village.",
+    "synonyms": ["agreements", "reconciliations"],
+    "antonyms": ["disputes"]
+  },
+  {
+    "word": "Ashtiyon",
+    "urdu": "آشتیوں",
+    "sanskrit": "आष्टियों",
+    "hindi": "आष्टियों",
+    "meaning": "Plural of Ashti; acts of reconciliation.",
+    "example": "Many Ashtiyon were arranged between the rival groups.",
+    "synonyms": ["peace agreements", "settlements"],
+    "antonyms": ["conflicts", "quarrels"]
+  },
+  {
+    "word": "Aashra",
+    "urdu": "آشرا",
+    "sanskrit": "आश्रा",
+    "hindi": "आश्रा",
+    "meaning": "Shelter or refuge.",
+    "example": "They sought Aashra during the storm.",
+    "synonyms": ["shelter", "refuge"],
+    "antonyms": ["exposure", "danger"]
+  },
+  {
+    "word": "Aashrabad",
+    "urdu": "آشرباد",
+    "sanskrit": "आशरबाद",
+    "hindi": "आशरबाद",
+    "meaning": "Blessing or benediction.",
+    "example": "The priest gave an Aashrabad to the children.",
+    "synonyms": ["blessing", "benediction"],
+    "antonyms": ["curse", "misfortune"]
+  },
+  {
+    "word": "Ashram",
+    "urdu": "آشرم",
+    "sanskrit": "आश्रम",
+    "hindi": "आश्रम",
+    "meaning": "A spiritual hermitage or monastery.",
+    "example": "He spent a month meditating at the Ashram.",
+    "synonyms": ["hermitage", "monastery"],
+    "antonyms": ["city", "market"]
+  },
+  {
+    "word": "Aashao",
+    "urdu": "آشاؤ",
+    "sanskrit": "आशाओ",
+    "hindi": "आशाओ",
+    "meaning": "Hopes or aspirations.",
+    "example": "He lived his life full of Aashao.",
+    "synonyms": ["hopes", "dreams"],
+    "antonyms": ["despair", "discouragement"]
+  },
+  {
+    "word": "Aashaon",
+    "urdu": "آشاؤں",
+    "sanskrit": "आशाओं",
+    "hindi": "आशाओं",
+    "meaning": "Plural of hope; aspirations.",
+    "example": "The youth nurtured Aashaon for a better society.",
+    "synonyms": ["aspirations", "expectations"],
+    "antonyms": ["hopelessness"]
+  },
+  {
+    "word": "Aashain",
+    "urdu": "آشائیں",
+    "sanskrit": "आशाएँ",
+    "hindi": "आशाएँ",
+    "meaning": "Expectations or wishes.",
+    "example": "The students held Aashain for their success.",
+    "synonyms": ["wishes", "expectations"],
+    "antonyms": ["disappointments"]
+  },
+  {
+    "word": "Aasham",
+    "urdu": "آشام",
+    "sanskrit": "आशाम",
+    "hindi": "आशाम",
+    "meaning": "One who drinks or consumes.",
+    "example": "He was known as an Aasham of fine teas.",
+    "synonyms": ["drinker", "consumer"],
+    "antonyms": ["abstainer"]
+  },
+  {
+    "word": "Aashamon",
+    "urdu": "آشاموں",
+    "sanskrit": "आशामों",
+    "hindi": "आशामों",
+    "meaning": "Plural of Aasham; those who consume.",
+    "example": "The Aashamon gathered for the feast.",
+    "synonyms": ["consumers", "drinkers"],
+    "antonyms": ["abstainers"]
+  },
+  {
+    "word": "Aashami",
+    "urdu": "آشامی",
+    "sanskrit": "आशामी",
+    "hindi": "आशामी",
+    "meaning": "Participant or one who partakes.",
+    "example": "Every Aashami contributed to the festival.",
+    "synonyms": ["participant", "member"],
+    "antonyms": ["non-participant"]
+  },
+  {
+    "word": "Aashb",
+    "urdu": "آشب",
+    "sanskrit": "आशब",
+    "hindi": "आशब",
+    "meaning": "Fate or destiny.",
+    "example": "His Aashb was written in the stars.",
+    "synonyms": ["destiny", "fate"],
+    "antonyms": ["free will"]
+  },
+  {
+    "word": "Aashbah",
+    "urdu": "آشبہ",
+    "sanskrit": "आशबह",
+    "hindi": "आशबह",
+    "meaning": "Doubt or suspicion.",
+    "example": "There was Aashbah in her mind about the plan.",
+    "synonyms": ["doubt", "suspicion"],
+    "antonyms": ["certainty"]
+  },
+  {
+    "word": "Ashtavah",
+    "urdu": "آشتاوہ",
+    "sanskrit": "आष्टावह",
+    "hindi": "आष्टावह",
+    "meaning": "Eightfold or consisting of eight parts.",
+    "example": "The ritual had an Ashtavah structure.",
+    "synonyms": ["octuple", "eightfold"],
+    "antonyms": ["single", "onefold"]
+  },
+  {
+    "word": "Ashti",
+    "urdu": "آشتی",
+    "sanskrit": "आश्टि",
+    "hindi": "आश्टि",
+    "meaning": "Reconciliation or peace.",
+    "example": "The two families reached Ashti after the dispute.",
+    "synonyms": ["peace", "reconciliation"],
+    "antonyms": ["conflict", "war"]
+  },
+  {
+    "word": "Ashtiyan",
+    "urdu": "آشتیاں",
+    "sanskrit": "आष्टियाँ",
+    "hindi": "आष्टियाँ",
+    "meaning": "Small reconciliations or minor agreements.",
+    "example": "The Ashtiyan helped maintain harmony in the village.",
+    "synonyms": ["agreements", "reconciliations"],
+    "antonyms": ["disputes"]
+  },
+  {
+    "word": "Ashtiyon",
+    "urdu": "آشتیوں",
+    "sanskrit": "आष्टियों",
+    "hindi": "आष्टियों",
+    "meaning": "Plural of Ashti; acts of reconciliation.",
+    "example": "Many Ashtiyon were arranged between the rival groups.",
+    "synonyms": ["peace agreements", "settlements"],
+    "antonyms": ["conflicts", "quarrels"]
+  },
+  {
+    "word": "Aashra",
+    "urdu": "آشرا",
+    "sanskrit": "आश्रा",
+    "hindi": "आश्रा",
+    "meaning": "Shelter or refuge.",
+    "example": "They sought Aashra during the storm.",
+    "synonyms": ["shelter", "refuge"],
+    "antonyms": ["exposure", "danger"]
+  },
+  {
+    "word": "Aashrabad",
+    "urdu": "آشرباد",
+    "sanskrit": "आशरबाद",
+    "hindi": "आशरबाद",
+    "meaning": "Blessing or benediction.",
+    "example": "The priest gave an Aashrabad to the children.",
+    "synonyms": ["blessing", "benediction"],
+    "antonyms": ["curse", "misfortune"]
+  },
+  {
+    "word": "Ashram",
+    "urdu": "آشرم",
+    "sanskrit": "आश्रम",
+    "hindi": "आश्रम",
+    "meaning": "A spiritual hermitage or monastery.",
+    "example": "He spent a month meditating at the Ashram.",
+    "synonyms": ["hermitage", "monastery"],
+    "antonyms": ["city", "market"]
+  },
+  {
+    "word": "Ashfta_nawaaon",
+    "urdu": "آشفتہ_نواؤں",
+    "sanskrit": "आशफ्ता_नवाओं",
+    "hindi": "आशफ्ता_नवाओं",
+    "meaning": "Disturbed or erratic tunes or melodies.",
+    "example": "The orchestra played Ashfta_nawaaon during the storm.",
+    "synonyms": ["chaotic tunes", "disordered melodies"],
+    "antonyms": ["harmonious tunes", "melodious music"]
+  },
+  {
+    "word": "Ashmaal",
+    "urdu": "آشمال",
+    "sanskrit": "आशमाल",
+    "hindi": "आशमाल",
+    "meaning": "Abundance or plenty.",
+    "example": "The harvest brought Ashmaal to the village.",
+    "synonyms": ["abundance", "plenty"],
+    "antonyms": ["scarcity", "lack"]
+  },
+  {
+    "word": "Ashmaali",
+    "urdu": "آشمالی",
+    "sanskrit": "आशमाली",
+    "hindi": "आशमाली",
+    "meaning": "Full of abundance or richness.",
+    "example": "The Ashmaali garden was filled with flowers.",
+    "synonyms": ["abundant", "rich"],
+    "antonyms": ["poor", "scant"]
+  },
+  {
+    "word": "Ashna",
+    "urdu": "آشنا",
+    "sanskrit": "आश्ना",
+    "hindi": "आشنا",
+    "meaning": "Acquainted or familiar.",
+    "example": "He is Ashna with the customs of the village.",
+    "synonyms": ["familiar", "acquainted"],
+    "antonyms": ["stranger", "unknown"]
+  },
+  {
+    "word": "Ashna_ro",
+    "urdu": "آشنا_رو",
+    "sanskrit": "आश्ना_रो",
+    "hindi": "आشنا_रो",
+    "meaning": "Friendly or sociable disposition.",
+    "example": "Her Ashna_ro nature made her popular.",
+    "synonyms": ["friendly", "sociable"],
+    "antonyms": ["aloof", "reserved"]
+  },
+  {
+    "word": "Ashna_zadah",
+    "urdu": "آشنا_زدہ",
+    "sanskrit": "आश्ना_ज़दह",
+    "hindi": "आشنا_ज़दह",
+    "meaning": "Affected by familiarity; emotionally attached.",
+    "example": "He seemed Ashna_zadah with his old friends.",
+    "synonyms": ["attached", "familiar"],
+    "antonyms": ["detached", "unfamiliar"]
+  },
+  {
+    "word": "Ashnaon",
+    "urdu": "آشناؤں",
+    "sanskrit": "आश्नाओं",
+    "hindi": "आश्नाओं",
+    "meaning": "Plural of Ashna; acquaintances or familiar ones.",
+    "example": "Many Ashnaon attended the festival.",
+    "synonyms": ["acquaintances", "familiar ones"],
+    "antonyms": ["strangers", "unknowns"]
+  },
+  {
+    "word": "Ashnai",
+    "urdu": "آشنائی",
+    "sanskrit": "आश्नाई",
+    "hindi": "आश्नाई",
+    "meaning": "Familiarity or acquaintance.",
+    "example": "Her Ashnai with the culture helped her adapt quickly.",
+    "synonyms": ["familiarity", "acquaintance"],
+    "antonyms": ["ignorance", "unfamiliarity"]
+  },
+  {
+    "word": "Ashnaaiyaan",
+    "urdu": "آشنائیاں",
+    "sanskrit": "आश्नाइयाँ",
+    "hindi": "आश्नाइयाँ",
+    "meaning": "Plural of Ashnai; relationships of familiarity.",
+    "example": "The Ashnaaiyaan strengthened over years.",
+    "synonyms": ["familiarities", "relationships"],
+    "antonyms": ["estrangements", "alienations"]
+  },
+  {
+    "word": "Ashnaiyon",
+    "urdu": "آشنائیوں",
+    "sanskrit": "आश्नाइयों",
+    "hindi": "आश्नाइयों",
+    "meaning": "Another plural form of Ashnai; ties or acquaintances.",
+    "example": "The Ashnaiyon in the town were well respected.",
+    "synonyms": ["ties", "acquaintances"],
+    "antonyms": ["disconnections", "estrangements"]
+  },
+  {
+    "word": "Ashnaen",
+    "urdu": "آشنائیں",
+    "sanskrit": "आश्नाएं",
+    "hindi": "आश्नाएं",
+    "meaning": "Plural feminine form; female acquaintances or familiar women.",
+    "example": "The Ashnaen gathered for the ceremony.",
+    "synonyms": ["acquaintances", "friends"],
+    "antonyms": ["strangers", "unknowns"]
+  },
+  {
+    "word": "Ashnan",
+    "urdu": "آشنان",
+    "sanskrit": "आश्नान",
+    "hindi": "आश्नान",
+    "meaning": "Those familiar or acquainted.",
+    "example": "The Ashnan were honored at the event.",
+    "synonyms": ["familiar ones", "acquainted ones"],
+    "antonyms": ["strangers", "unknowns"]
+  },
+  {
+    "word": "Ashnav",
+    "urdu": "آشناو",
+    "sanskrit": "आश्नाव",
+    "hindi": "आश्नाव",
+    "meaning": "Those who have familiarity.",
+    "example": "The Ashnav were given priority seating.",
+    "synonyms": ["acquainted ones", "familiar people"],
+    "antonyms": ["strangers", "outsiders"]
+  },
+  {
+    "word": "Ashnavar",
+    "urdu": "آشناور",
+    "sanskrit": "आश्नावर",
+    "hindi": "आश्नावर",
+    "meaning": "Companion or familiar associate.",
+    "example": "He was the Ashnavar of the king.",
+    "synonyms": ["companion", "associate"],
+    "antonyms": ["stranger", "outsider"]
+  },
+  {
+    "word": "Ashob",
+    "urdu": "آشوب",
+    "sanskrit": "आशोब",
+    "hindi": "आशोब",
+    "meaning": "Turmoil or disturbance.",
+    "example": "The city was in Ashob after the flood.",
+    "synonyms": ["turmoil", "chaos"],
+    "antonyms": ["peace", "order"]
+  },
+  {
+    "word": "Ashob_za",
+    "urdu": "آشوب_زا",
+    "sanskrit": "आशोब_जा",
+    "hindi": "आशोब_जा",
+    "meaning": "Creator of disturbance.",
+    "example": "The rebel was an Ashob_za in the region.",
+    "synonyms": ["troublemaker", "agitator"],
+    "antonyms": ["peacemaker", "stabilizer"]
+  },
+  {
+    "word": "Ashob_gaah",
+    "urdu": "آشوب_گاہ",
+    "sanskrit": "आशोब_गाह",
+    "hindi": "आशोब_गाह",
+    "meaning": "Place of disturbance.",
+    "example": "The Ashob_gaah was avoided by the locals.",
+    "synonyms": ["trouble spot", "chaotic place"],
+    "antonyms": ["peaceful place", "safe zone"]
+  },
+  {
+    "word": "Ashobon",
+    "urdu": "آشوبوں",
+    "sanskrit": "आशोबों",
+    "hindi": "आशोबों",
+    "meaning": "Plural of Ashob; disturbances.",
+    "example": "Many Ashobon disrupted the event.",
+    "synonyms": ["disturbances", "turmoils"],
+    "antonyms": ["calms", "orders"]
+  },
+  {
+    "word": "Ashobi",
+    "urdu": "آشوبی",
+    "sanskrit": "आशोबी",
+    "hindi": "आशोबी",
+    "meaning": "Pertaining to turmoil or unrest.",
+    "example": "The Ashobi nature of the crowd worried the authorities.",
+    "synonyms": ["turbulent", "restless"],
+    "antonyms": ["calm", "peaceful"]
+  },
+  {
+    "word": "Ashobiyat",
+    "urdu": "آشوبیت",
+    "sanskrit": "आशोबियत",
+    "hindi": "आशोबियत",
+    "meaning": "State of disturbance or turmoil.",
+    "example": "The Ashobiyat in the city increased during the riots.",
+    "synonyms": ["unrest", "turmoil"],
+    "antonyms": ["order", "stability"]
+  },
+  {
+    "word": "Ashobiyaton",
+    "urdu": "آشوبیتوں",
+    "sanskrit": "आशोबियतों",
+    "hindi": "आशोबियतों",
+    "meaning": "Plural of Ashobiyat; multiple disturbances.",
+    "example": "The Ashobiyaton affected the entire region.",
+    "synonyms": ["unrests", "turmoils"],
+    "antonyms": ["calms", "peaceful times"]
+  },
+  {
+    "word": "Ashobiyaten",
+    "urdu": "آشوبیتیں",
+    "sanskrit": "आशोबियतें",
+    "hindi": "आशोबियतें",
+    "meaning": "Plural form of Ashobiyat; disturbances.",
+    "example": "The Ashobiyaten were evident in the protests.",
+    "synonyms": ["turmoils", "chaoses"],
+    "antonyms": ["stabilities", "orders"]
+  },
+  {
+    "word": "Ashobiyon",
+    "urdu": "آشوبیوں",
+    "sanskrit": "आशोबियों",
+    "hindi": "आशोबियों",
+    "meaning": "Multiple instances of unrest.",
+    "example": "The Ashobiyon of recent times caused anxiety.",
+    "synonyms": ["turmoils", "disturbances"],
+    "antonyms": ["calms", "peaceful moments"]
+  },
+  {
+    "word": "Ashur",
+    "urdu": "آشور",
+    "sanskrit": "आशुर",
+    "hindi": "आशुर",
+    "meaning": "Refers to the ancient Assyrian civilization or region.",
+    "example": "Ashur was a prominent city in ancient times.",
+    "synonyms": ["Assyria", "Assyrian region"],
+    "antonyms": []
+  },
+  {
+    "word": "Ashuri",
+    "urdu": "آشوری",
+    "sanskrit": "आशुरी",
+    "hindi": "आशुरी",
+    "meaning": "Relating to Ashur or Assyria.",
+    "example": "The Ashuri culture influenced neighboring regions.",
+    "synonyms": ["Assyrian", "Ashur-related"],
+    "antonyms": []
+  },
+  {
+    "word": "Ashuriyat",
+    "urdu": "آشوریات",
+    "sanskrit": "आशुरीयात",
+    "hindi": "आशुरीयात",
+    "meaning": "Plural or collective term for Ashur/Assyrian things.",
+    "example": "The museum displayed Ashuriyat artifacts.",
+    "synonyms": ["Assyrian items", "Ashur objects"],
+    "antonyms": []
+  },
+  {
+    "word": "Ashon",
+    "urdu": "آشون",
+    "sanskrit": "आशोन",
+    "hindi": "आशोन",
+    "meaning": "Refers to tranquility or calmness.",
+    "example": "He sought Ashon after a long journey.",
+    "synonyms": ["peace", "serenity"],
+    "antonyms": ["turmoil", "chaos"]
+  },
+  {
+    "word": "Ashcharj",
+    "urdu": "آشچرج",
+    "sanskrit": "आश्चरज",
+    "hindi": "आश्चरज",
+    "meaning": "Amazement or surprise.",
+    "example": "Her performance filled the audience with Ashcharj.",
+    "synonyms": ["wonder", "astonishment"],
+    "antonyms": ["indifference", "expectation"]
+  },
+  {
+    "word": "Ashkaar",
+    "urdu": "آشکار",
+    "sanskrit": "आश्कार",
+    "hindi": "आश्कार",
+    "meaning": "Manifest or evident.",
+    "example": "His emotions were Ashkaar on his face.",
+    "synonyms": ["obvious", "evident"],
+    "antonyms": ["hidden", "obscure"]
+  },
+  {
+    "word": "Ashkaara",
+    "urdu": "آشکارا",
+    "sanskrit": "आश्कार",
+    "hindi": "आश्कार",
+    "meaning": "Explicit or clearly shown.",
+    "example": "The results were Ashkaara to everyone.",
+    "synonyms": ["clear", "apparent"],
+    "antonyms": ["unclear", "concealed"]
+  },
+  {
+    "word": "Ashkaraai",
+    "urdu": "آشکارائی",
+    "sanskrit": "आश्कराई",
+    "hindi": "आश्कराई",
+    "meaning": "Act of making something clear or evident.",
+    "example": "The Ashkaraai of his feelings surprised everyone.",
+    "synonyms": ["clarity", "manifestation"],
+    "antonyms": ["ambiguity", "obscurity"]
+  },
+  {
+    "word": "Ashkaraaiyaan",
+    "urdu": "آشکارائیاں",
+    "sanskrit": "आश्काराइयाँ",
+    "hindi": "आश्काराइयाँ",
+    "meaning": "Multiple evidences or manifestations.",
+    "example": "The Ashkaraaiyaan of the past events were studied by historians.",
+    "synonyms": ["manifestations", "evidences"],
+    "antonyms": ["concealments", "hidden aspects"]
+  },
+  {
+    "word": "Ashkaron",
+    "urdu": "آشکاروں",
+    "sanskrit": "आश्कारों",
+    "hindi": "आश्कारों",
+    "meaning": "Plural form of Ashkaar; evident things or people.",
+    "example": "The Ashkaron of his actions could not be ignored.",
+    "synonyms": ["evident things", "apparent objects"],
+    "antonyms": ["hidden things", "obscure objects"]
+  },
+  {
+    "word": "Ashkara",
+    "urdu": "آشکارہ",
+    "sanskrit": "आश्करा",
+    "hindi": "आश्करा",
+    "meaning": "Revealed or disclosed.",
+    "example": "The truth was Ashkara to everyone.",
+    "synonyms": ["revealed", "disclosed"],
+    "antonyms": ["hidden", "concealed"]
+  },
+  {
+    "word": "Ashkari",
+    "urdu": "آشکاری",
+    "sanskrit": "आशकारी",
+    "hindi": "आशकारी",
+    "meaning": "Manifestation or clear indication.",
+    "example": "His smile was an Ashkari of happiness.",
+    "synonyms": ["manifestation", "evidence"],
+    "antonyms": ["ambiguity", "obscurity"]
+  },
+  {
+    "word": "Ashkariyaan",
+    "urdu": "آشکاریاں",
+    "sanskrit": "आशकारियां",
+    "hindi": "आशकारियां",
+    "meaning": "Multiple manifestations or evidences.",
+    "example": "The Ashkariyaan of the ceremony were admired by all.",
+    "synonyms": ["manifestations", "evidences"],
+    "antonyms": ["concealments", "hidden aspects"]
+  },
+  {
+    "word": "Ashkariyon",
+    "urdu": "آشکاریوں",
+    "sanskrit": "आशकारियों",
+    "hindi": "आशकारियों",
+    "meaning": "Plural form of Ashkari; clear indications.",
+    "example": "The Ashkariyon of his success inspired everyone.",
+    "synonyms": ["indications", "manifestations"],
+    "antonyms": ["ambiguities", "obscurities"]
+  },
+  {
+    "word": "Ashiya",
+    "urdu": "آشیا",
+    "sanskrit": "आशिया",
+    "hindi": "आशिया",
+    "meaning": "Object, thing, or belonging.",
+    "example": "The Ashiya of the household were neatly arranged.",
+    "synonyms": ["object", "thing", "belonging"],
+    "antonyms": ["nothingness", "void"]
+  },
+  {
+    "word": "Ashiyaai",
+    "urdu": "آشیائی",
+    "sanskrit": "आशियाई",
+    "hindi": "आशियाई",
+    "meaning": "Relating to Asia or Asian.",
+    "example": "Ashiyaai cultures are diverse and rich in tradition.",
+    "synonyms": ["Asian", "oriental"],
+    "antonyms": []
+  },
+  {
+    "word": "Ashiyan",
+    "urdu": "آشیان",
+    "sanskrit": "आशियान",
+    "hindi": "आशियान",
+    "meaning": "Nest or dwelling place.",
+    "example": "The bird returned to its Ashiyan safely.",
+    "synonyms": ["nest", "home", "abode"],
+    "antonyms": ["open space", "exposure"]
+  },
+  {
+    "word": "Ashiyanon",
+    "urdu": "آشیانوں",
+    "sanskrit": "आशियानों",
+    "hindi": "आशियानों",
+    "meaning": "Plural of Ashiyan; multiple nests or homes.",
+    "example": "The Ashiyanon of birds were scattered across the garden.",
+    "synonyms": ["nests", "homes", "abodes"],
+    "antonyms": ["vacancies", "emptiness"]
+  },
+  {
+    "word": "Ashiyana",
+    "urdu": "آشیانہ",
+    "sanskrit": "आशियाना",
+    "hindi": "आशियाना",
+    "meaning": "Nest, dwelling, or residence.",
+    "example": "He built a cozy Ashiyana for the family.",
+    "synonyms": ["nest", "home", "residence"],
+    "antonyms": ["wasteland", "barrenness"]
+  },
+  {
+    "word": "Ashiyani",
+    "urdu": "آشیانی",
+    "sanskrit": "आशियानी",
+    "hindi": "आशियानी",
+    "meaning": "Relating to a nest or dwelling.",
+    "example": "The Ashiyani birds chirped melodiously.",
+    "synonyms": ["nesting", "residential"],
+    "antonyms": ["homeless", "open"]
+  },
+  {
+    "word": "Ashiyanian",
+    "urdu": "آشیانیاں",
+    "sanskrit": "आशियानियां",
+    "hindi": "आशियानियां",
+    "meaning": "Plural form of Ashiyani; nests or homes.",
+    "example": "The Ashiyanian were carefully maintained by the gardener.",
+    "synonyms": ["nests", "homes", "dwellings"],
+    "antonyms": ["emptiness", "vacancy"]
+  },
+  {
+    "word": "Ashiyaniyon",
+    "urdu": "آشیانیوں",
+    "sanskrit": "आशियानीयों",
+    "hindi": "आशियानीयों",
+    "meaning": "Multiple dwelling places or nests.",
+    "example": "The Ashiyaniyon were visible across the trees.",
+    "synonyms": ["homes", "nests", "dwellings"],
+    "antonyms": ["empty spaces", "voids"]
+  },
+  {
+    "word": "Ashiyane",
+    "urdu": "آشیانے",
+    "sanskrit": "आशियाने",
+    "hindi": "आशियाने",
+    "meaning": "Another plural form of nest or abode.",
+    "example": "The Ashiyane of the village birds were safe.",
+    "synonyms": ["nests", "homes"],
+    "antonyms": ["barrenness", "vacancy"]
+  },
+  {
+    "word": "Ashiyan",
+    "urdu": "آشیاں",
+    "sanskrit": "आशियां",
+    "hindi": "आशियां",
+    "meaning": "Nests; plural of Ashiyan.",
+    "example": "The forest was full of Ashiyan.",
+    "synonyms": ["nests", "homes"],
+    "antonyms": ["empty spaces", "voids"]
+  },
+  {
+    "word": "Ashirbad",
+    "urdu": "آشیرباد",
+    "sanskrit": "आशिर्बाद",
+    "hindi": "आशिर्बाद",
+    "meaning": "Blessing or benediction.",
+    "example": "He received Ashirbad from his elders.",
+    "synonyms": ["blessing", "benediction", "prayer"],
+    "antonyms": ["curse", "malediction"]
+  },
+  {
+    "word": "Ashirbachan",
+    "urdu": "آشیربچن",
+    "sanskrit": "आशीर्वचन",
+    "hindi": "आशीर्वचन",
+    "meaning": "Blessed words or benediction.",
+    "example": "The guru gave Ashirbachan to his disciples.",
+    "synonyms": ["blessing", "benediction", "prayer"],
+    "antonyms": ["curse", "malediction"]
+  },
+  {
+    "word": "Ashirwad",
+    "urdu": "آشیرواد",
+    "sanskrit": "आशीर्वाद",
+    "hindi": "आशीर्वाद",
+    "meaning": "Blessing or divine favor.",
+    "example": "He sought Ashirwad before starting his journey.",
+    "synonyms": ["blessing", "benediction"],
+    "antonyms": ["curse", "misfortune"]
+  },
+  {
+    "word": "Asal",
+    "urdu": "آصال",
+    "sanskrit": "आसाल",
+    "hindi": "आसाल",
+    "meaning": "Original, genuine, or authentic.",
+    "example": "This is the Asal manuscript of the poet.",
+    "synonyms": ["authentic", "original", "genuine"],
+    "antonyms": ["fake", "imitation"]
+  },
+  {
+    "word": "Asif",
+    "urdu": "آصف",
+    "sanskrit": "आसिफ़",
+    "hindi": "आसिफ़",
+    "meaning": "A proper name.",
+    "example": "Asif was praised for his wisdom.",
+    "synonyms": ["name"],
+    "antonyms": []
+  },
+  {
+    "word": "Asifa",
+    "urdu": "آصفہ",
+    "sanskrit": "आसिफ़ा",
+    "hindi": "आसिफ़ा",
+    "meaning": "A female proper name.",
+    "example": "Asifa excelled in her studies.",
+    "synonyms": ["name"],
+    "antonyms": []
+  },
+  {
+    "word": "Asifi",
+    "urdu": "آصفی",
+    "sanskrit": "आसिफ़ी",
+    "hindi": "आसिफ़ी",
+    "meaning": "Related to Asif; possessive form.",
+    "example": "The Asifi family lived in the city.",
+    "synonyms": ["pertaining to Asif"],
+    "antonyms": []
+  },
+  {
+    "word": "Asfiya",
+    "urdu": "آصفیہ",
+    "sanskrit": "आसिफ़िया",
+    "hindi": "आसिफ़िया",
+    "meaning": "Female proper name derived from Asif.",
+    "example": "Asfiya won the art competition.",
+    "synonyms": ["name"],
+    "antonyms": []
+  },
+  {
+    "word": "Agha",
+    "urdu": "آغا",
+    "sanskrit": "आघा",
+    "hindi": "आघा",
+    "meaning": "Leader or chief.",
+    "example": "The Agha guided the community wisely.",
+    "synonyms": ["chief", "leader", "head"],
+    "antonyms": ["follower", "subordinate"]
+  },
+  {
+    "word": "Aghaon",
+    "urdu": "آغاؤں",
+    "sanskrit": "आघाओं",
+    "hindi": "आघाओं",
+    "meaning": "Plural of Agha; leaders or chiefs.",
+    "example": "The Aghaon attended the meeting.",
+    "synonyms": ["leaders", "chiefs"],
+    "antonyms": ["followers"]
+  },
+  {
+    "word": "Aghaz",
+    "urdu": "آغاز",
+    "sanskrit": "आग़ाज़",
+    "hindi": "आग़ाज़",
+    "meaning": "Beginning or commencement.",
+    "example": "The ceremony marked the Aghaz of the festival.",
+    "synonyms": ["beginning", "start", "commencement"],
+    "antonyms": ["end", "conclusion"]
+  },
+  {
+    "word": "Aghazon",
+    "urdu": "آغازوں",
+    "sanskrit": "आग़ाज़ों",
+    "hindi": "आग़ाज़ों",
+    "meaning": "Beginnings or commencements (plural).",
+    "example": "The Aghazon of projects were celebrated.",
+    "synonyms": ["beginnings", "starts"],
+    "antonyms": ["endings", "conclusions"]
+  },
+  {
+    "word": "Aghaal",
+    "urdu": "آغال",
+    "sanskrit": "आगाल",
+    "hindi": "आगाल",
+    "meaning": "Locks or chains.",
+    "example": "The gate was secured with strong Aghaal.",
+    "synonyms": ["locks", "chains", "fastenings"],
+    "antonyms": ["unlock", "openings"]
+  },
+  {
+    "word": "Aghaalen",
+    "urdu": "آغالیں",
+    "sanskrit": "आगालें",
+    "hindi": "आगालें",
+    "meaning": "Plural of locks or chains.",
+    "example": "The treasure chests were sealed with multiple Aghaalen.",
+    "synonyms": ["locks", "chains"],
+    "antonyms": ["openings"]
+  },
+  {
+    "word": "Aghamina",
+    "urdu": "آغامینا",
+    "sanskrit": "आघामिना",
+    "hindi": "आघामिना",
+    "meaning": "Introductory or beginning phase.",
+    "example": "The Aghamina of the course was brief but informative.",
+    "synonyms": ["introduction", "beginning phase"],
+    "antonyms": ["conclusion", "ending phase"]
+  },
+  {
+    "word": "Aghani",
+    "urdu": "آغانی",
+    "sanskrit": "आघानी",
+    "hindi": "आघानी",
+    "meaning": "Songs or chants.",
+    "example": "The Aghani filled the air during the festival.",
+    "synonyms": ["songs", "chants", "melodies"],
+    "antonyms": ["silence"]
+  },
+  {
+    "word": "Aghar",
+    "urdu": "آغر",
+    "sanskrit": "आघर",
+    "hindi": "आघर",
+    "meaning": "A pit or hollow.",
+    "example": "The traveler fell into a deep Aghar in the forest.",
+    "synonyms": ["pit", "hollow", "hole"],
+    "antonyms": ["hill", "mound"]
+  },
+  {
+    "word": "Aghashton",
+    "urdu": "آغشتوں",
+    "sanskrit": "आघष्टों",
+    "hindi": "आघष्टों",
+    "meaning": "Outstretched hands or embraces (plural).",
+    "example": "They welcomed him with Aghashton.",
+    "synonyms": ["embraces", "hugs"],
+    "antonyms": ["pushes", "rejections"]
+  },
+  {
+    "word": "Aghashtgan",
+    "urdu": "آغشتگان",
+    "sanskrit": "आघष्टगण",
+    "hindi": "आघष्टगण",
+    "meaning": "People who embrace or support.",
+    "example": "The Aghashtgan gathered around the speaker.",
+    "synonyms": ["supporters", "admirers"],
+    "antonyms": ["opponents", "critics"]
+  },
+  {
+    "word": "Aghashta",
+    "urdu": "آغشتہ",
+    "sanskrit": "आघष्ट",
+    "hindi": "आघष्ट",
+    "meaning": "An embrace or hug.",
+    "example": "She gave him a warm Aghashta.",
+    "synonyms": ["hug", "embrace"],
+    "antonyms": ["push", "repel"]
+  },
+  {
+    "word": "Aghl",
+    "urdu": "آغل",
+    "sanskrit": "आघल",
+    "hindi": "आघल",
+    "meaning": "A pen or enclosure for animals.",
+    "example": "The shepherd kept the goats in the Aghl.",
+    "synonyms": ["pen", "enclosure", "corral"],
+    "antonyms": ["open field"]
+  },
+  {
+    "word": "Aghosh",
+    "urdu": "آغوش",
+    "sanskrit": "आघोश",
+    "hindi": "आघोश",
+    "meaning": "An embrace or protective hold.",
+    "example": "He found comfort in her Aghosh.",
+    "synonyms": ["embrace", "hug", "hold"],
+    "antonyms": ["push", "rejection"]
+  },
+  {
+    "word": "Aghosh_kashadah",
+    "urdu": "آغوش_کشادہ",
+    "sanskrit": "आघोश_कशादा",
+    "hindi": "आघोश_کشादा",
+    "meaning": "Wide or open embrace.",
+    "example": "The mother welcomed her children with Aghosh_kashadah.",
+    "synonyms": ["open hug", "warm embrace"],
+    "antonyms": ["cold reception"]
+  },
+  {
+    "word": "Aghoshoon",
+    "urdu": "آغوشوں",
+    "sanskrit": "आघोशों",
+    "hindi": "आघोशों",
+    "meaning": "Embraces (plural).",
+    "example": "The friends exchanged Aghoshoon after the reunion.",
+    "synonyms": ["hugs", "embraces"],
+    "antonyms": ["rejections"]
+  },
+  {
+    "word": "Aghoshi",
+    "urdu": "آغوشی",
+    "sanskrit": "आघोशी",
+    "hindi": "आघोशी",
+    "meaning": "One who embraces.",
+    "example": "She was very Aghoshi toward her students.",
+    "synonyms": ["welcoming", "embracing"],
+    "antonyms": ["cold", "distant"]
+  },
+  {
+    "word": "Aghoshiyaan",
+    "urdu": "آغوشیوں",
+    "sanskrit": "आघोशियों",
+    "hindi": "आघोशियों",
+    "meaning": "People giving embraces (plural).",
+    "example": "The Aghoshiyaan greeted everyone warmly.",
+    "synonyms": ["welcomers", "embracers"],
+    "antonyms": ["rejecters"]
+  },
+  {
+    "word": "Aghoshein",
+    "urdu": "آغوشیں",
+    "sanskrit": "आघोशें",
+    "hindi": "आघोशें",
+    "meaning": "Embraces or protective holds (plural).",
+    "example": "Their Aghoshein provided comfort in the storm.",
+    "synonyms": ["hugs", "embraces"],
+    "antonyms": ["pushes", "repulses"]
+  },
+  {
+    "word": "Aghoon",
+    "urdu": "آغوں",
+    "sanskrit": "आघों",
+    "hindi": "आघों",
+    "meaning": "Pl. of Agha or chief/leader in context.",
+    "example": "The Aghoon convened for the council.",
+    "synonyms": ["leaders", "chiefs"],
+    "antonyms": ["followers"]
+  },
+  {
+    "word": "Af",
+    "urdu": "آف",
+    "sanskrit": "आफ़",
+    "hindi": "आफ़",
+    "meaning": "Exclamation of frustration or sigh.",
+    "example": "He exclaimed 'Af!' after seeing the mess.",
+    "synonyms": ["sigh", "exclamation"],
+    "antonyms": []
+  },
+  {
+    "word": "Afat",
+    "urdu": "آفات",
+    "sanskrit": "आफ़ात",
+    "hindi": "आफ़ात",
+    "meaning": "Disasters, calamities, or misfortunes.",
+    "example": "The region suffered many Afat this year.",
+    "synonyms": ["disaster", "calamity", "misfortune"],
+    "antonyms": ["prosperity", "fortune"]
+  },
+  {
+    "word": "Afaq",
+    "urdu": "آفاق",
+    "sanskrit": "आफ़ाक",
+    "hindi": "आफ़ाक",
+    "meaning": "Horizons or vast spaces.",
+    "example": "He dreamed of exploring the distant Afaq.",
+    "synonyms": ["horizons", "skies", "expanse"],
+    "antonyms": ["confines", "limits"]
+  },
+  {
+    "word": "Afaq_gard",
+    "urdu": "آفاق_گرد",
+    "sanskrit": "आफ़ाक_गर्द",
+    "hindi": "आफ़ाक_गर्द",
+    "meaning": "Traveler or wanderer of horizons.",
+    "example": "The Afaq_gard journeyed through deserts and mountains.",
+    "synonyms": ["traveler", "wanderer", "explorer"],
+    "antonyms": ["homebody", "settler"]
+  },
+  {
+    "word": "Afaqi",
+    "urdu": "آفاقی",
+    "sanskrit": "आफाकी",
+    "hindi": "आफाकी",
+    "meaning": "Related to horizons or universal in nature.",
+    "example": "His vision was truly Afaqi, encompassing all nations.",
+    "synonyms": ["universal", "cosmic", "horizon-related"],
+    "antonyms": ["narrow", "limited"]
+  },
+  {
+    "word": "Afaqiyat",
+    "urdu": "آفاقیت",
+    "sanskrit": "आफाकियत",
+    "hindi": "आफाकियत",
+    "meaning": "The state of being universal or vast in scope.",
+    "example": "The Afaqiyat of his ideas inspired generations.",
+    "synonyms": ["universality", "cosmic nature"],
+    "antonyms": ["particularity", "locality"]
+  },
+  {
+    "word": "Afaqiyatein",
+    "urdu": "آفاقیتیں",
+    "sanskrit": "आफाकियतें",
+    "hindi": "आफाकियतें",
+    "meaning": "Plural of Afaqiyat; universal aspects or horizons.",
+    "example": "The Afaqiyatein of ancient literature were profound.",
+    "synonyms": ["universals", "cosmic elements"],
+    "antonyms": ["details", "specifics"]
+  },
+  {
+    "word": "Aafat",
+    "urdu": "آفت",
+    "sanskrit": "आफत",
+    "hindi": "आफत",
+    "meaning": "Disaster, calamity, or misfortune.",
+    "example": "The flood was a terrible Aafat for the village.",
+    "synonyms": ["disaster", "calamity", "misfortune"],
+    "antonyms": ["blessing", "fortune"]
+  },
+  {
+    "word": "Aafat_zadah",
+    "urdu": "آفت_زدہ",
+    "sanskrit": "आफत_ज़दा",
+    "hindi": "आफत_ज़दा",
+    "meaning": "Affected by disaster or calamity.",
+    "example": "The Aafat_zadah town was in ruins after the storm.",
+    "synonyms": ["stricken", "affected", "troubled"],
+    "antonyms": ["safe", "prosperous"]
+  },
+  {
+    "word": "Aafat_pazeer",
+    "urdu": "آفت_پذیر",
+    "sanskrit": "आफत_पज़ीर",
+    "hindi": "आफत_पज़ीर",
+    "meaning": "Prone or susceptible to disaster.",
+    "example": "Low-lying areas are often Aafat_pazeer during floods.",
+    "synonyms": ["vulnerable", "susceptible"],
+    "antonyms": ["resistant", "immune"]
+  },
+  {
+    "word": "Aftab",
+    "urdu": "آفتاب",
+    "sanskrit": "आफ़ताब",
+    "hindi": "आफ़ताब",
+    "meaning": "Sun; sunlight or radiance.",
+    "example": "The Aftab rose beautifully over the mountains.",
+    "synonyms": ["sun", "sunlight", "radiance"],
+    "antonyms": ["moon", "shade"]
+  },
+  {
+    "word": "Aftab_bam",
+    "urdu": "آفتاب_بام",
+    "sanskrit": "आफ़ताब_बाम",
+    "hindi": "आफ़ताब_बाम",
+    "meaning": "Sunlight on the rooftop; bright sun.",
+    "example": "The flowers bloomed under the Aftab_bam.",
+    "synonyms": ["sunshine", "sunlight"],
+    "antonyms": ["shadow", "darkness"]
+  },
+  {
+    "word": "Aftab_rizha",
+    "urdu": "آفتاب_رذہ",
+    "sanskrit": "आफ़ताब_रिझा",
+    "hindi": "आफ़ताब_रिझा",
+    "meaning": "Sunbeam or rays of the sun.",
+    "example": "Morning Aftab_rizha warmed the valley.",
+    "synonyms": ["sunbeam", "sunrays"],
+    "antonyms": ["shade", "darkness"]
+  },
+  {
+    "word": "Aftab_zadah",
+    "urdu": "آفتاب_زدہ",
+    "sanskrit": "आफ़ताब_ज़दा",
+    "hindi": "आफ़ताब_ज़दा",
+    "meaning": "Exposed to strong sunlight.",
+    "example": "The workers were Aftab_zadah during noon.",
+    "synonyms": ["sun-exposed", "sunlit"],
+    "antonyms": ["shaded", "sheltered"]
+  },
+  {
+    "word": "Aftab_giri",
+    "urdu": "آفتاب_گیری",
+    "sanskrit": "आफ़ताब_गिरी",
+    "hindi": "आफ़ताब_गिरी",
+    "meaning": "Sunbathing or sun exposure.",
+    "example": "He enjoyed Aftab_giri on the beach.",
+    "synonyms": ["sunbathing", "sun exposure"],
+    "antonyms": ["shade", "cover"]
+  },
+  {
+    "word": "Aftabistan",
+    "urdu": "آفتابستان",
+    "sanskrit": "आफ़ताबिस्तान",
+    "hindi": "आफ़ताबिस्तान",
+    "meaning": "Land of the sun; sunny region.",
+    "example": "The Aftabistan was famous for its clear skies.",
+    "synonyms": ["sunland", "sunny place"],
+    "antonyms": ["shady land", "dark region"]
+  },
+  {
+    "word": "Aftabu",
+    "urdu": "آفتابو",
+    "sanskrit": "आफ़ताबु",
+    "hindi": "आफ़ताबु",
+    "meaning": "The sun (poetic plural form).",
+    "example": "The poets sang of the shining Aftabu.",
+    "synonyms": ["suns", "sunlights"],
+    "antonyms": ["moons"]
+  },
+  {
+    "word": "Aftabuon",
+    "urdu": "آفتابوں",
+    "sanskrit": "आफ़ताबों",
+    "hindi": "आफ़ताबों",
+    "meaning": "Suns (plural).",
+    "example": "The painter depicted multiple Aftabuon in the sky.",
+    "synonyms": ["suns", "sunlights"],
+    "antonyms": ["moons"]
+  },
+  {
+    "word": "Aftabchi",
+    "urdu": "آفتابچی",
+    "sanskrit": "आफ़ताबची",
+    "hindi": "आफ़ताबची",
+    "meaning": "One who works with sunlight or a sun-worshipper.",
+    "example": "The Aftabchi tended the solar instruments.",
+    "synonyms": ["sun worker", "solar devotee"],
+    "antonyms": []
+  },
+  {
+    "word": "Aftabchiyaan",
+    "urdu": "آفتابچیاں",
+    "sanskrit": "आफ़ताबचियां",
+    "hindi": "आफ़ताबचियां",
+    "meaning": "Plural of Aftabchi; sun workers or sun-lovers.",
+    "example": "The Aftabchiyaan gathered at sunrise.",
+    "synonyms": ["sun workers", "sun enthusiasts"],
+    "antonyms": []
+  },
+  {
+    "word": "Aftabchiyon",
+    "urdu": "آفتابچیوں",
+    "sanskrit": "आफ़ताबचियों",
+    "hindi": "आफ़ताबचियों",
+    "meaning": "Female sun-workers or sun-devotees.",
+    "example": "The Aftabchiyon prepared for the morning ritual.",
+    "synonyms": ["female sun-workers", "sun devotees"],
+    "antonyms": []
+  },
+  {
+    "word": "Aftaba",
+    "urdu": "آفتابہ",
+    "sanskrit": "आफ़ताबा",
+    "hindi": "आफ़ताबा",
+    "meaning": "Bright sunlight or shining sun (poetic).",
+    "example": "The poet described the mountain covered in Aftaba.",
+    "synonyms": ["sunlight", "sunshine"],
+    "antonyms": ["shade", "darkness"]
+  },
+  {
+    "word": "Aftabi",
+    "urdu": "آفتابی",
+    "sanskrit": "आफ़ताबी",
+    "hindi": "आफ़ताबी",
+    "meaning": "Pertaining to the sun; sunny.",
+    "example": "The Aftabi days make the garden flourish.",
+    "synonyms": ["sunny", "solar"],
+    "antonyms": ["shady", "gloomy"]
+  },
+  {
+    "word": "Aftabiyan",
+    "urdu": "آفتابیاں",
+    "sanskrit": "आफ़ताबियाँ",
+    "hindi": "आफ़ताबियाँ",
+    "meaning": "Sun-related things or objects.",
+    "example": "The Aftabiyan petals reflected sunlight beautifully.",
+    "synonyms": ["sunlit", "sun-related"],
+    "antonyms": ["shadowed"]
+  },
+  {
+    "word": "Aftabiyon",
+    "urdu": "آفتابیوں",
+    "sanskrit": "आफ़ताबियों",
+    "hindi": "आफ़ताबियों",
+    "meaning": "Plural of Aftabi; sunny things or sun objects.",
+    "example": "The Aftabiyon decorated the palace garden.",
+    "synonyms": ["sunny ones", "sun-related items"],
+    "antonyms": ["shaded ones"]
+  },
+  {
+    "word": "Aftabe",
+    "urdu": "آفتابے",
+    "sanskrit": "आफ़ताबे",
+    "hindi": "आफ़ताबे",
+    "meaning": "Suns or bright sun objects (plural poetic).",
+    "example": "The painter illustrated multiple Aftabe on the horizon.",
+    "synonyms": ["suns", "sun objects"],
+    "antonyms": ["moons", "shadowed objects"]
+  },
+  {
+    "word": "Aftawa",
+    "urdu": "آفتاوا",
+    "sanskrit": "आफ़तावा",
+    "hindi": "आफ़तावा",
+    "meaning": "Sun’s energy or sunlight (poetic).",
+    "example": "The morning Aftawa filled the valley with warmth.",
+    "synonyms": ["sunlight", "sun’s energy"],
+    "antonyms": ["darkness", "shade"]
+  },
+  {
+    "word": "Aftawe",
+    "urdu": "آفتاوے",
+    "sanskrit": "आफ़तावें",
+    "hindi": "आफ़तावें",
+    "meaning": "Poetic plural for sun’s radiance.",
+    "example": "The Aftawe of dawn lit the mountains.",
+    "synonyms": ["sun rays", "sunlight"],
+    "antonyms": ["shadow", "darkness"]
+  },
+  {
+    "word": "Afto",
+    "urdu": "آفتو",
+    "sanskrit": "आफ़तो",
+    "hindi": "आफ़तो",
+    "meaning": "Sun-related objects or poetic suns.",
+    "example": "The Afto reflected beautifully in the lake.",
+    "synonyms": ["sun objects", "sun rays"],
+    "antonyms": ["shadowed objects"]
+  },
+  {
+    "word": "Afton",
+    "urdu": "آفتوں",
+    "sanskrit": "आफ़तों",
+    "hindi": "आफ़तों",
+    "meaning": "Disasters or calamities (plural).",
+    "example": "The village suffered many Afton last year.",
+    "synonyms": ["disasters", "calamities", "misfortunes"],
+    "antonyms": ["blessings", "fortunes"]
+  },
+  {
+    "word": "Afti",
+    "urdu": "آفتی",
+    "sanskrit": "आफ़ती",
+    "hindi": "आफ़ती",
+    "meaning": "Related to disaster or calamity.",
+    "example": "The afti conditions destroyed crops.",
+    "synonyms": ["disastrous", "calamitous"],
+    "antonyms": ["fortunate", "safe"]
+  },
+  {
+    "word": "Aftiyon",
+    "urdu": "آفتیوں",
+    "sanskrit": "आफ़तियों",
+    "hindi": "आफ़तियों",
+    "meaning": "Plural of Afti; disaster-related things.",
+    "example": "Aftiyon struck the coastal areas repeatedly.",
+    "synonyms": ["disasters", "calamities"],
+    "antonyms": ["blessings", "safety"]
+  },
+  {
+    "word": "Aftein",
+    "urdu": "آفتیں",
+    "sanskrit": "आफ़तें",
+    "hindi": "आफ़तें",
+    "meaning": "Disasters or misfortunes (alternate plural).",
+    "example": "The region faced multiple Aftein this season.",
+    "synonyms": ["disasters", "calamities"],
+    "antonyms": ["prosperities"]
+  },
+  {
+    "word": "Aftiye",
+    "urdu": "آفتیے",
+    "sanskrit": "आफ़तिये",
+    "hindi": "आफ़तिये",
+    "meaning": "Disaster-related matters, poetic plural.",
+    "example": "The elders discussed the consequences of Aftiye.",
+    "synonyms": ["misfortunes", "calamities"],
+    "antonyms": ["blessings"]
+  },
+  {
+    "word": "Afda",
+    "urdu": "آفدہ",
+    "sanskrit": "आफ़दा",
+    "hindi": "आफ़दा",
+    "meaning": "Useful, beneficial, or valuable.",
+    "example": "This advice proved Afda to the students.",
+    "synonyms": ["useful", "beneficial", "helpful"],
+    "antonyms": ["useless", "harmful"]
+  },
+  {
+    "word": "Afz",
+    "urdu": "آفذ",
+    "sanskrit": "आफ़ज़",
+    "hindi": "आफ़ज़",
+    "meaning": "Increase, enhancer, or one who adds.",
+    "example": "The fertilizer acted as an Afz for the crops.",
+    "synonyms": ["enhancer", "increaser", "booster"],
+    "antonyms": ["reducer", "diminisher"]
+  },
+  {
+    "word": "Afar",
+    "urdu": "آفر",
+    "sanskrit": "आफ़र",
+    "hindi": "आफ़र",
+    "meaning": "Offer or proposal.",
+    "example": "He received a generous Afar from the publisher.",
+    "synonyms": ["offer", "proposal", "suggestion"],
+    "antonyms": ["rejection", "withdrawal"]
+  },
+  {
+    "word": "Afars",
+    "urdu": "آفرز",
+    "sanskrit": "आफ़रज़",
+    "hindi": "आफ़रज़",
+    "meaning": "Plural of Afar; multiple offers.",
+    "example": "The company made several Afars to the clients.",
+    "synonyms": ["offers", "proposals"],
+    "antonyms": ["rejections"]
+  },
+  {
+    "word": "Afroza",
+    "urdu": "آفروزہ",
+    "sanskrit": "आफ़रोज़ा",
+    "hindi": "आफ़रोज़ा",
+    "meaning": "Illuminating or enlightening (poetic).",
+    "example": "Her words were Afroza to the audience.",
+    "synonyms": ["illuminating", "brightening", "enlightening"],
+    "antonyms": ["darkening", "dull"]
+  },
+  {
+    "word": "Afron",
+    "urdu": "آفروں",
+    "sanskrit": "आफ़रों",
+    "hindi": "आफ़रों",
+    "meaning": "Plural of Afar; offers or gifts.",
+    "example": "He accepted all Afron graciously.",
+    "synonyms": ["offers", "gifts", "proposals"],
+    "antonyms": ["denials", "rejections"]
+  },
+  {
+    "word": "Afri",
+    "urdu": "آفری",
+    "sanskrit": "आफ़री",
+    "hindi": "आफ़री",
+    "meaning": "Creative or inventive (adjective).",
+    "example": "Her Afri ideas inspired the team.",
+    "synonyms": ["creative", "inventive", "innovative"],
+    "antonyms": ["uncreative", "ordinary"]
+  },
+  {
+    "word": "Afridon",
+    "urdu": "آفریدوں",
+    "sanskrit": "आफ़्रीदों",
+    "hindi": "आफ़्रीदों",
+    "meaning": "Plural of Afarid; created beings or creations.",
+    "example": "The artist showed all his Afridon at the gallery.",
+    "synonyms": ["creations", "beings", "works"],
+    "antonyms": ["destructions"]
+  },
+  {
+    "word": "Afaridgar",
+    "urdu": "آفریدگار",
+    "sanskrit": "आफ़्रीदगार",
+    "hindi": "आफ़्रीदगार",
+    "meaning": "Creator or originator.",
+    "example": "The poet praised the Afaridgar of the universe.",
+    "synonyms": ["creator", "originator", "maker"],
+    "antonyms": ["destroyer"]
+  },
+  {
+    "word": "Afaridgaron",
+    "urdu": "آفریدگاروں",
+    "sanskrit": "आफ़्रीदगारों",
+    "hindi": "आफ़्रीदगारों",
+    "meaning": "Plural of Afaridgar; creators.",
+    "example": "Many Afaridgaron contributed to the masterpiece.",
+    "synonyms": ["creators", "originators", "makers"],
+    "antonyms": ["destroyers"]
+  },
+  {
+    "word": "Afaridgari",
+    "urdu": "آفریدگاری",
+    "sanskrit": "आफ़्रीदगारी",
+    "hindi": "आफ़्रीदगारी",
+    "meaning": "Creation or act of creating.",
+    "example": "The Afaridgari of the sculpture took months.",
+    "synonyms": ["creation", "crafting", "making"],
+    "antonyms": ["destruction", "demolition"]
+  },
+  {
+    "word": "Afaridgariyan",
+    "urdu": "آفریدگاریاں",
+    "sanskrit": "आफ़्रीदगारियाँ",
+    "hindi": "आफ़्रीदगारियाँ",
+    "meaning": "Multiple creations or acts of creation.",
+    "example": "The museum exhibited the Afaridgariyan of ancient artists.",
+    "synonyms": ["creations", "crafts", "works"],
+    "antonyms": ["destructions"]
+  },
+  {
+    "word": "Afaridgan",
+    "urdu": "آفریدگان",
+    "sanskrit": "आफ़्रीदगान",
+    "hindi": "आफ़्रीदगान",
+    "meaning": "Created beings or entities.",
+    "example": "The myth spoke of Afaridgan as divine creations.",
+    "synonyms": ["creatures", "entities", "beings"],
+    "antonyms": ["destroyed beings"]
+  },
+  {
+    "word": "Afarida",
+    "urdu": "آفریدہ",
+    "sanskrit": "आफ़्रीदा",
+    "hindi": "आफ़्रीदा",
+    "meaning": "Created (feminine) or inventive.",
+    "example": "The Afarida sculpture was praised for its originality.",
+    "synonyms": ["created", "inventive", "crafted"],
+    "antonyms": ["destroyed", "plain"]
+  },
+  {
+    "word": "Afaridi",
+    "urdu": "آفریدی",
+    "sanskrit": "आफ़्रीदी",
+    "hindi": "आफ़्रीदी",
+    "meaning": "Relating to a creator or creation.",
+    "example": "The Afaridi style influenced generations of artists.",
+    "synonyms": ["creative", "related to creation"],
+    "antonyms": ["destructive"]
+  },
+  {
+    "word": "Afaridyo",
+    "urdu": "آفریدیو",
+    "sanskrit": "आफ़्रीद्यो",
+    "hindi": "आफ़्रीद्यो",
+    "meaning": "Poetic plural of creations or invented things.",
+    "example": "The gallery displayed all the Afaridyo.",
+    "synonyms": ["creations", "works"],
+    "antonyms": ["destructions"]
+  },
+  {
+    "word": "Afaridiyon",
+    "urdu": "آفریدیوں",
+    "sanskrit": "आफ़्रीदियों",
+    "hindi": "आफ़्रीदियों",
+    "meaning": "Plural form of creations (feminine); things created.",
+    "example": "The museum showcased Afaridiyon from different eras.",
+    "synonyms": ["creations", "works", "inventions"],
+    "antonyms": ["destructions"]
+  },
+  {
+    "word": "Afarin",
+    "urdu": "آفرین",
+    "sanskrit": "आफ़रीन",
+    "hindi": "आफ़रीन",
+    "meaning": "Praise, well done, bravo.",
+    "example": "Afarin! You did an excellent job on this project.",
+    "synonyms": ["bravo", "well done", "kudos"],
+    "antonyms": ["criticism", "disapproval"]
+  },
+  {
+    "word": "Afarin_Afarin",
+    "urdu": "آفرین_آفرین",
+    "sanskrit": "आफ़रीन_आफ़रीन",
+    "hindi": "आफ़रीन_आफ़रीन",
+    "meaning": "Double praise; highly commendable.",
+    "example": "Afarin Afarin! Your performance was outstanding.",
+    "synonyms": ["well done twice", "excellent", "bravo bravo"],
+    "antonyms": ["blame", "disapproval"]
+  },
+  {
+    "word": "Afarin_Hai",
+    "urdu": "آفرین_ہے",
+    "sanskrit": "आफ़रीन_है",
+    "hindi": "आफ़रीन_है",
+    "meaning": "It is praiseworthy; worthy of admiration.",
+    "example": "This solution is Afarin Hai for its creativity.",
+    "synonyms": ["commendable", "praiseworthy", "admirable"],
+    "antonyms": ["disgraceful", "unworthy"]
+  },
+  {
+    "word": "Afarinesh",
+    "urdu": "آفرینش",
+    "sanskrit": "आफ़रीनश",
+    "hindi": "आफ़रीनश",
+    "meaning": "Creation or act of creating.",
+    "example": "The Afarinesh of the sculpture took months to perfect.",
+    "synonyms": ["creation", "making", "crafting"],
+    "antonyms": ["destruction"]
+  },
+  {
+    "word": "Afarinandon",
+    "urdu": "آفرینندوں",
+    "sanskrit": "आफ़रीनंदों",
+    "hindi": "आफ़रीनंदों",
+    "meaning": "Plural of creators; people who create.",
+    "example": "The Afarinandon of these artworks were highly skilled.",
+    "synonyms": ["creators", "makers", "originators"],
+    "antonyms": ["destroyers"]
+  },
+  {
+    "word": "Afarinandagan",
+    "urdu": "آفرینندگان",
+    "sanskrit": "आफ़रीनंदगान",
+    "hindi": "आफ़रीनंदगान",
+    "meaning": "Plural of Afarindah; the originators or inventors.",
+    "example": "The Afarindagan were recognized for their innovations.",
+    "synonyms": ["inventors", "creators", "originators"],
+    "antonyms": ["destroyers"]
+  },
+  {
+    "word": "Afarindah",
+    "urdu": "آفرینندہ",
+    "sanskrit": "आफ़रीनंदह",
+    "hindi": "आफ़रीनंदह",
+    "meaning": "Creator or originator.",
+    "example": "The poet is an Afarindah of beautiful verses.",
+    "synonyms": ["creator", "originator", "inventor"],
+    "antonyms": ["destroyer"]
+  },
+  {
+    "word": "Afarindah_Afarini",
+    "urdu": "آفرینندہ_آفرینی",
+    "sanskrit": "आफ़रीनंदह_आफ़रीनी",
+    "hindi": "आफ़रीनंदह_आफ़रीनी",
+    "meaning": "Creative creator; one who creates creatively.",
+    "example": "He is an Afarindah Afarini in modern art.",
+    "synonyms": ["innovative creator", "creative originator"],
+    "antonyms": ["uninventive", "ordinary"]
+  },
+  {
+    "word": "Afarinon",
+    "urdu": "آفرینوں",
+    "sanskrit": "आफ़रीनों",
+    "hindi": "आफ़रीनों",
+    "meaning": "Plural of Afarin; praise-worthy deeds or people.",
+    "example": "The students received Afarinon for their efforts.",
+    "synonyms": ["commendations", "praises", "accolades"],
+    "antonyms": ["criticism", "blame"]
+  },
+  {
+    "word": "Afarini",
+    "urdu": "آفرینی",
+    "sanskrit": "आफ़रीनी",
+    "hindi": "आफ़रीनी",
+    "meaning": "Creativity or act of creating.",
+    "example": "Her Afarini led to a revolutionary invention.",
+    "synonyms": ["creativity", "innovation", "crafting"],
+    "antonyms": ["destruction", "stagnation"]
+  },
+  {
+    "word": "Afarineen",
+    "urdu": "آفرینیں",
+    "sanskrit": "आफ़रीनें",
+    "hindi": "आफ़रीनें",
+    "meaning": "Plural feminine of Afarin; praiseworthy things or acts.",
+    "example": "The awards were Afarineen for students' efforts.",
+    "synonyms": ["commendable things", "praised acts"],
+    "antonyms": ["disgraceful acts"]
+  },
+  {
+    "word": "Afrin",
+    "urdu": "آفریں",
+    "sanskrit": "आफ़रीں",
+    "hindi": "आफ़रीں",
+    "meaning": "Exclamation of praise or well done.",
+    "example": "Afrin! You solved the problem correctly.",
+    "synonyms": ["bravo", "well done", "kudos"],
+    "antonyms": ["blame", "disapproval"]
+  },
+  {
+    "word": "Afs",
+    "urdu": "آفس",
+    "sanskrit": "आफ़्स",
+    "hindi": "आफ़्स",
+    "meaning": "Office or administrative place.",
+    "example": "He went to the Afs to complete his paperwork.",
+    "synonyms": ["office", "bureau", "administration"],
+    "antonyms": ["home", "outdoor"]
+  },
+  {
+    "word": "Afss",
+    "urdu": "آفسز",
+    "sanskrit": "आफ़्सज़",
+    "hindi": "आफ़्सज़",
+    "meaning": "Plural of Afs; offices.",
+    "example": "Many Afss were located in the city center.",
+    "synonyms": ["offices", "departments", "branches"],
+    "antonyms": ["homes", "residences"]
+  },
+  {
+    "word": "Afsun",
+    "urdu": "آفسوں",
+    "sanskrit": "आफ़्सों",
+    "hindi": "आफ़्सों",
+    "meaning": "Plural of offices; workplaces.",
+    "example": "The company has many Afsun spread across the city.",
+    "synonyms": ["offices", "departments", "branches"],
+    "antonyms": ["homes", "residences"]
+  },
+  {
+    "word": "Afsat",
+    "urdu": "آفسٹ",
+    "sanskrit": "आफ़्सट",
+    "hindi": "आफ़्सट",
+    "meaning": "A variant spelling of office or post; workstation.",
+    "example": "He arrived at his Afsat early in the morning.",
+    "synonyms": ["office", "desk", "workstation"],
+    "antonyms": ["home"]
+  },
+  {
+    "word": "Afl",
+    "urdu": "آفل",
+    "sanskrit": "आफ़ल",
+    "hindi": "आफ़ल",
+    "meaning": "Action or act; sometimes used as a prefix for names.",
+    "example": "His Afl was appreciated by everyone.",
+    "synonyms": ["deed", "act", "action"],
+    "antonyms": ["inaction", "idleness"]
+  },
+  {
+    "word": "Afandi",
+    "urdu": "آفندی",
+    "sanskrit": "आफ़ंदी",
+    "hindi": "आफ़ंदी",
+    "meaning": "A respectful title used for gentlemen or elders.",
+    "example": "Afandi welcomed us warmly into his home.",
+    "synonyms": ["sir", "gentleman", "mister"],
+    "antonyms": ["commoner"]
+  },
+  {
+    "word": "Afus",
+    "urdu": "آفوس",
+    "sanskrit": "आफ़ुस",
+    "hindi": "आफ़ुस",
+    "meaning": "A term used historically for officials or aides.",
+    "example": "The Afus assisted the king in administrative matters.",
+    "synonyms": ["assistant", "official", "aide"],
+    "antonyms": ["commoner"]
+  },
+  {
+    "word": "Afiyat",
+    "urdu": "آفیت",
+    "sanskrit": "आफ़ियत",
+    "hindi": "आफ़ियत",
+    "meaning": "Well-being, health, or safety.",
+    "example": "He prayed for Afiyat of his family.",
+    "synonyms": ["health", "well-being", "safety"],
+    "antonyms": ["illness", "danger"]
+  },
+  {
+    "word": "Officer",
+    "urdu": "آفیسر",
+    "sanskrit": "आफ़िसर",
+    "hindi": "आफ़िसर",
+    "meaning": "A person holding a position of authority in an organization.",
+    "example": "The Afiser issued the official notice.",
+    "synonyms": ["official", "administrator", "manager"],
+    "antonyms": ["subordinate", "worker"]
+  },
+  {
+    "word": "Officers",
+    "urdu": "آفیسرز",
+    "sanskrit": "आफ़िसरज़",
+    "hindi": "आफ़िसरज़",
+    "meaning": "Plural of officer; multiple persons in authority.",
+    "example": "All Afisers attended the meeting.",
+    "synonyms": ["officials", "managers", "administrators"],
+    "antonyms": ["employees", "subordinates"]
+  },
+  {
+    "word": "Official",
+    "urdu": "آفیشل",
+    "sanskrit": "आफ़िशल",
+    "hindi": "आफ़िशल",
+    "meaning": "Related to authority, formally recognized, or administrative.",
+    "example": "The Afishal document required signatures from all authorities.",
+    "synonyms": ["formal", "authorized", "recognized"],
+    "antonyms": ["informal", "unauthorized"]
+  },
+  {
+    "word": "Officials",
+    "urdu": "آفیشلز",
+    "sanskrit": "आफ़िशलज़",
+    "hindi": "आफ़िशलज़",
+    "meaning": "Plural of official; persons with authority.",
+    "example": "The Afishals monitored the process carefully.",
+    "synonyms": ["authorities", "administrators", "officers"],
+    "antonyms": ["citizens", "workers"]
+  },
+  {
+    "word": "Afeen",
+    "urdu": "آفیں",
+    "sanskrit": "आफ़ें",
+    "hindi": "आफ़ें",
+    "meaning": "Praise, admiration, or approval.",
+    "example": "He received Afreen for his brave efforts.",
+    "synonyms": ["kudos", "bravo", "commendation"],
+    "antonyms": ["criticism", "blame"]
+  },
+  {
+    "word": "Aqa",
+    "urdu": "آقا",
+    "sanskrit": "आका",
+    "hindi": "आका",
+    "meaning": "Sir, master, or lord; a term of respect.",
+    "example": "Aqa guided his students with care.",
+    "synonyms": ["sir", "master", "lord"],
+    "antonyms": ["servant", "commoner"]
+  },
+  {
+    "word": "Aqawon",
+    "urdu": "آقاؤں",
+    "sanskrit": "आकाओं",
+    "hindi": "आकाओं",
+    "meaning": "Plural of Aqa; respected men or lords.",
+    "example": "The Aqawon of the village made important decisions.",
+    "synonyms": ["lords", "masters", "gentlemen"],
+    "antonyms": ["servants", "commoners"]
+  },
+  {
+    "word": "Aqai",
+    "urdu": "آقائی",
+    "sanskrit": "आकाई",
+    "hindi": "आकाई",
+    "meaning": "Pertaining to lords or masters; noble.",
+    "example": "The Aqai family owned vast lands.",
+    "synonyms": ["noble", "lordly", "respected"],
+    "antonyms": ["common", "lowly"]
+  },
+  {
+    "word": "Aqaian",
+    "urdu": "آقائیاں",
+    "sanskrit": "आकाइयाँ",
+    "hindi": "आकाइयाँ",
+    "meaning": "Plural feminine of Aqai; noble women or ladies.",
+    "example": "The Aqaian of the court were influential.",
+    "synonyms": ["noblewomen", "ladies", "dignitaries"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Aqaiyat",
+    "urdu": "آقائیت",
+    "sanskrit": "आकाइयत",
+    "hindi": "आकाइयत",
+    "meaning": "The state or quality of being a master or lord.",
+    "example": "His Aqaiyat was recognized throughout the region.",
+    "synonyms": ["lordship", "mastery", "nobility"],
+    "antonyms": ["subordination", "servitude"]
+  },
+  {
+    "word": "Aqaiyaton",
+    "urdu": "آقائیتوں",
+    "sanskrit": "आकाइयतों",
+    "hindi": "आकाइयतों",
+    "meaning": "Plural of Aqaiyat; different lordships or noble positions.",
+    "example": "The Aqaiyaton of the kingdom were respected.",
+    "synonyms": ["masteries", "nobilities", "lordships"],
+    "antonyms": ["servitude"]
+  },
+  {
+    "word": "Aqaiyaten",
+    "urdu": "آقائیتیں",
+    "sanskrit": "आकाइयतें",
+    "hindi": "आकाइयतें",
+    "meaning": "Alternate plural of Aqaiyat; noble statuses.",
+    "example": "Many Aqaiyaten were inherited from ancestors.",
+    "synonyms": ["nobilities", "masteries", "lordships"],
+    "antonyms": ["commonness", "servitude"]
+  },
+  {
+    "word": "Aqaion",
+    "urdu": "آقائیوں",
+    "sanskrit": "आकाइयों",
+    "hindi": "आकाइयों",
+    "meaning": "Plural form referring to lords or noblemen.",
+    "example": "The Aqaion were honored at the ceremony.",
+    "synonyms": ["lords", "masters", "nobles"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Aqaye",
+    "urdu": "آقائے",
+    "sanskrit": "आकाए",
+    "hindi": "आकाए",
+    "meaning": "The lord or master; singular definite form.",
+    "example": "Aqaye of the region were influential leaders.",
+    "synonyms": ["lord", "master", "chief"],
+    "antonyms": ["servant", "commoner"]
+  },
+  {
+    "word": "Aqaye_Khana",
+    "urdu": "آقائے_خانہ",
+    "sanskrit": "आकाए_खाना",
+    "hindi": "आकाए_खाना",
+    "meaning": "Head of a household or lord of the house.",
+    "example": "Aqaye_Khana managed all affairs of the estate.",
+    "synonyms": ["householder", "patriarch", "lord"],
+    "antonyms": ["servant", "tenant"]
+  },
+  {
+    "word": "Aqasi",
+    "urdu": "آقاسی",
+    "sanskrit": "आकासी",
+    "hindi": "आकासी",
+    "meaning": "Pertaining to nobility or aristocracy; a noble title.",
+    "example": "Aqasi members were respected in the kingdom.",
+    "synonyms": ["noble", "aristocrat", "lordly"],
+    "antonyms": ["commoner", "peasant"]
+  },
+  {
+    "word": "Aqtedbigi",
+    "urdu": "آقتدبیگی",
+    "sanskrit": "आक़्तेदबीगी",
+    "hindi": "आक़्तेदबीगी",
+    "meaning": "A person of scholarly or administrative authority.",
+    "example": "Aqtedbigi oversaw the records in the royal office.",
+    "synonyms": ["scholar", "administrator", "official"],
+    "antonyms": ["layman"]
+  },
+  {
+    "word": "Al",
+    "urdu": "آل",
+    "sanskrit": "आल",
+    "hindi": "आल",
+    "meaning": "Family, lineage, or household.",
+    "example": "The Al of the village were known for their wisdom.",
+    "synonyms": ["family", "lineage", "household"],
+    "antonyms": ["strangers", "outsiders"]
+  },
+  {
+    "word": "Al_Itahar",
+    "urdu": "آل_اطہار",
+    "sanskrit": "आल_इतहार",
+    "hindi": "आल_इतहार",
+    "meaning": "The pure or righteous family.",
+    "example": "Al_Itahar upheld traditions of justice.",
+    "synonyms": ["pure lineage", "righteous family"],
+    "antonyms": ["corrupt family"]
+  },
+  {
+    "word": "Al_Aulad",
+    "urdu": "آل_اولاد",
+    "sanskrit": "आल_औलाद",
+    "hindi": "आल_औलाद",
+    "meaning": "The family of children or descendants.",
+    "example": "Al_Aulad gathered for the festival together.",
+    "synonyms": ["descendants", "offspring", "lineage"],
+    "antonyms": ["ancestors"]
+  },
+  {
+    "word": "Al_Bandi",
+    "urdu": "آل_بندی",
+    "sanskrit": "आल_बंदी",
+    "hindi": "आल_बंदी",
+    "meaning": "Family affiliation or grouping.",
+    "example": "Al_Bandi was known for their strong bonds.",
+    "synonyms": ["clan", "lineage", "household"],
+    "antonyms": ["individuals"]
+  },
+  {
+    "word": "Al_Janjal",
+    "urdu": "آل_جنجال",
+    "sanskrit": "आल_जनजाल",
+    "hindi": "आल_जनजाल",
+    "meaning": "Family of troublemakers; clan causing disputes.",
+    "example": "Al_Janjal often quarreled with neighboring families.",
+    "synonyms": ["troublesome family", "disputatious clan"],
+    "antonyms": ["peaceful family"]
+  },
+  {
+    "word": "Al_Rasool",
+    "urdu": "آل_رسول",
+    "sanskrit": "आल_रसूल",
+    "hindi": "आल_रसूल",
+    "meaning": "Family of the Prophet; sacred lineage.",
+    "example": "Al_Rasool members were revered across the region.",
+    "synonyms": ["prophetic lineage", "holy family"],
+    "antonyms": ["common lineage"]
+  },
+  {
+    "word": "Al_Abba",
+    "urdu": "آل_عبا",
+    "sanskrit": "आल_अब्बा",
+    "hindi": "आल_अब्बा",
+    "meaning": "Family of ancestors; forefathers’ lineage.",
+    "example": "Al_Abba preserved traditions of their forefathers.",
+    "synonyms": ["ancestral family", "forefathers"],
+    "antonyms": ["descendants"]
+  },
+  {
+    "word": "Al_Imran",
+    "urdu": "آل_عمران",
+    "sanskrit": "आल_इमरान",
+    "hindi": "आल_इमरान",
+    "meaning": "The family of Imran; a noble lineage.",
+    "example": "Al_Imran held significant influence in the city.",
+    "synonyms": ["lineage of Imran", "noble family"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Al_Fatima",
+    "urdu": "آل_فاطمہ",
+    "sanskrit": "आल_फातिमा",
+    "hindi": "आल_फातिमा",
+    "meaning": "Family of Fatima; revered lineage.",
+    "example": "Al_Fatima members were known for their charity.",
+    "synonyms": ["holy family", "descendants of Fatima"],
+    "antonyms": ["common family"]
+  },
+  {
+    "word": "Al_W_Atfal",
+    "urdu": "آل_و_اطفال",
+    "sanskrit": "आल_व_अत्फाल",
+    "hindi": "आल_व_अत्फाल",
+    "meaning": "Family including children; a household with offspring.",
+    "example": "Al_W_Atfal celebrated the festival together.",
+    "synonyms": ["household with children", "family with kids"],
+    "antonyms": ["childless family"]
+  },
+  {
+    "word": "Al_W_Ayal",
+    "urdu": "آل_و_عیال",
+    "sanskrit": "आल_व_अयाल",
+    "hindi": "आल_व_अयाल",
+    "meaning": "Family and dependents; household members.",
+    "example": "Al_W_Ayal members contributed to community service.",
+    "synonyms": ["family", "household", "dependents"],
+    "antonyms": ["individuals"]
+  },
+  {
+    "word": "Al_Pak",
+    "urdu": "آل_پاک",
+    "sanskrit": "आल_पाक",
+    "hindi": "आल_पाक",
+    "meaning": "The pure family; a virtuous lineage.",
+    "example": "Al_Pak was respected for their honesty.",
+    "synonyms": ["pure lineage", "virtuous family"],
+    "antonyms": ["corrupt family"]
+  },
+  {
+    "word": "Al_Peghamber",
+    "urdu": "آل_پیغمبر",
+    "sanskrit": "आल_पैगंबर",
+    "hindi": "आल_पैगंबर",
+    "meaning": "Family of the Prophet; revered lineage.",
+    "example": "Al_Peghamber were honored during the ceremony.",
+    "synonyms": ["prophetic family", "holy lineage"],
+    "antonyms": ["ordinary family"]
+  },
+  {
+    "word": "Al_Yaseen",
+    "urdu": "آل_یسین",
+    "sanskrit": "आल_यासीन",
+    "hindi": "आल_यासीन",
+    "meaning": "Family related to the chapter Yaseen; respected lineage.",
+    "example": "Al_Yaseen maintained religious traditions.",
+    "synonyms": ["revered family", "holy lineage"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Ala",
+    "urdu": "آلا",
+    "sanskrit": "आला",
+    "hindi": "आला",
+    "meaning": "A high-ranking or elevated person; superior.",
+    "example": "Ala was respected for his wisdom in the council.",
+    "synonyms": ["noble", "high-ranking", "superior"],
+    "antonyms": ["commoner", "ordinary"]
+  },
+  {
+    "word": "Ala_Odal",
+    "urdu": "آلا_اودل",
+    "sanskrit": "आला_ओदल",
+    "hindi": "आला_ओदल",
+    "meaning": "A distinguished person in the community.",
+    "example": "Ala_Odal mediated the dispute between families.",
+    "synonyms": ["dignitary", "honorable", "leader"],
+    "antonyms": ["subordinate"]
+  },
+  {
+    "word": "Ala_Odhon",
+    "urdu": "آلا_اودھوں",
+    "sanskrit": "आला_ओधों",
+    "hindi": "आला_ओधों",
+    "meaning": "Members of an eminent or respected group.",
+    "example": "Ala_Odhon contributed to cultural programs.",
+    "synonyms": ["elite", "respected members"],
+    "antonyms": ["ordinary people"]
+  },
+  {
+    "word": "Alayesh",
+    "urdu": "آلائش",
+    "sanskrit": "आलायश",
+    "hindi": "आलायश",
+    "meaning": "Dirt, impurity, or filth.",
+    "example": "The courtyard was cleared of Alayesh before the festival.",
+    "synonyms": ["dirt", "filth", "impurity"],
+    "antonyms": ["cleanliness", "purity"]
+  },
+  {
+    "word": "Alayeshon",
+    "urdu": "آلائشوں",
+    "sanskrit": "आलायशों",
+    "hindi": "आलायशों",
+    "meaning": "Multiple forms of dirt or impurities.",
+    "example": "Alayeshon were removed from the streets.",
+    "synonyms": ["filths", "impurities"],
+    "antonyms": ["cleanliness"]
+  },
+  {
+    "word": "Alayeshi",
+    "urdu": "آلائشی",
+    "sanskrit": "आलायशी",
+    "hindi": "आलायशी",
+    "meaning": "Something dirty or contaminated.",
+    "example": "The Alayeshi walls needed repainting.",
+    "synonyms": ["dirty", "soiled", "contaminated"],
+    "antonyms": ["clean", "pure"]
+  },
+  {
+    "word": "Alayeshien",
+    "urdu": "آلائشیں",
+    "sanskrit": "आलायशें",
+    "hindi": "आलायशें",
+    "meaning": "Dirt, filth, or impurities (plural).",
+    "example": "The children cleaned up all Alayeshien before guests arrived.",
+    "synonyms": ["filths", "pollution"],
+    "antonyms": ["cleanliness"]
+  },
+  {
+    "word": "Alabala",
+    "urdu": "آلابالا",
+    "sanskrit": "आलाबाला",
+    "hindi": "आलाबाला",
+    "meaning": "An elevated or superior figure.",
+    "example": "Alabala was invited to give the keynote speech.",
+    "synonyms": ["dignitary", "noble", "honorable"],
+    "antonyms": ["commoner"]
+  },
+  {
+    "word": "Alat",
+    "urdu": "آلات",
+    "sanskrit": "आलात",
+    "hindi": "आलात",
+    "meaning": "Tools or instruments used for a purpose.",
+    "example": "The carpenter sharpened all his Alat before starting work.",
+    "synonyms": ["tools", "instruments", "apparatus"],
+    "antonyms": ["hands", "bare hands"]
+  },
+  {
+    "word": "Alati",
+    "urdu": "آلاتی",
+    "sanskrit": "आलाती",
+    "hindi": "आलाती",
+    "meaning": "Relating to tools or instruments.",
+    "example": "The Alati workbench was well-organized.",
+    "synonyms": ["instrumental", "tool-related"],
+    "antonyms": ["manual", "bare-handed"]
+  },
+  {
+    "word": "Alarasi",
+    "urdu": "آلاراسی",
+    "sanskrit": "आलारासी",
+    "hindi": "आलारासी",
+    "meaning": "A grand or majestic person; someone of rank.",
+    "example": "Alarasi was celebrated for his achievements.",
+    "synonyms": ["majestic", "grand", "noble"],
+    "antonyms": ["humble", "common"]
+  },
+  {
+    "word": "Alarasiyaan",
+    "urdu": "آلاراسیاں",
+    "sanskrit": "आलारासियां",
+    "hindi": "आलारासियां",
+    "meaning": "Groups of grand or noble individuals.",
+    "example": "The Alarasiyaan attended the royal banquet.",
+    "synonyms": ["nobles", "elite", "dignitaries"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Alam",
+    "urdu": "آلام",
+    "sanskrit": "आलाम",
+    "hindi": "आलाम",
+    "meaning": "Pain, suffering, or distress.",
+    "example": "He endured great Alam during his journey.",
+    "synonyms": ["pain", "suffering", "misery"],
+    "antonyms": ["comfort", "relief"]
+  },
+  {
+    "word": "Alan",
+    "urdu": "آلان",
+    "sanskrit": "आलान",
+    "hindi": "आलान",
+    "meaning": "A declaration or announcement.",
+    "example": "The Alan of the festival was made public.",
+    "synonyms": ["announcement", "proclamation", "declaration"],
+    "antonyms": ["silence", "concealment"]
+  },
+  {
+    "word": "Alanon",
+    "urdu": "آلانوں",
+    "sanskrit": "आलानों",
+    "hindi": "आलानों",
+    "meaning": "Multiple declarations or announcements.",
+    "example": "Alanon were issued to notify all villagers.",
+    "synonyms": ["proclamations", "announcements"],
+    "antonyms": ["concealments"]
+  },
+  {
+    "word": "Alap",
+    "urdu": "آلاپ",
+    "sanskrit": "आलाप",
+    "hindi": "आलाप",
+    "meaning": "Musical prelude or improvisation in Indian classical music.",
+    "example": "The singer began with a soulful Alap before the composition.",
+    "synonyms": ["prelude", "intro", "improvisation"],
+    "antonyms": ["finale", "conclusion"]
+  },
+  {
+    "word": "Alapa",
+    "urdu": "آلاپا",
+    "sanskrit": "आलापा",
+    "hindi": "आलापा",
+    "meaning": "A vocal elaboration or expression in music.",
+    "example": "He performed a long Alapa to warm up his voice.",
+    "synonyms": ["vocalization", "improvisation"],
+    "antonyms": ["silence"]
+  },
+  {
+    "word": "Alapta",
+    "urdu": "آلاپتا",
+    "sanskrit": "आलाप्ता",
+    "hindi": "आलाप्ता",
+    "meaning": "Engaged in musical improvisation.",
+    "example": "The musician Alapta beautifully over the raga.",
+    "synonyms": ["performed", "rendered"],
+    "antonyms": ["ignored", "omitted"]
+  },
+  {
+    "word": "Alapti",
+    "urdu": "آلاپتی",
+    "sanskrit": "आलाप्ती",
+    "hindi": "आलाप्ती",
+    "meaning": "One who performs Alap or musical improvisation.",
+    "example": "Alapti captivated the audience with her rendition.",
+    "synonyms": ["performer", "musician"],
+    "antonyms": ["listener", "audience"]
+  },
+  {
+    "word": "Alapteen",
+    "urdu": "آلاپتیں",
+    "sanskrit": "आलापतें",
+    "hindi": "आलापतें",
+    "meaning": "Instances of musical improvisation.",
+    "example": "The concert featured several Alapteen.",
+    "synonyms": ["preludes", "improvisations"],
+    "antonyms": ["silences"]
+  },
+  {
+    "word": "Alapte",
+    "urdu": "آلاپتے",
+    "sanskrit": "आलापते",
+    "hindi": "आलापते",
+    "meaning": "Acts of performing Alap.",
+    "example": "They Alapte in the early hours of the morning.",
+    "synonyms": ["performed", "rendered"],
+    "antonyms": ["ignored"]
+  },
+  {
+    "word": "Alapna",
+    "urdu": "آلاپنا",
+    "sanskrit": "आलापना",
+    "hindi": "आलापना",
+    "meaning": "To perform a musical improvisation.",
+    "example": "She loves to Alapna before starting a song.",
+    "synonyms": ["perform", "improvise"],
+    "antonyms": ["skip", "omit"]
+  },
+  {
+    "word": "Alapni",
+    "urdu": "آلاپنی",
+    "sanskrit": "आलापनी",
+    "hindi": "आलापनी",
+    "meaning": "Feminine form of someone performing Alap.",
+    "example": "Alapni sang with grace and depth.",
+    "synonyms": ["performer", "musician"],
+    "antonyms": ["listener"]
+  },
+  {
+    "word": "Alapne",
+    "urdu": "آلاپنے",
+    "sanskrit": "आलापने",
+    "hindi": "आलापने",
+    "meaning": "To engage in musical improvisation (plural/general).",
+    "example": "The students Alapne during their morning practice.",
+    "synonyms": ["perform", "render"],
+    "antonyms": ["ignore"]
+  },
+  {
+    "word": "Alapi",
+    "urdu": "آلاپی",
+    "sanskrit": "आलापी",
+    "hindi": "आलापी",
+    "meaning": "Someone performing an Alap.",
+    "example": "Alapi enchanted everyone with his melodic voice.",
+    "synonyms": ["musician", "performer"],
+    "antonyms": ["listener"]
+  },
+  {
+    "word": "Alapein",
+    "urdu": "آلاپیں",
+    "sanskrit": "आलापें",
+    "hindi": "आलापें",
+    "meaning": "Acts of musical prelude (plural).",
+    "example": "The recital included multiple Alapein.",
+    "synonyms": ["preludes", "improvisations"],
+    "antonyms": ["silences"]
+  },
+  {
+    "word": "Alapiye",
+    "urdu": "آلاپیے",
+    "sanskrit": "आलापिए",
+    "hindi": "आलापिए",
+    "meaning": "To perform or render musical improvisation (imperative/feminine).",
+    "example": "Alapiye carefully before the judges.",
+    "synonyms": ["perform", "render"],
+    "antonyms": ["omit"]
+  },
+  {
+    "word": "Alape",
+    "urdu": "آلاپے",
+    "sanskrit": "आलापे",
+    "hindi": "आलापे",
+    "meaning": "Acts of musical improvisation (general/plural).",
+    "example": "Their Alape echoed beautifully in the hall.",
+    "synonyms": ["preludes", "improvisations"],
+    "antonyms": ["silences"]
+  },
+  {
+    "word": "Alayesh",
+    "urdu": "آلایش",
+    "sanskrit": "आलायश",
+    "hindi": "आलायश",
+    "meaning": "Adornment, decoration, or embellishment.",
+    "example": "The palace was full of Alayesh.",
+    "synonyms": ["decoration", "embellishment"],
+    "antonyms": ["plainness", "simplicity"]
+  },
+  {
+    "word": "Alb",
+    "urdu": "آلب",
+    "sanskrit": "आलब",
+    "hindi": "आलब",
+    "meaning": "A proper noun, sometimes used as a name or title.",
+    "example": "Alb was known for his literary contributions.",
+    "synonyms": ["name", "title"],
+    "antonyms": ["anonymous"]
   }
 ]
+
