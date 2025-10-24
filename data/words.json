@@ -3158,7 +3158,1755 @@
     "example": "The resort staff acted as aaraam-paal for their tired guests.",
     "synonyms": ["caretaker", "comfort-provider"],
     "antonyms": ["neglector", "disturber"]
-
-    
+  },
+  {
+    "word": "Aaraam_Gaah",
+    "urdu": "آرام_گاہ",
+    "sanskrit": "विश्रान्तिस्थान",
+    "hindi": "आरामगाह",
+    "meaning": "A place of rest or relaxation; often refers to a resting place or tomb.",
+    "example": "The garden was designed as an aaraam-gaah for weary travelers.",
+    "synonyms": ["resting place", "retreat", "sanctuary"],
+    "antonyms": ["workplace", "battlefield"]
+  },
+  {
+    "word": "Aaraam_Gosh",
+    "urdu": "آرام_گوش",
+    "sanskrit": "श्रवणशान्त",
+    "hindi": "आरामगोश",
+    "meaning": "Soft or soothing to the ear; peaceful in sound.",
+    "example": "The lullaby was so aaraam-gosh that the baby fell asleep instantly.",
+    "synonyms": ["soothing", "melodious", "pleasant"],
+    "antonyms": ["noisy", "harsh", "loud"]
+  },
+  {
+    "word": "Aaraam_Geer",
+    "urdu": "آرام_گیر",
+    "sanskrit": "विश्रान्तिलाभी",
+    "hindi": "आरामगीर",
+    "meaning": "One who finds or takes rest; also used for something relaxing.",
+    "example": "After days of work, he became an aaraam-geer on Sunday.",
+    "synonyms": ["relaxing", "rest-seeker", "restful"],
+    "antonyms": ["active", "restless"]
+  },
+  {
+    "word": "Aaraamish",
+    "urdu": "آرامش",
+    "sanskrit": "शान्ति",
+    "hindi": "आरामश",
+    "meaning": "Peace, tranquility, or mental calmness.",
+    "example": "Meditation brings a deep sense of aaraamish to the heart.",
+    "synonyms": ["peace", "calm", "serenity"],
+    "antonyms": ["chaos", "disturbance", "stress"]
+  },
+  {
+    "word": "Aaraamon",
+    "urdu": "آراموں",
+    "sanskrit": "विश्रान्तयः",
+    "hindi": "आरामों",
+    "meaning": "Rests or comforts; plural of 'Aaraam'.",
+    "example": "He lived a life full of aaraamon and luxury.",
+    "synonyms": ["comforts", "pleasures", "luxuries"],
+    "antonyms": ["hardships", "troubles"]
+  },
+  {
+    "word": "Aaraami",
+    "urdu": "آرامی",
+    "sanskrit": "विश्रान्तिकारक",
+    "hindi": "आरामी",
+    "meaning": "One who enjoys rest or leisure; lazy or fond of comfort.",
+    "example": "He was known as an aaraami who avoided hard work.",
+    "synonyms": ["idler", "relaxer", "comfort-lover"],
+    "antonyms": ["worker", "diligent", "laborious"]
+  },
+  {
+    "word": "Aaraamida",
+    "urdu": "آرامیدہ",
+    "sanskrit": "विश्रान्त",
+    "hindi": "आरामिदा",
+    "meaning": "Rested, calm, or at peace; also used for someone deceased.",
+    "example": "The tired soldier lay aaraamida after the long battle.",
+    "synonyms": ["rested", "peaceful", "serene"],
+    "antonyms": ["restless", "uneasy"]
+  },
+  {
+    "word": "Aaraakash",
+    "urdu": "آراکش",
+    "sanskrit": "सज्जाकारक",
+    "hindi": "आराकश",
+    "meaning": "A decorator or one who arranges beautifully.",
+    "example": "The aaraakash prepared the hall for the royal ceremony.",
+    "synonyms": ["decorator", "arranger", "designer"],
+    "antonyms": ["destroyer", "disorganizer"]
+  },
+  {
+    "word": "Aaraayish",
+    "urdu": "آرایش",
+    "sanskrit": "अलंकरण",
+    "hindi": "आराइश",
+    "meaning": "Adornment, decoration, or beautification.",
+    "example": "The palace walls were covered in golden aaraayish.",
+    "synonyms": ["decoration", "embellishment", "ornamentation"],
+    "antonyms": ["simplicity", "plainness", "bareness"]
+  },
+  {
+    "word": "Aarb",
+    "urdu": "آرب",
+    "sanskrit": "बलवान",
+    "hindi": "आर्ब",
+    "meaning": "Strong or powerful; sometimes used to denote might or intensity.",
+    "example": "The warrior was known for his aarb nature in the battlefield.",
+    "synonyms": ["powerful", "mighty", "strong"],
+    "antonyms": ["weak", "feeble"]
+  },
+  {
+    "word": "Aarbal",
+    "urdu": "آربل",
+    "sanskrit": "बली",
+    "hindi": "आर्बल",
+    "meaning": "A historical or poetic name; also refers to strength or force in older texts.",
+    "example": "Legends speak of an aarbal hero who defended his land alone.",
+    "synonyms": ["force", "might", "valor"],
+    "antonyms": ["cowardice", "fragility"]
+  },
+  {
+    "word": "Aarbah",
+    "urdu": "آربہ",
+    "sanskrit": "कला",
+    "hindi": "आर्बह",
+    "meaning": "An old or poetic term referring to craft, art, or skill.",
+    "example": "The artisan displayed his aarbah in the royal court.",
+    "synonyms": ["artistry", "skill", "craft"],
+    "antonyms": ["ineptitude", "clumsiness"]
+  },
+  {
+    "word": "Aarthur",
+    "urdu": "آرتھر",
+    "sanskrit": "आर्थुर",
+    "hindi": "आर्थर",
+    "meaning": "A personal name of English origin meaning 'noble' or 'bear-like'.",
+    "example": "King Aarthur was famous for his courage and fairness.",
+    "synonyms": ["Arthur", "nobleman"],
+    "antonyms": []
+  },
+  {
+    "word": "Aarthi",
+    "urdu": "آرتھی",
+    "sanskrit": "आरती",
+    "hindi": "आरती",
+    "meaning": "A Hindu ritual of worship involving light and song.",
+    "example": "The temple bells rang as the devotees performed aarthi.",
+    "synonyms": ["worship", "ritual", "ceremony"],
+    "antonyms": ["neglect", "disrespect"]
+  },
+  {
+    "word": "Aarti",
+    "urdu": "آرتی",
+    "sanskrit": "आरती",
+    "hindi": "आरती",
+    "meaning": "A devotional song or offering of light to a deity; same as aarthi.",
+    "example": "Every morning, the priest sang the aarti before the sunrise.",
+    "synonyms": ["prayer", "devotion", "ceremony"],
+    "antonyms": ["atheism", "impiety"]
+  },
+  {
+    "word": "Aartiyan",
+    "urdu": "آرتیاں",
+    "sanskrit": "आरतयः",
+    "hindi": "आर्तियां",
+    "meaning": "Plural of Aarti; several devotional songs or rituals.",
+    "example": "Multiple aartiyan were sung during the grand festival.",
+    "synonyms": ["chants", "devotions", "ceremonies"],
+    "antonyms": ["silence", "neglect"]
+  },
+  {
+    "word": "Aartiyon",
+    "urdu": "آرتیوں",
+    "sanskrit": "आरतिषु",
+    "hindi": "आर्तियों",
+    "meaning": "Refers to the state or collection of worship rituals.",
+    "example": "The sound of aartiyon echoed through the streets.",
+    "synonyms": ["prayers", "devotions", "songs of praise"],
+    "antonyms": ["blasphemy", "irreverence"]
+  },
+  {
+    "word": "Aarj",
+    "urdu": "آرج",
+    "sanskrit": "विनम्रता",
+    "hindi": "आरज",
+    "meaning": "A rare word implying humility or modest request; used in poetic Urdu.",
+    "example": "Uski aarj bas itni thi ke use ek mauka mil jaye — his only wish was to get one chance.",
+    "synonyms": ["request", "plea", "humility"],
+    "antonyms": ["demand", "arrogance"]
+  },
+  {
+    "word": "Aardar",
+    "urdu": "آردر",
+    "sanskrit": "आदेश",
+    "hindi": "ऑर्डर",
+    "meaning": "An instruction or command; also used to denote a commercial order.",
+    "example": "He placed an aardar for new books online.",
+    "synonyms": ["command", "request", "directive", "purchase"],
+    "antonyms": ["disorder", "cancellation"]
+  },
+  {
+    "word": "Aardashir",
+    "urdu": "آردشیر",
+    "sanskrit": "आर्दशिर",
+    "hindi": "आर्दशीर",
+    "meaning": "A Persian name meaning 'righteous ruler' or 'truthful king'; name of an ancient emperor.",
+    "example": "Aardashir was known for his justice and wisdom.",
+    "synonyms": ["ruler", "king", "emperor"],
+    "antonyms": ["commoner", "subject"]
+  },
+  {
+    "word": "Aardeen",
+    "urdu": "آردین",
+    "sanskrit": "उत्सव",
+    "hindi": "आर्डिन",
+    "meaning": "Derived from 'Arden'; means 'great forest' or 'sacred place'.",
+    "example": "The village of Aardeen was known for its dense woods and peace.",
+    "synonyms": ["forest", "sanctuary", "grove"],
+    "antonyms": ["desert", "barren land"]
+  },
+  {
+    "word": "Aarzim",
+    "urdu": "آرزم",
+    "sanskrit": "आकांक्षा",
+    "hindi": "आरज़म",
+    "meaning": "A poetic Urdu term meaning 'wish', 'desire', or 'yearning'.",
+    "example": "Uski aarzim thi ke woh ek din shayar ban jaye — His wish was to become a poet one day.",
+    "synonyms": ["wish", "desire", "aspiration"],
+    "antonyms": ["contentment", "indifference"]
+  },
+  {
+    "word": "Aarzoo",
+    "urdu": "آرزو",
+    "sanskrit": "इच्छा",
+    "hindi": "आरज़ू",
+    "meaning": "Desire, longing, or heartfelt wish; common in Urdu poetry.",
+    "example": "Mujhe teri aarzoon ne jeene ki wajah di — Your desires gave me a reason to live.",
+    "synonyms": ["wish", "longing", "yearning", "hope"],
+    "antonyms": ["apathy", "fulfillment", "detachment"]
+  },
+  {
+    "word": "Aarzoo_Kash",
+    "urdu": "آرزو_کش",
+    "sanskrit": "कामनानाशक",
+    "hindi": "आरज़ू-कश",
+    "meaning": "One who destroys or suppresses desires.",
+    "example": "The sage was known as an aarzo-kash who lived a life beyond material wants.",
+    "synonyms": ["ascetic", "detached", "renunciate"],
+    "antonyms": ["desirous", "materialistic"]
+  },
+  {
+    "word": "Aarzooon",
+    "urdu": "آرزوؤ",
+    "sanskrit": "इच्छाः",
+    "hindi": "आरज़ूओं",
+    "meaning": "Plural form of 'Aarzoo'; desires or longings.",
+    "example": "Uske dil mein hazaaron aarzoon thi — His heart was full of countless desires.",
+    "synonyms": ["desires", "wishes", "aspirations"],
+    "antonyms": ["satisfactions", "achievements"]
+  },
+  {
+    "word": "Aarzooon_Meen",
+    "urdu": "آرزوؤں",
+    "sanskrit": "इच्छासु",
+    "hindi": "आरज़ूओं",
+    "meaning": "In the desires; within the longings.",
+    "example": "Main apni aarzoon mein kho gaya — I got lost in my desires.",
+    "synonyms": ["longings", "hopes", "dreams"],
+    "antonyms": ["contentment", "detachment"]
+  },
+  {
+    "word": "Aarzooein",
+    "urdu": "آرزوئیں",
+    "sanskrit": "इच्छायें",
+    "hindi": "आरज़ूएं",
+    "meaning": "Multiple wishes or hopes; feminine plural form.",
+    "example": "Bachon ki masoom aarzoein dil chhoo leti hain — The innocent wishes of children touch the heart.",
+    "synonyms": ["hopes", "dreams", "aspirations"],
+    "antonyms": ["hopelessness", "despair"]
+  },
+  {
+    "word": "Aarzooe",
+    "urdu": "آرزوئے",
+    "sanskrit": "कामना",
+    "hindi": "आरज़ूए",
+    "meaning": "Of desire; belonging to or expressing longing.",
+    "example": "Yeh nazm meri aarzoe dil hai — This poem is the longing of my heart.",
+    "synonyms": ["yearning", "wishful", "aspiring"],
+    "antonyms": ["content", "detached"]
+  },
+  {
+    "word": "Aars",
+    "urdu": "آرس",
+    "sanskrit": "अरज",
+    "hindi": "आर्स",
+    "meaning": "A rare term referring to grace, elegance, or nobility; also used as a name.",
+    "example": "Her aars was visible in the way she carried herself.",
+    "synonyms": ["grace", "elegance", "dignity"],
+    "antonyms": ["awkwardness", "vulgarity"]
+  },
+  {
+    "word": "Aarsa",
+    "urdu": "آرسہ",
+    "sanskrit": "दीर्घकाल",
+    "hindi": "आर्सा",
+    "meaning": "A period of time; a duration or span.",
+    "example": "It has been an aarsa since we last met.",
+    "synonyms": ["period", "span", "duration"],
+    "antonyms": ["instant", "moment"]
+  },
+  {
+    "word": "Aarsi",
+    "urdu": "آرسی",
+    "sanskrit": "दर्पण",
+    "hindi": "आर्सी",
+    "meaning": "Mirror; used both literally and metaphorically for reflection.",
+    "example": "He looked into the aarsi and saw his tired face.",
+    "synonyms": ["mirror", "reflection"],
+    "antonyms": ["obscurity", "hidden"]
+  },
+  {
+    "word": "Aarsi_Mushaf",
+    "urdu": "آرسی_مصحف",
+    "sanskrit": "प्रतिबिम्ब ग्रन्थ",
+    "hindi": "आर्सी-मुशफ़",
+    "meaning": "A special name for a mirrored or reflected manuscript.",
+    "example": "The ancient book was known as the aarsi-mushaf.",
+    "synonyms": ["mirrored manuscript", "special copy"],
+    "antonyms": []
+  },
+  {
+    "word": "Aarsiyan",
+    "urdu": "آرسیاں",
+    "sanskrit": "दर्पणियाँ",
+    "hindi": "आर्सियां",
+    "meaning": "Plural of 'Aarsi'; multiple mirrors.",
+    "example": "The hall was decorated with aarsiyan on every wall.",
+    "synonyms": ["mirrors", "reflections"],
+    "antonyms": []
+  },
+  {
+    "word": "Aarsenic",
+    "urdu": "آرسینک",
+    "sanskrit": "अर्सेनिक",
+    "hindi": "आर्सेनिक",
+    "meaning": "A chemical element (As), toxic in nature; often used in compounds.",
+    "example": "Small amounts of aarsenic can be deadly if ingested.",
+    "synonyms": ["As", "poison"],
+    "antonyms": []
+  },
+  {
+    "word": "Aarsiyon",
+    "urdu": "آرسیوں",
+    "sanskrit": "दर्पणेषु",
+    "hindi": "आर्सियों",
+    "meaning": "Plural possessive form of mirrors; 'of mirrors'.",
+    "example": "Reflections in aarsiyon gave a surreal look to the room.",
+    "synonyms": ["mirrors", "reflective surfaces"],
+    "antonyms": []
+  },
+  {
+    "word": "Arleen",
+    "urdu": "آرلین",
+    "sanskrit": "अर्लीन",
+    "hindi": "आर्लीन",
+    "meaning": "A personal name; often feminine, used in English and Urdu contexts.",
+    "example": "Arleen visited the city for a cultural festival.",
+    "synonyms": ["name", "person"],
+    "antonyms": []
+  },
+  {
+    "word": "Armed",
+    "urdu": "آرمڈ",
+    "sanskrit": "सशस्त्र",
+    "hindi": "आर्म्ड",
+    "meaning": "Equipped with weapons; ready for combat.",
+    "example": "The soldiers were armed and ready for battle.",
+    "synonyms": ["equipped", "weaponized", "prepared"],
+    "antonyms": ["unarmed", "defenseless"]
+  },
+  {
+    "word": "Army",
+    "urdu": "آرمی",
+    "sanskrit": "सेना",
+    "hindi": "आर्मी",
+    "meaning": "A large organized body of armed personnel; military forces.",
+    "example": "The army marched in a grand parade.",
+    "synonyms": ["military", "forces", "troops"],
+    "antonyms": ["civilian", "noncombatants"]
+  },
+  {
+    "word": "Armedgaan",
+    "urdu": "آرمیدگان",
+    "sanskrit": "सशस्त्रजन",
+    "hindi": "आर्मिदगान",
+    "meaning": "Those who are armed; armed individuals.",
+    "example": "The armedgaan guarded the palace gates.",
+    "synonyms": ["fighters", "soldiers", "warriors"],
+    "antonyms": ["civilians", "unarmed"]
+  },
+  {
+    "word": "Armedgi",
+    "urdu": "آرمیدگی",
+    "sanskrit": "सशस्त्रता",
+    "hindi": "आर्मिदगी",
+    "meaning": "The state of being armed or equipped.",
+    "example": "The army’s armedgi ensured their victory in battle.",
+    "synonyms": ["preparedness", "readiness", "armament"],
+    "antonyms": ["defenselessness", "vulnerability"]
+  },
+  {
+    "word": "Armedgiyan",
+    "urdu": "آرمیدگیاں",
+    "sanskrit": "सशस्त्रताएँ",
+    "hindi": "आर्मिदगियां",
+    "meaning": "Plural of 'Armedgi'; multiple instances of being armed or equipped.",
+    "example": "The armedgiyan of different battalions were on display.",
+    "synonyms": ["readinesses", "preparednesses"],
+    "antonyms": ["helplessness", "unpreparedness"]
+  },
+  {
+    "word": "Armedgiyon",
+    "urdu": "آرمیدگیوں",
+    "sanskrit": "सशस्त्रताओं",
+    "hindi": "आर्मिदगियों",
+    "meaning": "Possessive/plural form; 'of armed states'.",
+    "example": "The strategies of armedgiyon decided the outcome of the war.",
+    "synonyms": ["armed states", "prepared forces"],
+    "antonyms": ["defenseless groups"]
+  },
+  {
+    "word": "Armedah",
+    "urdu": "آرمیدہ",
+    "sanskrit": "सशस्त्रित",
+    "hindi": "आर्मिदा",
+    "meaning": "Armed or prepared; can also be used as a name.",
+    "example": "The soldiers were fully armedah before sunrise.",
+    "synonyms": ["equipped", "ready", "fortified"],
+    "antonyms": ["unarmed", "vulnerable"]
+  },
+  {
+    "word": "Armenia",
+    "urdu": "آرمینیا",
+    "sanskrit": "आर्मेनिया",
+    "hindi": "आर्मेनिया",
+    "meaning": "The country Armenia; located in the South Caucasus region.",
+    "example": "Armenia is known for its rich history and mountainous landscapes.",
+    "synonyms": ["country", "nation"],
+    "antonyms": []
+  },
+  {
+    "word": "Armada",
+    "urdu": "آرمیڈا",
+    "sanskrit": "नौसैनिक सेना",
+    "hindi": "आर्माडा",
+    "meaning": "A large fleet of ships; often used historically for naval forces.",
+    "example": "The armada sailed into the harbor at dawn.",
+    "synonyms": ["fleet", "navy", "squadron"],
+    "antonyms": ["single ship", "isolated vessel"]
+  },
+  {
+    "word": "Arn",
+    "urdu": "آرن",
+    "sanskrit": "आर्न",
+    "hindi": "आर्न",
+    "meaning": "A personal name; sometimes used in English and Urdu contexts.",
+    "example": "Arn led the team with courage and vision.",
+    "synonyms": ["name", "person"],
+    "antonyms": []
+  },
+  {
+    "word": "Ardangan",
+    "urdu": "آرندگان",
+    "sanskrit": "प्रवर्तक",
+    "hindi": "आरंदगान",
+    "meaning": "Those who initiate or lead; pioneers or leaders.",
+    "example": "The ardangan of the project introduced innovative ideas.",
+    "synonyms": ["leaders", "pioneers", "innovators"],
+    "antonyms": ["followers", "laggards"]
+  },
+  {
+    "word": "Arndah",
+    "urdu": "آرندہ",
+    "sanskrit": "अर्जित",
+    "hindi": "आरंदा",
+    "meaning": "Earned or gained; also used poetically as a name.",
+    "example": "The reward was arndah after months of hard work.",
+    "synonyms": ["earned", "acquired", "attained"],
+    "antonyms": ["lost", "forfeited"]
+  },
+  {  
+    "word": "Arnald",
+    "urdu": "آرنلڈ",
+    "sanskrit": "अर्नाल्ड",
+    "hindi": "आर्नाल्ड",
+    "meaning": "A personal name; commonly used in English and Urdu contexts.",
+    "example": "Arnald won the science competition with his innovative project.",
+    "synonyms": ["name", "person"],
+    "antonyms": []
+  },
+  {
+    "word": "Arogh",
+    "urdu": "آروغ",
+    "sanskrit": "उच्छ्वास",
+    "hindi": "आरोघ",
+    "meaning": "Burp or belch; the act of releasing gas from the stomach.",
+    "example": "He covered his mouth after an arogh during lunch.",
+    "synonyms": ["burp", "belch"],
+    "antonyms": ["swallow", "ingest"]
+  },
+  {
+    "word": "Arola",
+    "urdu": "آرولہ",
+    "sanskrit": "पत्तिका",
+    "hindi": "आरोल्हा",
+    "meaning": "A type of leaf or small branch; used in botanical context.",
+    "example": "The arolo of the tree was vibrant green in spring.",
+    "synonyms": ["leaf", "twig", "branchlet"],
+    "antonyms": ["root", "trunk"]
+  },
+  {
+    "word": "Aroon",
+    "urdu": "آروں",
+    "sanskrit": "लोक",
+    "hindi": "आरों",
+    "meaning": "Plural of 'Arun'; can refer to multiple individuals or a poetic collective term.",
+    "example": "The aroon gathered for the festival celebration.",
+    "synonyms": ["people", "group", "individuals"],
+    "antonyms": ["none"]
+  },
+  {
+    "word": "Arvin",
+    "urdu": "آروین",
+    "sanskrit": "अर्विन",
+    "hindi": "आर्विन",
+    "meaning": "A personal name, often masculine, used in English and Urdu contexts.",
+    "example": "Arvin completed his research on renewable energy.",
+    "synonyms": ["name", "person"],
+    "antonyms": []
+  },
+  {
+    "word": "Art",
+    "urdu": "آرٹ",
+    "sanskrit": "कला",
+    "hindi": "आर्ट",
+    "meaning": "Expression of creativity or skill; includes visual, literary, or performance arts.",
+    "example": "The museum displayed modern art from around the world.",
+    "synonyms": ["creativity", "craft", "skill"],
+    "antonyms": ["destruction", "ignorance"]
+  },
+  {
+    "word": "Arts",
+    "urdu": "آرٹس",
+    "sanskrit": "कलाएँ",
+    "hindi": "आर्ट्स",
+    "meaning": "Plural of 'Art'; various branches of creative expression.",
+    "example": "He is studying arts and humanities at university.",
+    "synonyms": ["crafts", "creativity", "skills"],
+    "antonyms": []
+  },
+  {
+    "word": "Artist",
+    "urdu": "آرٹسٹ",
+    "sanskrit": "कलाकार",
+    "hindi": "आर्टिस्ट",
+    "meaning": "A person who creates or performs art professionally or as a hobby.",
+    "example": "The artist painted a breathtaking landscape.",
+    "synonyms": ["painter", "musician", "performer", "creator"],
+    "antonyms": ["non-artist", "spectator"]
+  },
+  {
+    "word": "Artists",
+    "urdu": "آرٹسٹس",
+    "sanskrit": "कलाकारः",
+    "hindi": "आर्टिस्ट्स",
+    "meaning": "Plural of 'Artist'; multiple creators or performers.",
+    "example": "The artists collaborated on a large mural in the city.",
+    "synonyms": ["creators", "performers", "craftsmen"],
+    "antonyms": ["audience", "viewers"]
+  },
+  {
+    "word": "Artistson",
+    "urdu": "آرٹسٹوں",
+    "sanskrit": "कलाकारानाम्",
+    "hindi": "आर्टिस्टों",
+    "meaning": "Possessive/plural form of 'Artists'; referring to multiple artists.",
+    "example": "The exhibition featured the works of many artistson.",
+    "synonyms": ["creators", "artisans", "performers"],
+    "antonyms": ["audience", "non-creators"]
+  },
+  {
+    "word": "Artistic",
+    "urdu": "آرٹسٹک",
+    "sanskrit": "कलात्मक",
+    "hindi": "आर्टिस्टिक",
+    "meaning": "Having qualities related to art; creative or aesthetically appealing.",
+    "example": "She has an artistic talent for painting and sculpture.",
+    "synonyms": ["creative", "aesthetic", "imaginative"],
+    "antonyms": ["uncreative", "plain", "clumsy"]
+  },
+  {
+    "word": "Artoon",
+    "urdu": "آرٹوں",
+    "sanskrit": "कलाः",
+    "hindi": "आर्टों",
+    "meaning": "Plural form of 'Art'; various artworks or pieces.",
+    "example": "The gallery displayed several artoon from contemporary artists.",
+    "synonyms": ["artworks", "creations", "pieces"],
+    "antonyms": ["plain objects", "non-art"]
+  },
+  {
+    "word": "Artkal",
+    "urdu": "آرٹکل",
+    "sanskrit": "लेख",
+    "hindi": "आर्टकल",
+    "meaning": "Article; a written piece on a specific topic.",
+    "example": "She wrote an artkal for the local newspaper.",
+    "synonyms": ["article", "essay", "write-up"],
+    "antonyms": []
+  },
+  {
+    "word": "Article",
+    "urdu": "آرٹیکل",
+    "sanskrit": "लेख",
+    "hindi": "आर्टिकल",
+    "meaning": "A piece of writing on a particular subject published in a newspaper, magazine, or journal.",
+    "example": "The article discussed the benefits of renewable energy.",
+    "synonyms": ["write-up", "essay", "composition"],
+    "antonyms": []
+  },
+  {
+    "word": "Articles",
+    "urdu": "آرٹیکلز",
+    "sanskrit": "लेखाः",
+    "hindi": "आर्टिकल्स",
+    "meaning": "Plural of Article; multiple pieces of writing.",
+    "example": "The magazine featured many interesting articles this month.",
+    "synonyms": ["essays", "papers", "write-ups"],
+    "antonyms": []
+  },
+  {
+    "word": "Articleon",
+    "urdu": "آرٹیکلوں",
+    "sanskrit": "लेखानाम्",
+    "hindi": "आर्टिकलों",
+    "meaning": "Possessive/plural form of 'Articles'; referring to multiple articles.",
+    "example": "The research library contains all articleon on climate change.",
+    "synonyms": ["pieces of writing", "essays"],
+    "antonyms": []
+  },
+  {
+    "word": "Arpar",
+    "urdu": "آرپار",
+    "sanskrit": "अत्यधिक दूर",
+    "hindi": "आर्पार",
+    "meaning": "Across; from one side to another.",
+    "example": "He swam arpar the river effortlessly.",
+    "synonyms": ["across", "over", "through"],
+    "antonyms": ["within", "inside"]
+  },
+  {
+    "word": "Arpan",
+    "urdu": "آرپن",
+    "sanskrit": "अर्पण",
+    "hindi": "आर्पण",
+    "meaning": "Offering; to dedicate or present something with respect.",
+    "example": "He made an arpan of his artwork to the temple.",
+    "synonyms": ["dedication", "gift", "presentation"],
+    "antonyms": ["withholding", "retraction"]
+  },
+  {
+    "word": "Arch",
+    "urdu": "آرچ",
+    "sanskrit": "चाप",
+    "hindi": "आर्च",
+    "meaning": "A curved structure spanning an opening; also used metaphorically.",
+    "example": "The bridge had a beautiful stone arch.",
+    "synonyms": ["curve", "vault", "arc"],
+    "antonyms": ["straight line", "flat"]
+  },
+  {
+    "word": "Order",
+    "urdu": "آرڈر",
+    "sanskrit": "आदेश",
+    "hindi": "ऑर्डर",
+    "meaning": "An authoritative instruction, arrangement, or request.",
+    "example": "He placed an order for new books online.",
+    "synonyms": ["command", "instruction", "request"],
+    "antonyms": ["disorder", "chaos"]
+  },
+  {
+    "word": "Orders",
+    "urdu": "آرڈرز",
+    "sanskrit": "आदेशाः",
+    "hindi": "ऑर्डर्स",
+    "meaning": "Plural of Order; multiple commands or requests.",
+    "example": "The manager handled all orders promptly.",
+    "synonyms": ["commands", "requests", "instructions"],
+    "antonyms": ["chaos", "disorganization"]
+ },
+  {
+    "word": "Orderson",
+    "urdu": "آرڈروں",
+    "sanskrit": "आदेशानाम्",
+    "hindi": "ऑर्डरों",
+    "meaning": "Possessive/plural form of 'Orders'; referring to multiple orders.",
+    "example": "The chef fulfilled all orderson in the restaurant efficiently.",
+    "synonyms": ["commands", "requests", "instructions"],
+    "antonyms": ["chaos", "disorganization"]
+  },
+  {
+    "word": "Ordinary",
+    "urdu": "آرڈنری",
+    "sanskrit": "साधारण",
+    "hindi": "आर्डिनरी",
+    "meaning": "Common, usual, or standard; not special.",
+    "example": "It was just an ordinary day at school.",
+    "synonyms": ["common", "usual", "normal"],
+    "antonyms": ["extraordinary", "special", "unique"]
+  },
+  {
+    "word": "Ordinance",
+    "urdu": "آرڈیننس",
+    "sanskrit": "संसदीय आदेश",
+    "hindi": "ऑर्डिनेंस",
+    "meaning": "An official law, decree, or regulation.",
+    "example": "The government issued a new ordinance to protect the environment.",
+    "synonyms": ["law", "decree", "regulation"],
+    "antonyms": ["anarchy", "disorder"]
+  },
+  {
+    "word": "Ordinances",
+    "urdu": "آرڈیننسز",
+    "sanskrit": "संसदीय आदेशाः",
+    "hindi": "ऑर्डिनेंसज",
+    "meaning": "Plural of 'Ordinance'; multiple laws or decrees.",
+    "example": "The city council passed several ordinances this year.",
+    "synonyms": ["laws", "regulations", "decrees"],
+    "antonyms": ["chaos", "anarchy"]
+  },
+  {
+    "word": "Ordinanceson",
+    "urdu": "آرڈیننسوں",
+    "sanskrit": "संसदीय आदेशानाम्",
+    "hindi": "ऑर्डिनेंसों",
+    "meaning": "Possessive/plural form of 'Ordinances'; referring to multiple ordinances.",
+    "example": "The ordinanceson were posted publicly for citizens.",
+    "synonyms": ["laws", "decrees", "regulations"],
+    "antonyms": ["disorder", "lawlessness"]
+  },
+  {
+    "word": "Arc_Lamp",
+    "urdu": "آرک_لیمپآرک",
+    "sanskrit": "आर्क दीपक",
+    "hindi": "आर्क_लैम्पआर्क",
+    "meaning": "A type of lamp or lighting device that uses an electric arc.",
+    "example": "The stage was illuminated using an arc_lamp for dramatic effect.",
+    "synonyms": ["arc light", "electric lamp"],
+    "antonyms": []
+  },
+  {
+    "word": "Orchestra",
+    "urdu": "آرکسٹرا",
+    "sanskrit": "वाद्यसमूह",
+    "hindi": "ऑर्केस्ट्रा",
+    "meaning": "A large group of musicians playing together, usually with strings, woodwinds, brass, and percussion.",
+    "example": "The orchestra performed Beethoven's symphony flawlessly.",
+    "synonyms": ["ensemble", "band", "symphony group"],
+    "antonyms": []
+  },
+  {
+    "word": "Orchestras",
+    "urdu": "آرکسٹراز",
+    "sanskrit": "वाद्यसमूहाः",
+    "hindi": "ऑर्केस्ट्रास",
+    "meaning": "Plural of Orchestra; multiple groups of musicians.",
+    "example": "Several orchestras participated in the music festival.",
+    "synonyms": ["ensembles", "bands", "symphony groups"],
+    "antonyms": []
+  },
+  {
+    "word": "Orchestron",
+    "urdu": "آرکسٹروں",
+    "sanskrit": "वाद्यसमूहानाम्",
+    "hindi": "ऑर्केस्ट्रों",
+    "meaning": "Possessive/plural form of Orchestras; referring to multiple orchestras.",
+    "example": "The orchestron competed for the national music award.",
+    "synonyms": ["ensembles", "bands"],
+    "antonyms": []
+  },
+  {
+    "word": "Archi",
+    "urdu": "آرکی",
+    "sanskrit": "वास्तुशिल्प",
+    "hindi": "आर्की",
+    "meaning": "Short form of 'Architecture' or related to building design.",
+    "example": "She studied archi and urban planning at the university.",
+    "synonyms": ["architecture", "design", "planning"],
+    "antonyms": []
+  },
+  {
+    "word": "Architect",
+    "urdu": "آرکی_ٹیکٹ",
+    "sanskrit": "वास्तुकार",
+    "hindi": "आर्किटेक्ट",
+    "meaning": "A professional who designs buildings and oversees their construction.",
+    "example": "The architect created a stunning blueprint for the new museum.",
+    "synonyms": ["designer", "planner", "builder"],
+    "antonyms": ["demolisher", "destroyer"]
+  },
+  {
+    "word": "Architects",
+    "urdu": "آرکی_ٹیکٹس",
+    "sanskrit": "वास्तुकाराः",
+    "hindi": "आर्किटेक्ट्स",
+    "meaning": "Plural of Architect; multiple professionals who design buildings.",
+    "example": "The architects collaborated on the new city hall project.",
+    "synonyms": ["designers", "planners", "builders"],
+    "antonyms": ["demolishers", "destroyers"]
+  },
+  {
+    "word": "Architectson",
+    "urdu": "آرکی_ٹیکٹوں",
+    "sanskrit": "वास्तुकारानाम्",
+    "hindi": "आर्किटेक्टों",
+    "meaning": "Possessive/plural form of Architects; referring to multiple architects.",
+    "example": "The architectson presented their blueprints at the conference.",
+    "synonyms": ["designers", "planners", "builders"],
+    "antonyms": ["non-architects"]
+  },
+  {
+    "word": "Archaeologist",
+    "urdu": "آرکیالوجسٹ",
+    "sanskrit": "पुरातत्त्वविद्",
+    "hindi": "आर्कियोलॉजिस्ट",
+    "meaning": "A scientist who studies human history through excavation and analysis of artifacts.",
+    "example": "The archaeologist discovered ancient pottery at the dig site.",
+    "synonyms": ["historian", "excavator", "anthropologist"],
+    "antonyms": []
+  },
+  {
+    "word": "Archaeologists",
+    "urdu": "آرکیالوجسٹس",
+    "sanskrit": "पुरातत्त्वविदाः",
+    "hindi": "आर्कियोलॉजिस्ट्स",
+    "meaning": "Plural of Archaeologist; multiple scientists studying ancient history.",
+    "example": "The archaeologists worked together to uncover the ruins.",
+    "synonyms": ["historians", "excavators", "anthropologists"],
+    "antonyms": []
+  },
+  {
+    "word": "Archaeologistson",
+    "urdu": "آرکیالوجسٹوں",
+    "sanskrit": "पुरातत्त्वविदानाम्",
+    "hindi": "आर्कियोलॉजिस्टों",
+    "meaning": "Possessive/plural form of Archaeologists; referring to multiple archaeologists.",
+    "example": "The archaeologistson presented their findings in the journal.",
+    "synonyms": ["historians", "excavators", "researchers"],
+    "antonyms": []
+  },
+  {
+    "word": "Archaeology",
+    "urdu": "آرکیالوجی",
+    "sanskrit": "पुरातत्त्वविज्ञान",
+    "hindi": "आर्कियोलॉजी",
+    "meaning": "The scientific study of ancient civilizations through artifacts and excavation.",
+    "example": "She specializes in archaeology and ancient architecture.",
+    "synonyms": ["history study", "excavation science"],
+    "antonyms": []
+  },
+  {
+    "word": "Archaeological",
+    "urdu": "آرکیالوجیکل",
+    "sanskrit": "पुरातत्त्वसंबंधी",
+    "hindi": "आर्कियोलॉजिकल",
+    "meaning": "Related to archaeology or the study of ancient history.",
+    "example": "The museum displayed an archaeological exhibit of Roman coins.",
+    "synonyms": ["historic", "ancient", "excavation-related"],
+    "antonyms": []
+  },
+  {
+    "word": "Arkin",
+    "urdu": "آرکین",
+    "sanskrit": "अर्किन",
+    "hindi": "आर्किन",
+    "meaning": "A personal name or unique noun; usage depends on context.",
+    "example": "Arkin was known for his contributions to the art community.",
+    "synonyms": ["name", "individual"],
+    "antonyms": []
+  },
+  {
+    "word": "Arcade",
+    "urdu": "آرکیڈ",
+    "sanskrit": "गैलरी",
+    "hindi": "आर्केड",
+    "meaning": "A covered passage with arches, often housing shops or games.",
+    "example": "Children enjoyed playing games in the local arcade.",
+    "synonyms": ["gallery", "passage", "alley"],
+    "antonyms": []
+  },
+  {
+    "word": "Org",
+    "urdu": "آرگ",
+    "sanskrit": "संगठन",
+    "hindi": "आर्ग",
+    "meaning": "Short for organization; a group of people with a common purpose.",
+    "example": "The org hosted a charity event to help the community.",
+    "synonyms": ["organization", "association", "society"],
+    "antonyms": ["individual", "chaos"]
+  },
+  {
+    "word": "Organ",
+    "urdu": "آرگن",
+    "sanskrit": "अंग",
+    "hindi": "ऑर्गन",
+    "meaning": "A part of a living body with a specific function, or a musical instrument.",
+    "example": "The church organ played a beautiful hymn during the ceremony.",
+    "synonyms": ["body part", "instrument", "component"],
+    "antonyms": []
+  },
+  {
+    "word": "Organization",
+    "urdu": "آرگنائزیشن",
+    "sanskrit": "संगठन",
+    "hindi": "ऑर्गनाइजेशन",
+    "meaning": "A structured group of people working together toward a common goal.",
+    "example": "The organization launched a campaign to help underprivileged children.",
+    "synonyms": ["association", "institution", "society"],
+    "antonyms": ["chaos", "disorder"]
+  },
+  {
+    "word": "Organizations",
+    "urdu": "آرگنائزیشنز",
+    "sanskrit": "संगठनाः",
+    "hindi": "ऑर्गनाइजेशन्स",
+    "meaning": "Plural of Organization; multiple structured groups with common goals.",
+    "example": "Several organizations collaborated for the environmental cleanup project.",
+    "synonyms": ["associations", "institutions", "societies"],
+    "antonyms": ["disorder", "confusion"]
+  },
+  {
+    "word": "Organizationon",
+    "urdu": "آرگنائزیشنوں",
+    "sanskrit": "संगठनानाम्",
+    "hindi": "ऑर्गनाइजेशनों",
+    "meaning": "Possessive/plural form of Organization; referring to multiple organizations.",
+    "example": "The organizationon participated in the international seminar.",
+    "synonyms": ["associations", "institutions", "societies"],
+    "antonyms": ["chaos", "disarray"]
+  },
+  {
+    "word": "Organizationsin",
+    "urdu": "آرگنائزیشنیں",
+    "sanskrit": "संगठनानि",
+    "hindi": "ऑर्गनाइजेशनें",
+    "meaning": "Plural form of Organization in Urdu context; multiple groups.",
+    "example": "Organizationsin provided relief to the flood victims.",
+    "synonyms": ["associations", "institutions", "societies"],
+    "antonyms": ["disorganization", "confusion"]
+  },
+  {
+    "word": "Organizer",
+    "urdu": "آرگنائیزر",
+    "sanskrit": "व्यवस्थापक",
+    "hindi": "ऑर्गनाइज़र",
+    "meaning": "A person who arranges, coordinates, or plans events or tasks.",
+    "example": "The organizer ensured that the seminar ran smoothly.",
+    "synonyms": ["coordinator", "planner", "manager"],
+    "antonyms": ["disorganizer", "chaotic person"]
+  },
+  {
+    "word": "Organizers",
+    "urdu": "آرگنائیزرز",
+    "sanskrit": "व्यवस्थापकाः",
+    "hindi": "ऑर्गनाइज़र्स",
+    "meaning": "Plural of Organizer; multiple people coordinating or planning events.",
+    "example": "The organizers worked tirelessly to host the festival.",
+    "synonyms": ["planners", "coordinators", "managers"],
+    "antonyms": ["disorganizers"]
+  },
+  {
+    "word": "Organizerson",
+    "urdu": "آرگنائیزروں",
+    "sanskrit": "व्यवस्थापकों",
+    "hindi": "ऑर्गनाइज़रों",
+    "meaning": "Possessive/plural form of Organizers; referring to multiple organizers.",
+    "example": "Organizerson ensured all logistics were in place.",
+    "synonyms": ["planners", "coordinators", "managers"],
+    "antonyms": ["disorganizers"]
+  },
+  {
+    "word": "Organizationer",
+    "urdu": "آرگنائیزیشن",
+    "sanskrit": "संगठन",
+    "hindi": "ऑर्गनाइज़ेशन",
+    "meaning": "Another form/spelling of Organization; a structured group.",
+    "example": "The organizationer held its annual meeting last week.",
+    "synonyms": ["association", "institution", "society"],
+    "antonyms": ["chaos", "disorder"]
+  },
+  {
+    "word": "Arrah",
+    "urdu": "آرہ",
+    "sanskrit": "आरा",
+    "hindi": "आरहा",
+    "meaning": "Saw (tool) used for cutting wood or metal.",
+    "example": "He used the arrah to cut the wooden plank.",
+    "synonyms": ["saw", "cutter", "blade"],
+    "antonyms": []
+  },
+  {
+    "word": "Arrah-Numa",
+    "urdu": "آرہ_نما",
+    "sanskrit": "दर्शक आरा",
+    "hindi": "आरह_नुमा",
+    "meaning": "Guide-saw; a saw used for precise cutting or guidance.",
+    "example": "The carpenter used the arrah-numa for delicate cuts.",
+    "synonyms": ["guide-saw", "precision saw"],
+    "antonyms": []
+  },
+  {
+    "word": "Arha",
+    "urdu": "آرہا",
+    "sanskrit": "आ रहा",
+    "hindi": "आरहा",
+    "meaning": "Coming; present continuous form of 'arrive' or 'come'.",
+    "example": "He is arha to the meeting now.",
+    "synonyms": ["coming", "arriving", "approaching"],
+    "antonyms": ["leaving", "departing"]
+  },
+  {
+    "word": "Arhi",
+    "urdu": "آرہی",
+    "sanskrit": "आ रही",
+    "hindi": "आरही",
+    "meaning": "Feminine form of 'coming'; present continuous for she/her.",
+    "example": "She arhi to the party now.",
+    "synonyms": ["coming", "arriving", "approaching"],
+    "antonyms": ["leaving", "departing"]
+  },
+  {
+    "word": "Arhe",
+    "urdu": "آرہے",
+    "sanskrit": "आ रहे",
+    "hindi": "आरहे",
+    "meaning": "Plural/male form of 'coming'; present continuous for they/them or masculine singular.",
+    "example": "They arhe to the meeting right now.",
+    "synonyms": ["coming", "arriving", "approaching"],
+    "antonyms": ["leaving", "departing"]
+  },
+  {
+    "word": "Ari",
+    "urdu": "آری",
+    "sanskrit": "आरि",
+    "hindi": "आरी",
+    "meaning": "A saw or cutting tool, also used as a name in some contexts.",
+    "example": "He used the ari to cut the wooden plank.",
+    "synonyms": ["saw", "cutter", "blade"],
+    "antonyms": []
+  },
+  {
+    "word": "Arya",
+    "urdu": "آریا",
+    "sanskrit": "आर्य",
+    "hindi": "आर्य",
+    "meaning": "Noble; used as a name or descriptor in South Asian languages.",
+    "example": "Arya is known for her generosity and kindness.",
+    "synonyms": ["noble", "honorable", "pure"],
+    "antonyms": ["ignoble", "dishonorable"]
+  },
+  {
+    "word": "Aryao",
+    "urdu": "آریاؤ",
+    "sanskrit": "आर्याः",
+    "hindi": "आर्याओ",
+    "meaning": "Plural form of Arya; noble people or individuals.",
+    "example": "The aryao were celebrated for their wisdom.",
+    "synonyms": ["noble ones", "honorable people"],
+    "antonyms": ["commoners", "ignoble ones"]
+  },
+  {
+    "word": "Aryaon",
+    "urdu": "آریاؤں",
+    "sanskrit": "आर्याणाम्",
+    "hindi": "आर्याओं",
+    "meaning": "Possessive/plural form of Arya; referring to multiple noble individuals.",
+    "example": "The teachings of aryaon were preserved for generations.",
+    "synonyms": ["noble ones", "honorable individuals"],
+    "antonyms": ["dishonorable people"]
+  },
+  {
+    "word": "Aryai",
+    "urdu": "آریائی",
+    "sanskrit": "आर्याई",
+    "hindi": "आर्याई",
+    "meaning": "Adjective form of Arya; pertaining to nobility or Aryan heritage.",
+    "example": "The ancient texts describe aryai customs.",
+    "synonyms": ["noble", "honorable", "Aryan"],
+    "antonyms": ["ignoble", "common"]
+  },
+  {
+    "word": "Aryavi",
+    "urdu": "آریاوی",
+    "sanskrit": "आर्यवी",
+    "hindi": "आर्यावी",
+    "meaning": "Related to Arya or noble lineage.",
+    "example": "The village preserved the aryavi traditions of its ancestors.",
+    "synonyms": ["noble", "Aryan", "honorable"],
+    "antonyms": ["ignoble", "dishonorable"]
+  },
+  {
+    "word": "Aryan",
+    "urdu": "آریاں",
+    "sanskrit": "आर्याः",
+    "hindi": "आर्यां",
+    "meaning": "Plural of Arya; noble people or ethnic group.",
+    "example": "The aryans migrated across ancient lands.",
+    "synonyms": ["noble ones", "ancestors"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Ariz",
+    "urdu": "آریز",
+    "sanskrit": "आरीज़",
+    "hindi": "आरिज़",
+    "meaning": "Request or petition; can also be a name.",
+    "example": "He submitted his ariz to the local authorities.",
+    "synonyms": ["petition", "request", "application"],
+    "antonyms": ["denial", "rejection"]
+  },
+  {
+    "word": "Ariyala",
+    "urdu": "آریلہ",
+    "sanskrit": "आरियला",
+    "hindi": "आरियला",
+    "meaning": "A proper noun or name; contextual meaning varies.",
+    "example": "Ariyala was known for her poetry in the local community.",
+    "synonyms": ["name", "individual"],
+    "antonyms": []
+  },
+  {
+    "word": "Aryon",
+    "urdu": "آریوں",
+    "sanskrit": "आर्याणि",
+    "hindi": "आर्यों",
+    "meaning": "Plural of Ary; referring to multiple noble individuals.",
+    "example": "The elders taught the aryons the ancient customs.",
+    "synonyms": ["noble ones", "honorable people"],
+    "antonyms": ["commoners"]
+  },
+  {
+    "word": "Aryn",
+    "urdu": "آریں",
+    "sanskrit": "आर्याः",
+    "hindi": "आर्यं",
+    "meaning": "Another plural or possessive form of Arya.",
+    "example": "Aryn were highly respected in their community.",
+    "synonyms": ["noble ones", "honorable individuals"],
+    "antonyms": ["dishonorable people"]
+  },
+  {   
+    "word": "Aryah",
+    "urdu": "آریہ",
+    "sanskrit": "आर्यः",
+    "hindi": "आर्यह",
+    "meaning": "Noble; often used as a proper noun or name.",
+    "example": "Aryah is known for her courage and wisdom.",
+    "synonyms": ["noble", "honorable", "virtuous"],
+    "antonyms": ["ignoble", "dishonorable"]
+  },
+  {
+    "word": "Aryah-Vart",
+    "urdu": "آریہ_ورت",
+    "sanskrit": "आर्यवर्त",
+    "hindi": "आर्य_वर्त",
+    "meaning": "One who follows the noble path or tradition.",
+    "example": "He is an aryah-vart, living according to the ancient customs.",
+    "synonyms": ["noble path follower", "honorable person"],
+    "antonyms": ["dishonorable", "corrupt"]
+  },
+  {
+    "word": "Are",
+    "urdu": "آرے",
+    "sanskrit": "आरे",
+    "hindi": "आरे",
+    "meaning": "Saw (tool) used for cutting wood or metal; plural form.",
+    "example": "The carpenter picked up his are to cut the planks.",
+    "synonyms": ["saws", "cutters", "blades"],
+    "antonyms": []
+  },
+  {
+    "word": "Az",
+    "urdu": "آز",
+    "sanskrit": "आज़",
+    "hindi": "आज़",
+    "meaning": "Freedom; often used as a prefix for independence-related words.",
+    "example": "Az symbolizes liberty and independence in many texts.",
+    "synonyms": ["freedom", "liberty", "independence"],
+    "antonyms": ["bondage", "captivity", "slavery"]
+  },
+  {
+    "word": "Azad",
+    "urdu": "آزاد",
+    "sanskrit": "स्वतंत्र",
+    "hindi": "आजाद",
+    "meaning": "Free; independent in action, thought, or spirit.",
+    "example": "He led an azad life, traveling wherever he pleased.",
+    "synonyms": ["free", "independent", "unbound"],
+    "antonyms": ["restricted", "enslaved", "bound"]
+  },
+  {
+    "word": "Azad-Ro",
+    "urdu": "آزاد_رو",
+    "sanskrit": "स्वतंत्रस्वभाव",
+    "hindi": "आजाद_रू",
+    "meaning": "Free-spirited; living life with independence and autonomy.",
+    "example": "She is azad-ro, never conforming to societal pressures.",
+    "synonyms": ["free-spirited", "unrestrained", "independent"],
+    "antonyms": ["constrained", "restricted"]
+  },
+  {
+    "word": "Azad-Tabi",
+    "urdu": "آزاد_طبع",
+    "sanskrit": "स्वतंत्रस्वभाव",
+    "hindi": "आजाद_तबीयत",
+    "meaning": "Naturally free; unbound in temperament or nature.",
+    "example": "His azad-tabi personality made him popular among friends.",
+    "synonyms": ["free-natured", "independent-minded"],
+    "antonyms": ["submissive", "restrained"]
+  },
+  {
+    "word": "Azad-Munsh",
+    "urdu": "آزاد_منش",
+    "sanskrit": "स्वतंत्रमनस",
+    "hindi": "आजाद_मनष",
+    "meaning": "Independent-minded; thinking and acting freely.",
+    "example": "She is an azad-munsh writer who refuses censorship.",
+    "synonyms": ["independent-minded", "autonomous", "self-reliant"],
+    "antonyms": ["dependent", "controlled"]
+  },
+  {
+    "word": "Azad-War",
+    "urdu": "آزاد_وار",
+    "sanskrit": "स्वतंत्रचरित्र",
+    "hindi": "आजाद_वार",
+    "meaning": "Free in behavior; acting without restrictions.",
+    "example": "He lives an azad-war life, unbound by rules.",
+    "synonyms": ["free-living", "liberated", "unrestricted"],
+    "antonyms": ["restricted", "controlled"]
+  },
+  {
+    "word": "Azad-Waz",
+    "urdu": "آزاد_وضع",
+    "sanskrit": "स्वतंत्रस्थिति",
+    "hindi": "आजाद_वज़",
+    "meaning": "Independent in manner or style; self-determined.",
+    "example": "Her azad-waz lifestyle inspired many young people.",
+    "synonyms": ["independent", "autonomous", "free-minded"],
+    "antonyms": ["submissive", "restricted"]
+  },
+  {
+    "word": "Azadana",
+    "urdu": "آزادانہ",
+    "sanskrit": "स्वतंत्रतापूर्ण",
+    "hindi": "आजादाना",
+    "meaning": "Freely; done in an independent or unrestricted manner.",
+    "example": "He expressed his opinions azadana during the debate.",
+    "synonyms": ["freely", "independently", "liberally"],
+    "antonyms": ["restrictedly", "controlled"]
+  },
+  {
+    "word": "Azadnama",
+    "urdu": "آزادنامہ",
+    "sanskrit": "स्वतंत्रपुस्तक",
+    "hindi": "आजादनामा",
+    "meaning": "A document or proclamation declaring freedom or independence.",
+    "example": "The azadnama declared the region's autonomy.",
+    "synonyms": ["proclamation", "declaration", "edict"],
+    "antonyms": ["restriction", "prohibition"]
+  },
+  {
+    "word": "Azadon",
+    "urdu": "آزادوں",
+    "sanskrit": "स्वतंत्रानाम्",
+    "hindi": "आजादों",
+    "meaning": "Plural of Azad; free or independent people.",
+    "example": "The azadon celebrated their independence with pride.",
+    "synonyms": ["free people", "liberated individuals"],
+    "antonyms": ["enslaved", "restricted"]
+  },
+  {
+    "word": "AzadKashmir",
+    "urdu": "آزادکشمیر",
+    "sanskrit": "स्वतंत्र कश्मीर",
+    "hindi": "आज़ाद कश्मीर",
+    "meaning": "The region of Azad Kashmir; autonomous area.",
+    "example": "AzadKashmir is known for its beautiful landscapes.",
+    "synonyms": ["free Kashmir", "autonomous region"],
+    "antonyms": []
+  },
+  {
+    "word": "Azadgan",
+    "urdu": "آزادگان",
+    "sanskrit": "स्वतंत्रजनाः",
+    "hindi": "आजादगान",
+    "meaning": "People who are free; liberated individuals.",
+    "example": "Azadgan lived without fear under the new law.",
+    "synonyms": ["liberated ones", "free people"],
+    "antonyms": ["enslaved", "oppressed"]
+  },
+  {
+    "word": "Azadgi",
+    "urdu": "آزادگی",
+    "sanskrit": "स्वतंत्रता",
+    "hindi": "आजादी",
+    "meaning": "Freedom; the state of being free or independent.",
+    "example": "He valued his azadgi above all else.",
+    "synonyms": ["freedom", "liberty", "independence"],
+    "antonyms": ["captivity", "bondage"]
+  },
+  {
+    "word": "Azadgiyaan",
+    "urdu": "آزادگیاں",
+    "sanskrit": "स्वतंत्रताएँ",
+    "hindi": "आज़ादियाँ",
+    "meaning": "Plural form of Azadgi; freedoms or liberties.",
+    "example": "The constitution guarantees many azadgiyaan to its citizens.",
+    "synonyms": ["freedoms", "liberties", "rights"],
+    "antonyms": ["restrictions", "oppressions"]
+  },
+  {
+    "word": "Azadah",
+    "urdu": "آزادہ",
+    "sanskrit": "स्वतंत्र",
+    "hindi": "आजादा",
+    "meaning": "Free; unrestrained in actions or thoughts.",
+    "example": "He lived an azadah life, traveling wherever he pleased.",
+    "synonyms": ["free", "independent", "liberated"],
+    "antonyms": ["restricted", "bound"]
+  },
+  {
+    "word": "Azadah-Ro",
+    "urdu": "آزادہ_رو",
+    "sanskrit": "स्वतंत्रचरित्र",
+    "hindi": "आज़ादा_रू",
+    "meaning": "Free-spirited; living without restrictions.",
+    "example": "She is azadah-ro, never conforming to societal pressures.",
+    "synonyms": ["free-spirited", "unrestrained", "independent"],
+    "antonyms": ["restricted", "controlled"]
+  },
+  {
+    "word": "Azadi",
+    "urdu": "آزادی",
+    "sanskrit": "स्वतंत्रता",
+    "hindi": "आज़ादी",
+    "meaning": "Independence; freedom from control or oppression.",
+    "example": "The country celebrated its azadi with parades and festivals.",
+    "synonyms": ["freedom", "liberty", "independence"],
+    "antonyms": ["slavery", "bondage", "oppression"]
+  },
+  {
+    "word": "AzadiNama",
+    "urdu": "آزادی_نامہ",
+    "sanskrit": "स्वतंत्रतापत्र",
+    "hindi": "आज़ादी_नामा",
+    "meaning": "Document or proclamation declaring independence or freedom.",
+    "example": "The azadiNama was read aloud in the town square.",
+    "synonyms": ["declaration", "proclamation", "freedom document"],
+    "antonyms": ["restriction", "oppression"]
+  },
+  {
+    "word": "Azadiyaan",
+    "urdu": "آزادیاں",
+    "sanskrit": "स्वतंत्रताएँ",
+    "hindi": "आज़ादियाँ",
+    "meaning": "Freedoms or liberties; plural of azadi.",
+    "example": "The citizens enjoy many azadiyaan under the constitution.",
+    "synonyms": ["freedoms", "liberties", "rights"],
+    "antonyms": ["restrictions", "bondage"]
+  },
+  {
+    "word": "Azadiyon",
+    "urdu": "آزادیوں",
+    "sanskrit": "स्वतंत्रताओं",
+    "hindi": "आज़ादियों",
+    "meaning": "Plural form of azadi; referring to multiple freedoms or rights.",
+    "example": "The students exercised their azadiyon to express opinions.",
+    "synonyms": ["freedoms", "liberties", "independence"],
+    "antonyms": ["oppressions", "limitations"]
+  },
+  {
+    "word": "Azaar",
+    "urdu": "آزار",
+    "sanskrit": "कष्ट",
+    "hindi": "अज़ार",
+    "meaning": "Harm, suffering, or trouble caused to someone.",
+    "example": "He caused azaar to others with his harsh words.",
+    "synonyms": ["trouble", "pain", "distress"],
+    "antonyms": ["comfort", "relief", "pleasure"]
+  },
+  {
+    "word": "Azaar-Deh",
+    "urdu": "آزار_دہ",
+    "sanskrit": "दुःखदायक",
+    "hindi": "अज़ार_देह",
+    "meaning": "One who causes suffering or harm.",
+    "example": "The villain was an azaar-deh in the story.",
+    "synonyms": ["troublemaker", "oppressor", "harmful person"],
+    "antonyms": ["helper", "comforter"]
+  },
+  {
+    "word": "Azaar-Dehenda",
+    "urdu": "آزار_دہندہ",
+    "sanskrit": "दुःखदायककर्ता",
+    "hindi": "अज़ार_देहंदा",
+    "meaning": "Inflicting pain or suffering; one who creates distress.",
+    "example": "He acted as an azaar-dehenda during the conflict.",
+    "synonyms": ["oppressor", "tormentor"],
+    "antonyms": ["protector", "comforter"]
+  },
+  {
+    "word": "Azaardah",
+    "urdu": "آزاردہ",
+    "sanskrit": "पीड़ित",
+    "hindi": "अज़ारदा",
+    "meaning": "One who is suffering or afflicted.",
+    "example": "The azaardah were treated kindly by the community.",
+    "synonyms": ["afflicted", "suffering", "troubled"],
+    "antonyms": ["healthy", "safe"]
+  },
+  {
+    "word": "Azaaron",
+    "urdu": "آزاروں",
+    "sanskrit": "कष्टानाम्",
+    "hindi": "अज़ारों",
+    "meaning": "Plural of azaar; instances of suffering or trouble.",
+    "example": "He faced many azaaron in his youth.",
+    "synonyms": ["troubles", "pains", "distresses"],
+    "antonyms": ["comforts", "joys"]
+  },
+  {
+    "word": "Azari",
+    "urdu": "آزاری",
+    "sanskrit": "दुःखी",
+    "hindi": "अज़ारी",
+    "meaning": "One who experiences suffering or pain.",
+    "example": "The azari asked for help from the villagers.",
+    "synonyms": ["suffering person", "afflicted"],
+    "antonyms": ["healthy", "happy"]
+  },
+  {
+    "word": "Azariyaan",
+    "urdu": "آزاریاں",
+    "sanskrit": "पीड़िताएँ",
+    "hindi": "अज़ारियाँ",
+    "meaning": "Plural of azari; suffering individuals.",
+    "example": "The azariyaan were given medical aid.",
+    "synonyms": ["afflicted people", "suffering ones"],
+    "antonyms": ["healthy people", "safe individuals"]
+  },
+  {
+    "word": "Azariyon",
+    "urdu": "آزاریوں",
+    "sanskrit": "पीड़ितानाम्",
+    "hindi": "अज़ारियों",
+    "meaning": "Another plural form of azari; referring to multiple sufferers.",
+    "example": "Azariyon were supported by charity organizations.",
+    "synonyms": ["suffering ones", "afflicted people"],
+    "antonyms": ["healthy ones", "safe people"]
+  },
+  {
+    "word": "Azarein",
+    "urdu": "آزاریں",
+    "sanskrit": "कष्टाः",
+    "hindi": "अज़ारें",
+    "meaning": "Plural of azaar; cases of harm or suffering.",
+    "example": "He endured many azarein silently.",
+    "synonyms": ["troubles", "pains", "distresses"],
+    "antonyms": ["comforts", "pleasures"]
+  },
+  {
+    "word": "Azalah",
+    "urdu": "آزالہ",
+    "sanskrit": "विलीन",
+    "hindi": "अज़ाला",
+    "meaning": "Separate, distinct, or isolated; also used in names.",
+    "example": "Azalah lived in a remote village far from the city.",
+    "synonyms": ["separate", "isolated", "distinct"],
+    "antonyms": ["connected", "combined"]
+  },
+  {
+    "word": "Azban",
+    "urdu": "آزبن",
+    "sanskrit": "अज़्बन",
+    "hindi": "आज़बन",
+    "meaning": "A proper noun; can be a name or specific term in context.",
+    "example": "Azban was mentioned in the historical records.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Azbak",
+    "urdu": "آزبک",
+    "sanskrit": "अज़्बक",
+    "hindi": "आज़बक",
+    "meaning": "Pertaining to Uzbek; nationality or language reference.",
+    "example": "He spoke in Azbak during the cultural festival.",
+    "synonyms": ["Uzbek", "Uzbekistani"],
+    "antonyms": []
+  },
+  {
+    "word": "Azar",
+    "urdu": "آزر",
+    "sanskrit": "अज़र",
+    "hindi": "आज़र",
+    "meaning": "Fire or heat; can also be a male given name.",
+    "example": "The ritual started with a small azar to honor the tradition.",
+    "synonyms": ["fire", "flame", "heat"],
+    "antonyms": ["water", "coolness"]
+  },
+  {
+    "word": "Azarbaijan",
+    "urdu": "آزربائیجان",
+    "sanskrit": "अज़रबैजान",
+    "hindi": "अज़रबैजान",
+    "meaning": "Country Azerbaijan.",
+    "example": "Azarbaijan is famous for its rich cultural heritage.",
+    "synonyms": ["Azerbaijan"],
+    "antonyms": []
+  },
+  {
+    "word": "Azardgan",
+    "urdu": "آزردگان",
+    "sanskrit": "पीड़ितजन",
+    "hindi": "आज़र्दगाँ",
+    "meaning": "Those who are hurt or afflicted.",
+    "example": "The azardgan sought relief after the storm.",
+    "synonyms": ["suffering people", "afflicted ones"],
+    "antonyms": ["healthy people", "safe ones"]
+  },
+  {
+    "word": "Azardgaan",
+    "urdu": "آزردگاں",
+    "sanskrit": "पीड़ितजन",
+    "hindi": "आज़र्दगाँ",
+    "meaning": "Alternate spelling of azardgan; the afflicted.",
+    "example": "Azardgaan were given medical assistance after the incident.",
+    "synonyms": ["suffering ones", "afflicted people"],
+    "antonyms": ["healthy ones", "safe people"]
+  },
+  {
+    "word": "Azardgi",
+    "urdu": "آزردگی",
+    "sanskrit": "पीड़ा",
+    "hindi": "आज़र्दगी",
+    "meaning": "Suffering or distress; the state of being hurt or troubled.",
+    "example": "She endured azardgi quietly, without complaint.",
+    "synonyms": ["pain", "suffering", "distress"],
+    "antonyms": ["comfort", "relief"]
+  },
+  {
+    "word": "Azardgiyan",
+    "urdu": "آزردگیاں",
+    "sanskrit": "पीड़ाएँ",
+    "hindi": "आज़र्दगियाँ",
+    "meaning": "Plural of azardgi; multiple instances of suffering.",
+    "example": "The villagers experienced many azardgiyan during the harsh winter.",
+    "synonyms": ["pains", "distresses", "sufferings"],
+    "antonyms": ["comforts", "joys"]
+  },
+  {
+    "word": "Azardgiyon",
+    "urdu": "آزردگیوں",
+    "sanskrit": "पीड़ाः",
+    "hindi": "आज़र्दगियों",
+    "meaning": "Another plural form of azardgi; instances of distress.",
+    "example": "Azardgiyon affected the people after the flood.",
+    "synonyms": ["sufferings", "troubles"],
+    "antonyms": ["reliefs", "comforts"]
+  },
+  {
+    "word": "Azardah",
+    "urdu": "آزردہ",
+    "sanskrit": "पीड़ित",
+    "hindi": "आज़र्दा",
+    "meaning": "Suffering, hurt, or distressed.",
+    "example": "He felt azardah after hearing the sad news.",
+    "synonyms": ["afflicted", "hurt", "troubled"],
+    "antonyms": ["happy", "comforted"]
+  },
+  {
+    "word": "Azram",
+    "urdu": "آزرم",
+    "sanskrit": "अज़राम",
+    "hindi": "आज़राम",
+    "meaning": "Proper noun or name; can refer to a person or place.",
+    "example": "Azram traveled across the country for his research.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Azramein",
+    "urdu": "آزرمیں",
+    "sanskrit": "अज़रामे",
+    "hindi": "आज़रामें",
+    "meaning": "Belonging to Azram; possessive form.",
+    "example": "The documents were found in Azramein's study.",
+    "synonyms": ["Azram's"],
+    "antonyms": []
+  },
+  {
+    "word": "Azri",
+    "urdu": "آزری",
+    "sanskrit": "अज़री",
+    "hindi": "आज़री",
+    "meaning": "Pertaining to Azar; also can denote nationality or language.",
+    "example": "Azri traditions were showcased at the festival.",
+    "synonyms": ["Azar-related", "Azeri"],
+    "antonyms": []
+  },
+  {
+    "word": "Azaf",
+    "urdu": "آزف",
+    "sanskrit": "अज़फ",
+    "hindi": "आज़फ़",
+    "meaning": "Proper noun or name; context-specific term.",
+    "example": "Azaf contributed to the literary magazine.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Azfa",
+    "urdu": "آزفہ",
+    "sanskrit": "अज़फ़ा",
+    "hindi": "आज़फ़ा",
+    "meaning": "Proper noun; could be a name or specific term in context.",
+    "example": "Azfa was mentioned in the historical record.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Azla",
+    "urdu": "آزلہ",
+    "sanskrit": "अज़ला",
+    "hindi": "आज़ला",
+    "meaning": "Proper noun or a rare term; context-specific.",
+    "example": "Azla visited the village during the festival.",
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Azma",
+    "urdu": "آزما",
+    "sanskrit": "परीक्षण",
+    "hindi": "आजमा",
+    "meaning": "To test or try.",
+    "example": "He decided to azma his skills in the competition.",
+    "synonyms": ["test", "try", "attempt"],
+    "antonyms": ["ignore", "neglect"]
+  },
+  {
+    "word": "Azmao",
+    "urdu": "آزماؤ",
+    "sanskrit": "परीक्षतु",
+    "hindi": "आजमाओ",
+    "meaning": "Imperative form of 'azma'; try or test.",
+    "example": "Azmao your strength before the final match.",
+    "synonyms": ["try", "test", "attempt"],
+    "antonyms": ["avoid", "neglect"]
+  },
+  {
+    "word": "Azmaon",
+    "urdu": "آزماؤں",
+    "sanskrit": "परीक्षायाः",
+    "hindi": "आजमाओं",
+    "meaning": "Plural imperative form; try or test (addressing multiple).",
+    "example": "Azmaon your skills to see who succeeds.",
+    "synonyms": ["test", "attempt"],
+    "antonyms": ["ignore", "skip"]
+  },
+  {
+    "word": "Azmaish",
+    "urdu": "آزمائش",
+    "sanskrit": "परीक्षा",
+    "hindi": "आजमाइश",
+    "meaning": "Trial, test, or challenge.",
+    "example": "Life is full of azmaish that teach us lessons.",
+    "synonyms": ["trial", "challenge", "test"],
+    "antonyms": ["ease", "comfort"]
+  },
+  {
+    "word": "Azmaisho",
+    "urdu": "آزمائشو",
+    "sanskrit": "परीक्षाः",
+    "hindi": "आजमाइशो",
+    "meaning": "Plural form of azmaish; multiple tests or trials.",
+    "example": "The students faced many azmaisho during exams.",
+    "synonyms": ["trials", "tests", "challenges"],
+    "antonyms": ["comforts", "reliefs"]
+  },
+  {
+    "word": "AzmaishoN",
+    "urdu": "آزمائشوں",
+    "sanskrit": "परीक्षाः",
+    "hindi": "आजमाइशों",
+    "meaning": "Another plural form of azmaish; instances of trial.",
+    "example": "They endured the azmaishoN bravely.",
+    "synonyms": ["trials", "tests", "challenges"],
+    "antonyms": ["ease", "comfort"]
+  },
+  {
+    "word": "Azmaishi",
+    "urdu": "آزمائشی",
+    "sanskrit": "परीक्षात्मक",
+    "hindi": "आजमाइशी",
+    "meaning": "Experimental, test-related, or trial-based.",
+    "example": "The azmaishi program was designed for beginners.",
+    "synonyms": ["experimental", "trial", "test-based"],
+    "antonyms": ["permanent", "fixed"]
+  },
+  {
+    "word": "Azmaishen",
+    "urdu": "آزمائشیں",
+    "sanskrit": "परीक्षाएँ",
+    "hindi": "आजमाइशें",
+    "meaning": "Plural of azmaish; tests or challenges.",
+    "example": "The warriors overcame many azmaishen.",
+    "synonyms": ["trials", "tests", "challenges"],
+    "antonyms": ["comforts", "pleasures"]
+  },
+  {
+    "word": "Azmai",
+    "urdu": "آزمائی",
+    "sanskrit": "परीक्षित",
+    "hindi": "आजमाई",
+    "meaning": "Tested or tried; one who has been through a trial.",
+    "example": "The azmai candidate performed excellently in the exam.",
+    "synonyms": ["tested", "experienced", "tried"],
+    "antonyms": ["untested", "inexperienced"]
+  },
+  {
+    "word": "Azmaishesh",
+    "urdu": "آزمائیش",
+    "sanskrit": "परीक्षा",
+    "hindi": "आजमाइश",
+    "meaning": "Another variant for trial or test.",
+    "example": "Every challenge was an azmaishesh for him.",
+    "synonyms": ["trial", "test", "challenge"],
+    "antonyms": ["comfort", "ease"]
+  },
+  {
+    "word": "Azmaiyo",
+    "urdu": "آزمائیو",
+    "sanskrit": "परीक्षितानाम्",
+    "hindi": "आजमायो",
+    "meaning": "Plural of azmai; those who have been tested or tried.",
+    "example": "Azmaiyo faced the final challenge with courage.",
+    "synonyms": ["tested people", "experienced ones"],
+    "antonyms": ["untested", "inexperienced"]
   }
 ]
